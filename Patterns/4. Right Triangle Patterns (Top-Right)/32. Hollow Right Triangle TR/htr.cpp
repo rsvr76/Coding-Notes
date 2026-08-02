@@ -6,13 +6,17 @@ int main(){
     cin>>n;
 
     for(int i=1; i<=n; i++){
-        //print spaces
+        // print spaces
         for(int j=1; j<=n-i; j++){
             cout<< "  ";
         }
-        //print stars
+        // print stars
         for(int j=1; j<=i;j++){
-            cout<<"* ";
+            if(i==n or j==1 or i==j){
+                cout<<"* ";
+            }else{
+                cout<<"  ";
+            }
         }
         cout << '\n';
     }
@@ -20,16 +24,15 @@ int main(){
 
 /* 
 
-There's also another approach which i used first to print this pattern.
-(i+j>=n+1) using if-else condition, we can solve it by both approaches.
-Since i solved mainly using if-else, this time i'll solve by for loops.
+Use (i+j>=n+1) logic for less code & easier understanding.
+I only used for loops to strengthen my knowledge in it. 
 
 Output
 
         * 
       * * 
-    * * * 
-  * * * * 
+    *   * 
+  *     * 
 * * * * * 
 
 */ 
