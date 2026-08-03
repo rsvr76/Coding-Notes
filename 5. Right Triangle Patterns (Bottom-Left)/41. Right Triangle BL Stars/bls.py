@@ -6,6 +6,9 @@ for i in range(1,n+1):
     print()
 
 '''
+
+Use (i+j<=n+1) for optimized code & for n matrix 
+
 Output:
 
 * * * * * 

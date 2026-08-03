@@ -14,6 +14,9 @@ int main(){
 }
 
 /*
+
+Use (i+j<=n+1) for optimized code & for n matrix 
+
 Output
 
 * * * * * 
