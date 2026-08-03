@@ -12,7 +12,7 @@ public class trdn{
                 System.out.print("  ");
             }
             // print stars
-            for(int j=i; j>0; j--){
+            for(int j=n; j>=n-i+1; j--){
                 System.out.print(j + " ");
             }
             System.out.println();
@@ -25,10 +25,10 @@ public class trdn{
 
 Output
 
-        1 
-      2 1 
-    3 2 1 
-  4 3 2 1 
-5 4 3 2 1  
+        5 
+      5 4 
+    5 4 3 
+  5 4 3 2 
+5 4 3 2 1   
 
 */

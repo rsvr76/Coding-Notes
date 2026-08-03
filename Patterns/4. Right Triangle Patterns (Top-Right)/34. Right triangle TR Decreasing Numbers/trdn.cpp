@@ -11,7 +11,7 @@ int main(){
             cout<< "  ";
         }
         // print stars
-        for(int j=i; j>0;j--){
+        for(int j=n; j>=n-i+1; j--){
             cout<<j<<" ";
         }
         cout << '\n';
@@ -22,10 +22,10 @@ int main(){
 
 Output
 
-        1 
-      2 1 
-    3 2 1 
-  4 3 2 1 
-5 4 3 2 1 
+        5 
+      5 4 
+    5 4 3 
+  5 4 3 2 
+5 4 3 2 1  
 
 */ 
