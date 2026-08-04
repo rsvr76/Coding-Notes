@@ -19,10 +19,10 @@ Use (i+j<=n+1) for optimized code & for n matrix
 
 Output
 
-* * * * * 
-* * * * 
-* * * 
-* * 
-*  
+5 4 3 2 1 
+5 4 3 2 
+5 4 3 
+5 4 
+5 
 
 */
