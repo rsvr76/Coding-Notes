@@ -1,5 +1,5 @@
 import java.util.*;
-public class blb{
+public class blrrn{
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 
@@ -8,7 +8,7 @@ public class blb{
 
         for(int i=1; i<=n; i++){
             for(int j=i; j<=n; j++){ // for(int j=1; j<=(n-i+1); j++)
-                System.out.print((j-i+1)%2+ " "); // write each iteration & you know why
+                System.out.print(i + " "); 
             }
             System.out.println();
         }
@@ -23,10 +23,10 @@ Use (i+j<=n+1) for optimized code & for n matrix
 
 Output
 
-1 0 1 0 1 
-1 0 1 0 
-1 0 1 
-1 0 
-1  
+1 1 1 1 1 
+2 2 2 2 
+3 3 3 
+4 4 
+5   
 
 */
