@@ -11,7 +11,7 @@ int main(){
             cout<< "  ";
         }
         // print stars
-        for(int j=1; j<=i;j++){
+        for(int j=1; j<=i; j++){
             if(i==n or j==1 or i==j){
                 cout<<"* ";
             }else{
