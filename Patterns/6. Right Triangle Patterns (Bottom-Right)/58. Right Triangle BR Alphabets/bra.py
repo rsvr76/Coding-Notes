@@ -6,7 +6,7 @@ for i in range(1,n+1):
         print(' ', end = ' ')
     # print stars
     for j in range(1,n-i+2):
-        print(2*j, end = " ")
+        print(chr(ord('A')+j-1), end = " ")
     print()
 
 '''
@@ -17,10 +17,10 @@ Since i solved mainly using if-else, this time i'll solve by for loops.
 
 Output:
 
-2 4 6 8 10 
-  2 4 6 8 
-    2 4 6 
-      2 4 
-        2 
+A B C D E 
+  A B C D 
+    A B C 
+      A B 
+        A 
 
 '''

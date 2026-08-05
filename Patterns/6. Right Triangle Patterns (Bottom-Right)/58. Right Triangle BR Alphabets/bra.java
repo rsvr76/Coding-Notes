@@ -1,5 +1,5 @@
 import java.util.*;
-public class bren{
+public class bra{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
@@ -13,7 +13,7 @@ public class bren{
             }
             // print stars
             for(int j=1; j<=n-i+1; j++){
-                System.out.print(2*j + " ");
+                System.out.print((char)('A'+j-1) + " ");
             }
             System.out.println();
         }
@@ -29,10 +29,10 @@ Since i solved mainly using if-else, this time i'll solve by for loops.
 
 Output
 
-2 4 6 8 10 
-  2 4 6 8 
-    2 4 6 
-      2 4 
-        2    
+A B C D E 
+  A B C D 
+    A B C 
+      A B 
+        A   
 
 */

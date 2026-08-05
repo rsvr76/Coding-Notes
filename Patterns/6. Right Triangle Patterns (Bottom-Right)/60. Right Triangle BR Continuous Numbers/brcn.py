@@ -1,12 +1,14 @@
 n = int(input("Enter a Number : "))
+num=1
 
 for i in range(1,n+1):
     # print spaces
     for j in range(1,i):
-        print(' ', end = ' ')
+        print(end='   ')
     # print stars
     for j in range(1,n-i+2):
-        print(2*j, end = " ")
+        print(f"{num:3}", end = "")
+        num+=1
     print()
 
 '''
@@ -17,10 +19,10 @@ Since i solved mainly using if-else, this time i'll solve by for loops.
 
 Output:
 
-2 4 6 8 10 
-  2 4 6 8 
-    2 4 6 
-      2 4 
-        2 
+  1  2  3  4  5
+     6  7  8  9
+       10 11 12
+          13 14
+             15
 
 '''

@@ -12,7 +12,7 @@ int main(){
         }
         // print stars
         for(int j=1; j<=n-i+1; j++){
-            cout<<2*j<<" ";
+            cout<<j%2<<" ";
         }
         cout << '\n';
     }
@@ -26,10 +26,10 @@ Since i solved mainly using if-else, this time i'll solve by for loops.
 
 Output
 
-2 4 6 8 10 
-  2 4 6 8 
-    2 4 6 
-      2 4 
-        2  
+1 0 1 0 1 
+  1 0 1 0 
+    1 0 1 
+      1 0 
+        1 
 
 */ 

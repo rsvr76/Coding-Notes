@@ -1,19 +1,22 @@
 import java.util.*;
-public class bren{
+public class brcn{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a Number : ");
         int n = sc.nextInt();
 
+        int num=1;
+
         for(int i=1; i<=n; i++){
             // print spaces
             for(int j=1; j<i; j++){
-                System.out.print("  ");
+                System.out.print("   ");
             }
             // print stars
             for(int j=1; j<=n-i+1; j++){
-                System.out.print(2*j + " ");
+                System.out.printf("%3d",num);
+                num++;
             }
             System.out.println();
         }
@@ -29,10 +32,10 @@ Since i solved mainly using if-else, this time i'll solve by for loops.
 
 Output
 
-2 4 6 8 10 
-  2 4 6 8 
-    2 4 6 
-      2 4 
-        2    
+  1  2  3  4  5
+     6  7  8  9
+       10 11 12
+          13 14
+             15 
 
 */
