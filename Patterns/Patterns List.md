@@ -9,7 +9,7 @@
 7. Square binary pattern
 8. Square alphabet pattern
 9. Square alternating stars and numbers
-10. Square border numbers
+10. Square continuous numbers
 
 ## Rectangle Patterns
 
@@ -21,7 +21,7 @@
 16. Rectangle even numbers
 17. Rectangle binary pattern
 18. Rectangle alphabet pattern
-19. Rectangle border numbers
+19. Rectangle Continuous Numbers
 20. Rectangle alternating symbols
 
 ## Right Triangle Patterns (Top-Left)
