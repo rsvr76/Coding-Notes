@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iomanip>
 using namespace std;
 int main(){
     int n;
@@ -9,15 +8,15 @@ int main(){
     for(int i=1; i<=n; i++){
         // print spaces
         for(int j=1; j<=i-1; j++){
-            cout<<"   ";
+            cout<<"  ";
         }
         // print first half
         for(int j=1; j<=n-i+1; j++){
-            cout<<setw(3)<<2*j;
+            cout<<j%2<<" ";
         }
         // print second half
         for(int j=n-i; j>=1; j--){
-            cout<<setw(3)<<2*j;
+            cout<<j%2<<" ";
         }
         cout<<'\n';
     }
@@ -27,10 +26,10 @@ int main(){
 /*
 Output
 
-  2  4  6  8 10  8  6  4  2
-     2  4  6  8  6  4  2
-        2  4  6  4  2
-           2  4  2
-              2  
+1 0 1 0 1 0 1 0 1 
+  1 0 1 0 1 0 1 
+    1 0 1 0 1 
+      1 0 1 
+        1  
 
 */

@@ -2,7 +2,7 @@
 #include <iomanip>
 using namespace std;
 int main(){
-    int n;
+    int n,num=1;
     cout<<"Enter a Number : ";
     cin>>n;
 
@@ -13,11 +13,13 @@ int main(){
         }
         // print first half
         for(int j=1; j<=n-i+1; j++){
-            cout<<setw(3)<<2*j;
+            cout<<setw(3)<<num;
+            num++;
         }
         // print second half
         for(int j=n-i; j>=1; j--){
-            cout<<setw(3)<<2*j;
+            cout<<setw(3)<<num;
+            num++;
         }
         cout<<'\n';
     }
@@ -27,10 +29,10 @@ int main(){
 /*
 Output
 
-  2  4  6  8 10  8  6  4  2
-     2  4  6  8  6  4  2
-        2  4  6  4  2
-           2  4  2
-              2  
+  1  2  3  4  5  6  7  8  9
+    10 11 12 13 14 15 16
+       17 18 19 20 21
+          22 23 24
+             25 
 
 */
