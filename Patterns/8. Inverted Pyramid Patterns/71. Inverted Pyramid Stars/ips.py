@@ -2,29 +2,29 @@ n = int(input("Enter a Number : "))
 
 for i in range(1,n+1):
     # print spaces
-    for j in range(1,n-i+1):
+    for j in range(1,i):
         print(end='  ')
     # print stars
-    for j in range(1,2*i):
-        print("*",end=" ")
+    for j in range(1,2*(n-i+1)):
+        print("*", end=' ')
     print()
 
 '''
 Output:
 
-        * 
-      * * * 
-    * * * * * 
-  * * * * * * * 
 * * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        * 
 
-Another Method (Matrix form) using if-else
+Another Method (Matrix form) using if-else:
 
 p = int(input("Enter a Number : "))
 
 for i in range(1,p+1):
     for j in range(1,2*p):
-        if(p-i+1 <= j <= p+i-1):
+        if(i <= j <= 2*p-i):
             print("*",end=" ")
         else:
             print(end='  ')
