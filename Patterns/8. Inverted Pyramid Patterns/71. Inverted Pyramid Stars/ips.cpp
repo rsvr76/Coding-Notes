@@ -27,7 +27,7 @@ Output
       * * * 
         * 
 
-Another Method (Matrix form) using if-else
+Another Method using if-else
 
     int p;
     cout<<"Enter a Number : ";

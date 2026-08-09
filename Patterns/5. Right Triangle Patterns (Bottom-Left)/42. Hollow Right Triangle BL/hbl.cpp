@@ -7,7 +7,7 @@ int main(){
 
     for(int i=1; i<=n; i++){
         for(int j=i; j<=n; j++){ // for(int j=1; j<=(n-i+1); j++) --> if(i==1 or j==1 or i+j==n+1)
-            if(i==1 or j==i or j==5){ // write each iteration & you know why
+            if(i==1 or j==i or j==n){ // write each iteration & you know why
                 cout<< "* ";
             }else{
                 cout<< "  ";
@@ -18,8 +18,7 @@ int main(){
 }
 
 /*
-
-Use (i+j<=n+1) for optimized code & for n matrix 
+ 
 
 Output
 

@@ -7,7 +7,7 @@ int main(){
 
     for(int i=1; i<=n; i++){
         for(int j=1; j<=n; j++){
-        if(i==1 or j==5 or i==j){
+        if(i==1 or j==n or i==j){
             cout<< "* ";
         }else{
             cout<< "  ";

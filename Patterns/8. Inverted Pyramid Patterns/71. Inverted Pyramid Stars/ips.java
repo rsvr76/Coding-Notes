@@ -30,7 +30,7 @@ Output
       * * * 
         *  
 
-Another Method (Matrix form) using if-else
+Another Method using if-else
 
     System.out.print("Enter a Number : ");
     int p = sc.nextInt();

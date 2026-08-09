@@ -102,7 +102,7 @@
 79. Inverted pyramid repeated row numbers
 80. Inverted pyramid continuous numbers
 
-## Diamond / Hourglass Patterns
+## Diamond Patterns
 
 81. Full diamond stars
 82. Hollow full diamond
@@ -114,6 +114,9 @@
 88. Full diamond alphabets
 89. Full diamond repeated row numbers
 90. Full diamond continuous numbers
+
+## Hourglass Patterns
+
 91. Hourglass stars
 92. Hollow hourglass
 93. Hourglass increasing numbers

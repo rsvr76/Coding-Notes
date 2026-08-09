@@ -18,7 +18,7 @@ Output:
       * * * 
         * 
 
-Another Method (Matrix form) using if-else:
+Another Method using if-else:
 
 p = int(input("Enter a Number : "))
 

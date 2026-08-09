@@ -7,7 +7,7 @@ int main(){
 
     for(int i=1; i<=n; i++){
         for(int j=1; j<=2*n-1; j++){
-            if(i+j==6 || j-i==4 || i==n){
+            if(i+j==n+1 || j-i==n-1 || i==n){
                 cout<<"* ";
             }else{
                 cout<<"  ";
