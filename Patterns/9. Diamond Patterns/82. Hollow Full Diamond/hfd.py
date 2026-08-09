@@ -8,6 +8,7 @@ for i in range(1,2*n):
             print(end='  ')
     print()
 
+
 '''
 Output:
 
@@ -21,5 +22,18 @@ Output:
       *   *       
         *          
 
+Another approach using an extra vaiable row
 
+  for i in range(1,2*n):
+  
+    row = min(i,2*n-i)
+
+    for j in range(1,2*n):
+      if(row+j==n+1 || j-row==n-1):
+        print("*",end=" ")
+      else:
+        print(end='  ')
+    print()
+
+        
 '''
