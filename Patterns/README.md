@@ -1,4 +1,4 @@
-# 100 Patterns — C++ | Java | Python
+# 100 Patterns - C++ | Java | Python
 
 A collection of **100 pattern-printing problems** implemented in **C++, Java, and Python**.
 
