@@ -1,10 +1,10 @@
-# Sort an Array of 0's, 1's and 2's
+ Sort an Array of 0's, 1's and 2's
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Given an array `arr` of size `N` containing only `0`s, `1`s, and `2`s, sort the array in non-decreasing order **in-place** without using any library's built-in sort function. 
+Given an array `arr` of size `N` containing only `0`s, `1`s, and `2`s, sort the array in non-decreasing order **in-place** without using any library's built-in sort function.
 
 This problem is commonly solved using the **Dutch National Flag Algorithm** (3-pointer approach: `low`, `mid`, `high`).
 
@@ -22,12 +22,14 @@ This problem is commonly solved using the **Dutch National Flag Algorithm** (3-p
 ### Example 1
 
 **Input**:
+
 ```text
 N = 6
 arr = [2, 0, 2, 1, 1, 0]
 ```
 
 **Output**:
+
 ```text
 [0, 0, 1, 1, 2, 2]
 ```
@@ -37,12 +39,14 @@ arr = [2, 0, 2, 1, 1, 0]
 ### Example 2
 
 **Input**:
+
 ```text
 N = 5
 arr = [2, 0, 1]
 ```
 
 **Output**:
+
 ```text
 [0, 1, 2]
 ```
@@ -61,4 +65,4 @@ arr = [2, 0, 1]
 
 ## Source
 
-[TakeUForward - Sort an array of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's)
+[TakeUForward - Sort an array of 0&#39;s 1&#39;s and 2&#39;s](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's)
