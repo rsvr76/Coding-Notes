@@ -51,4 +51,4 @@ Explanation: There is only one way to go from intersection 0 to intersection 1, 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+[LeetCode - Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)

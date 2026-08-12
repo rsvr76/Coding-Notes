@@ -8,4 +8,4 @@ Given `Connected Components`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Connected Components](https://takeuforward.org/plus/dsa/problems/connected-components)

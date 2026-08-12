@@ -8,4 +8,4 @@ Given `Rotate matrix by 90 degrees`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Rotate matrix by 90 degrees](https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees)

@@ -8,4 +8,4 @@ Given `Stock Buy and Sell`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Stock Buy and Sell](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock)

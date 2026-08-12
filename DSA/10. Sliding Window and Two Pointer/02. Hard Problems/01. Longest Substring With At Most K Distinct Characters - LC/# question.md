@@ -1,7 +1,5 @@
 # Longest Substring With At Most K Distinct Characters
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+[LeetCode - Longest Substring With At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)

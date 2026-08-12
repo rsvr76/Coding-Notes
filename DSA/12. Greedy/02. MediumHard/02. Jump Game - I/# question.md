@@ -8,4 +8,4 @@ Given `Jump Game - I`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Jump Game - I](https://takeuforward.org/plus/dsa/problems/jump-game---i)

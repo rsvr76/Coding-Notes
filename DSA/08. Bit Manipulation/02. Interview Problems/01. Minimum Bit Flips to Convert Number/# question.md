@@ -8,4 +8,4 @@ Given `Minimum Bit Flips to Convert Number`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum Bit Flips to Convert Number](https://takeuforward.org/plus/dsa/problems/minimum-bit-flips-to-convert-number)

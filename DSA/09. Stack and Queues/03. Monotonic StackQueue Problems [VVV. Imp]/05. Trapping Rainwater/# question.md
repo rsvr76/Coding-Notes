@@ -8,4 +8,4 @@ Given `Trapping Rainwater`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Trapping Rainwater](https://takeuforward.org/plus/dsa/problems/trapping-rainwater)

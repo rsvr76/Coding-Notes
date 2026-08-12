@@ -8,4 +8,4 @@ Given `Binary Subarrays With Sum`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Binary Subarrays With Sum](https://takeuforward.org/plus/dsa/problems/binary-subarrays-with-sum)

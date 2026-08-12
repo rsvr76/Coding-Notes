@@ -38,4 +38,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Aggressive Cows](https://takeuforward.org/plus/dsa/problems/aggressive-cows)

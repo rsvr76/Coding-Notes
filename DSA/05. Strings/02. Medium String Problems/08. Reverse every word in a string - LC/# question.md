@@ -41,4 +41,4 @@ Explanation: You need to reduce multiple spaces between two words to a single sp
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/reverse-words-in-a-string/
+[LeetCode - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)

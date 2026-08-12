@@ -38,4 +38,4 @@ Explanation: All 1s are either on the boundary or can reach the boundary.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-enclaves/
+[LeetCode - Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)

@@ -30,4 +30,4 @@ Explanation: Alice's hand can not be rearranged into groups of 4.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/hand-of-straights/
+[LeetCode - Hand of Straights](https://leetcode.com/problems/hand-of-straights/)

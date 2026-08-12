@@ -8,4 +8,4 @@ Given `Partition a set into two subsets with minimum absolute sum difference`, i
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Partition a set into two subsets with minimum absolute sum difference](https://takeuforward.org/plus/dsa/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference)

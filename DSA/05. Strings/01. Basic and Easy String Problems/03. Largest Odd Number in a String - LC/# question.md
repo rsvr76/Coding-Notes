@@ -40,4 +40,4 @@ Explanation: "35427" is already an odd number.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/largest-odd-number-in-string/
+[LeetCode - Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)

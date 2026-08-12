@@ -34,4 +34,4 @@ Output: "aaaaaaaa"
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/shortest-common-supersequence/
+[LeetCode - Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/)

@@ -8,4 +8,4 @@ Given `Introduction to Bits and Tricks`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Introduction to Bits and Tricks](https://takeuforward.org/plus/dsa/problems/introduction-to-bits-and-tricks)

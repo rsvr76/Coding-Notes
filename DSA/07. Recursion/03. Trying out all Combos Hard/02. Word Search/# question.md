@@ -8,4 +8,4 @@ Given `Word Search`, implement the required algorithm/data structure as specifie
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Word Search](https://takeuforward.org/plus/dsa/problems/word-search)

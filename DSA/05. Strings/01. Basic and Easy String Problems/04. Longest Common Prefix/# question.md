@@ -8,4 +8,4 @@ Given `Longest Common Prefix`, implement the required algorithm/data structure a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Common Prefix](https://takeuforward.org/plus/dsa/problems/longest-common-prefix)

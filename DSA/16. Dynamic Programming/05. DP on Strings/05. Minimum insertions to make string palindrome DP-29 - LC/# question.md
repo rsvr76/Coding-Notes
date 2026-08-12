@@ -42,4 +42,4 @@ Explanation: Inserting 5 characters the string becomes "leetcodocteel".
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+[LeetCode - Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)

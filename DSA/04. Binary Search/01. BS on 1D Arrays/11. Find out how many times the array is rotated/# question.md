@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find out how many times the array is rotated](https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated)

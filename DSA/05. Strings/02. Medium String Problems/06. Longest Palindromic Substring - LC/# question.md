@@ -29,4 +29,4 @@ Output: "bb"
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-palindromic-substring/
+[LeetCode - Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)

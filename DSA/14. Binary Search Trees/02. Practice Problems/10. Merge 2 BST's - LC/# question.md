@@ -52,4 +52,4 @@ bSTIterator.hasNext(); // return False
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/binary-search-tree-iterator/
+[LeetCode - Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)

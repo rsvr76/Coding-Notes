@@ -44,4 +44,4 @@ Output: [4,2,7,1,3,5]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+[LeetCode - Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)

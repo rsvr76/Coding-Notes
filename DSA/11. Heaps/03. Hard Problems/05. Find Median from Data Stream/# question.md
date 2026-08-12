@@ -8,4 +8,4 @@ Given `Find Median from Data Stream`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find Median from Data Stream](https://takeuforward.org/plus/dsa/problems/find-median-from-data-stream)

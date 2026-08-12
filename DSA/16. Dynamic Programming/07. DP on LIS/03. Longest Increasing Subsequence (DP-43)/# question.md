@@ -1,11 +1,11 @@
-# Longest Increasing Subsequence |(DP-43)
+# Longest Increasing Subsequence (DP-43)
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Longest Increasing Subsequence |(DP-43)`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given `Longest Increasing Subsequence (DP-43)`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Increasing Subsequence (DP-43)](https://takeuforward.org/plus/dsa/problems/longest-increasing-subsequence)

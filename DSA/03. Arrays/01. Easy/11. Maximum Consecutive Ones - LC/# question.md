@@ -29,4 +29,4 @@ Output: 2
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/max-consecutive-ones/
+[LeetCode - Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)

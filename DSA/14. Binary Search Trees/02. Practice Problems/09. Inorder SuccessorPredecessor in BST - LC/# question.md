@@ -1,6 +1,4 @@
-# Inorder Successor/Predecessor in BST
-
-**Difficulty**: Medium
+# Inorder SuccessorPredecessor in BST
 
 ## Problem Statement
 
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/inorder-successor-in-bst/
+[LeetCode - Inorder SuccessorPredecessor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)

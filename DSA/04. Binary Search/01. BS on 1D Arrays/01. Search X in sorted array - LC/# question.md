@@ -36,4 +36,4 @@ Explanation: 2 does not exist in nums so return -1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/binary-search/
+[LeetCode - Binary Search](https://leetcode.com/problems/binary-search/)

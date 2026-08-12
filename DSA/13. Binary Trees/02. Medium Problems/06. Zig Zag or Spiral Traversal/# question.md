@@ -8,4 +8,4 @@ Given `Zig Zag or Spiral Traversal`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Zig Zag or Spiral Traversal](https://takeuforward.org/plus/dsa/problems/zig-zag-or-spiral-traversal)

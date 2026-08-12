@@ -50,4 +50,4 @@ If we had started at the first tree, we would only pick from trees [1,2].
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/fruit-into-baskets/description/
+[LeetCode - Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)

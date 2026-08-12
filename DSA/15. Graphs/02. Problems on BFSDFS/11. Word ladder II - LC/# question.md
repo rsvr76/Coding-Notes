@@ -40,4 +40,4 @@ Explanation: The endWord "cog" is not in wordList, therefore there is no valid t
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/word-ladder-ii/
+[LeetCode - Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)

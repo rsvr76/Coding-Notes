@@ -8,4 +8,4 @@ Given `Count total nodes in a complete BT`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count total nodes in a complete BT](https://takeuforward.org/plus/dsa/problems/count-total-nodes-in-a-complete-bt)

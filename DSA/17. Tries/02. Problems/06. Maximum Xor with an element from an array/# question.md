@@ -8,4 +8,4 @@ Given `Maximum Xor with an element from an array`, implement the required algori
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum Xor with an element from an array](https://takeuforward.org/plus/dsa/problems/maximum-xor-with-an-element-from-an-array)

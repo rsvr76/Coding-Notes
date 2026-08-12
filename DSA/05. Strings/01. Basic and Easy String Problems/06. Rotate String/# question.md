@@ -8,4 +8,4 @@ Given `Rotate String`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Rotate String](https://takeuforward.org/plus/dsa/problems/rotate-string)

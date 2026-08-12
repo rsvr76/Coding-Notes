@@ -8,4 +8,4 @@ Given `Cycle Detection in Directed Graph (DFS)`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Cycle Detection in Directed Graph (DFS)](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph)

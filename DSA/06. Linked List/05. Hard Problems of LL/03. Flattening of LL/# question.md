@@ -8,4 +8,4 @@ Given `Flattening of LL`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Flattening of LL](https://takeuforward.org/plus/dsa/problems/flattening-of-ll)

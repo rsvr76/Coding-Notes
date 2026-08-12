@@ -8,4 +8,4 @@ Given `Find peak element`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find peak element](https://takeuforward.org/plus/dsa/problems/find-peak-element)

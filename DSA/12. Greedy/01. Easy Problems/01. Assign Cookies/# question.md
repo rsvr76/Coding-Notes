@@ -8,4 +8,4 @@ Given `Assign Cookies`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Assign Cookies](https://takeuforward.org/plus/dsa/problems/assign-cookies)

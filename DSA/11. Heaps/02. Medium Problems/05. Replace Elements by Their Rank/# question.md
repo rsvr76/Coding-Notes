@@ -8,4 +8,4 @@ Given `Replace Elements by Their Rank`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Replace Elements by Their Rank](https://takeuforward.org/plus/dsa/problems/replace-elements-by-their-rank)

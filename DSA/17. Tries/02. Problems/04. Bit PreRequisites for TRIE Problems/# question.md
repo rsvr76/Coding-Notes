@@ -8,4 +8,4 @@ Given `Bit PreRequisites for TRIE Problems`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Bit PreRequisites for TRIE Problems](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)

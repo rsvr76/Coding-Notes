@@ -8,4 +8,4 @@ Given `First and last occurrence`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - First and last occurrence](https://takeuforward.org/plus/dsa/problems/first-and-last-occurrence)

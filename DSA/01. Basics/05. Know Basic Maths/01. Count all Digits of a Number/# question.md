@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count all Digits of a Number](https://takeuforward.org/plus/dsa/problems/count-all-digits-of-a-number)

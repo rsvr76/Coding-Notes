@@ -8,4 +8,4 @@ Given `Kth smallest element in an array [use priority queue]`, implement the req
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Kth smallest element in an array [use priority queue]](https://takeuforward.org/plus/dsa/problems/kth-smallest-element-in-an-array)

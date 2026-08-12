@@ -8,4 +8,4 @@ Given `Construct the Binary Tree from Postorder and Inorder Traversal`, implemen
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Construct the Binary Tree from Postorder and Inorder Traversal](https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-postorder-and-inorder)

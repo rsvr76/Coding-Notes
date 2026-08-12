@@ -8,4 +8,4 @@ Given `Check if there exists a subsequence with sum K`, implement the required a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if there exists a subsequence with sum K](https://takeuforward.org/plus/dsa/problems/check-if-there-exists-a-subsequence-with-sum-k)

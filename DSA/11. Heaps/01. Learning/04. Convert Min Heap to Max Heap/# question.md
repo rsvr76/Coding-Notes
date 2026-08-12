@@ -8,4 +8,4 @@ Given `Convert Min Heap to Max Heap`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Convert Min Heap to Max Heap](https://takeuforward.org/plus/dsa/problems/convert-min-heap-to-max-heap)

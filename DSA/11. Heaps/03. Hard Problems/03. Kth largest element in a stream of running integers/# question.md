@@ -8,4 +8,4 @@ Given `Kth largest element in a stream of running integers`, implement the requi
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Kth largest element in a stream of running integers](https://takeuforward.org/plus/dsa/problems/kth-largest-element-in-a-stream-of-running-integers)

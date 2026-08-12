@@ -8,4 +8,4 @@ Given `Length of loop in LL`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Length of loop in LL](https://takeuforward.org/plus/dsa/problems/length-of-loop-in-ll)

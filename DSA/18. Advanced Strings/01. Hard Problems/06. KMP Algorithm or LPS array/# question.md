@@ -8,4 +8,4 @@ Given `KMP Algorithm or LPS array`, implement the required algorithm/data struct
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - KMP Algorithm or LPS array](https://takeuforward.org/plus/dsa/problems/kmp-algorithm-or-lps-array)

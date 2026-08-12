@@ -8,4 +8,4 @@ Given `Construct a BST from a preorder traversal`, implement the required algori
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Construct a BST from a preorder traversal](https://takeuforward.org/plus/dsa/problems/construct-a-bst-from-a-preorder-traversal)

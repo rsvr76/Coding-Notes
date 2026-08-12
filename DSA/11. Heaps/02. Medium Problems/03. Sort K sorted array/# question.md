@@ -8,4 +8,4 @@ Given `Sort K sorted array`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sort K sorted array](https://takeuforward.org/data-structure/sort-k-sorted-array)

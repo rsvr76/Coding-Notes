@@ -52,4 +52,4 @@ An input string is valid if:
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/valid-parentheses/
+[LeetCode - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)

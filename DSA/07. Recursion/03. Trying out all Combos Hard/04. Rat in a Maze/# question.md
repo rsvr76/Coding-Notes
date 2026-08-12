@@ -8,4 +8,4 @@ Given `Rat in a Maze`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze)

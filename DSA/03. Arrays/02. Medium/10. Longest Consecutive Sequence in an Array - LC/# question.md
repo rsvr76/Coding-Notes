@@ -38,4 +38,4 @@ Output: 3
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-consecutive-sequence/solution/
+[LeetCode - Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/)

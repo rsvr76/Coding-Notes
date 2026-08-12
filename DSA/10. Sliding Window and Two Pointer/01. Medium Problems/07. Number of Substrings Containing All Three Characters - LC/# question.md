@@ -39,4 +39,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+[LeetCode - Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)

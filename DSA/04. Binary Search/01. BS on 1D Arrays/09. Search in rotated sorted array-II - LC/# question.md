@@ -10,4 +10,4 @@ Before being passed to your function, `nums` is **rotated** at an unknown pivot 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+[LeetCode - Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)

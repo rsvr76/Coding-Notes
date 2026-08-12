@@ -52,4 +52,4 @@ myStack.empty(); // return False
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/implement-stack-using-queues/
+[LeetCode - Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)

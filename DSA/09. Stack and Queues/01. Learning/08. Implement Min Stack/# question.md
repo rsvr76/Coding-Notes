@@ -8,4 +8,4 @@ Given `Implement Min Stack`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Implement Min Stack](https://takeuforward.org/plus/dsa/problems/implement-min-stack)

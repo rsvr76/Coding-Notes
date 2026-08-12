@@ -52,4 +52,4 @@ medianFinder.findMedian(); // return 2.0
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/find-median-from-data-stream/
+[LeetCode - Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)

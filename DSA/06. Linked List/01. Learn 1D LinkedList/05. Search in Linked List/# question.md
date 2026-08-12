@@ -8,4 +8,4 @@ Given `Search in Linked List`, implement the required algorithm/data structure a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Search in Linked List](https://takeuforward.org/plus/dsa/problems/search-in-linked-list)

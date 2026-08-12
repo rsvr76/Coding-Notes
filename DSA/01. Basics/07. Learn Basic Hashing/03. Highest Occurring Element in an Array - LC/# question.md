@@ -47,4 +47,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+[LeetCode - Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)

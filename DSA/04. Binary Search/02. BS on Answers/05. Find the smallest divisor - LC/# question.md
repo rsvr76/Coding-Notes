@@ -36,4 +36,4 @@ Output: 44
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+[LeetCode - Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)

@@ -8,4 +8,4 @@ Given `Shortest common supersequence`, implement the required algorithm/data str
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Shortest common supersequence](https://takeuforward.org/plus/dsa/problems/shortest-common-supersequence)

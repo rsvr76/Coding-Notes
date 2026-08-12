@@ -45,4 +45,4 @@ Output: true
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/valid-parenthesis-string/
+[LeetCode - Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)

@@ -8,4 +8,4 @@ Given `Merge K sorted Lists`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Merge K sorted Lists](https://takeuforward.org/plus/dsa/problems/merge-k-sorted-lists)

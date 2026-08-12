@@ -33,4 +33,4 @@ Explanation: There is no common prefix among the input strings.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-common-prefix/
+[LeetCode - Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)

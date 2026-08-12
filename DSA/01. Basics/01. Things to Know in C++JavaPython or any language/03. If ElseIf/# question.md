@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - If ElseIf](https://takeuforward.org/plus/dsa/problems/if-elseif)

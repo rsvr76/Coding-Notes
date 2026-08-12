@@ -8,4 +8,4 @@ Given `Minimum Cost to Connect Sticks`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum Cost to Connect Sticks](https://takeuforward.org/plus/dsa/problems/minimum-cost-to-connect-sticks)

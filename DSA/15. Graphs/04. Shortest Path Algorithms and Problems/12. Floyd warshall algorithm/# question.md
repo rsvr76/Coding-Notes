@@ -8,4 +8,4 @@ Given `Floyd warshall algorithm`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Floyd warshall algorithm](https://takeuforward.org/plus/dsa/problems/floyd-warshall-algorithm)

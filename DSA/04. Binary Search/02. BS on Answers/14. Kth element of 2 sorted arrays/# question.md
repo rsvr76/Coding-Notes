@@ -8,4 +8,4 @@ Given `Kth element of 2 sorted arrays`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Kth element of 2 sorted arrays](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays)

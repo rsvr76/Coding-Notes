@@ -8,4 +8,4 @@ Given `Design Twitter`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Design Twitter](https://takeuforward.org/plus/dsa/problems/design-twitter)

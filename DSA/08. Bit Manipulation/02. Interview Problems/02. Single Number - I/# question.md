@@ -8,4 +8,4 @@ Given `Single Number - I`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Single Number - I](https://takeuforward.org/plus/dsa/problems/single-number---i)

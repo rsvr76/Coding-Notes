@@ -8,4 +8,4 @@ Given `Check if two trees are identical or not`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if two trees are identical or not](https://takeuforward.org/plus/dsa/problems/check-if-two-trees-are-identical-or-not)

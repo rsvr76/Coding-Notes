@@ -33,4 +33,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/diameter-of-binary-tree/
+[LeetCode - Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)

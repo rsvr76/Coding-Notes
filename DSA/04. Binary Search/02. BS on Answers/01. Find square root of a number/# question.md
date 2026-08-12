@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find square root of a number](https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number)

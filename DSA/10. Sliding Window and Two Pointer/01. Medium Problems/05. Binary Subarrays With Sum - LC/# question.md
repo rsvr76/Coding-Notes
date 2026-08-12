@@ -37,4 +37,4 @@ Output: 15
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/binary-subarrays-with-sum/
+[LeetCode - Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)

@@ -35,4 +35,4 @@ Output: 21
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/reverse-integer/
+[LeetCode - Reverse Integer](https://leetcode.com/problems/reverse-integer/)

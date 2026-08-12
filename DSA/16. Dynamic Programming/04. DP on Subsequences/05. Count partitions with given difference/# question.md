@@ -8,4 +8,4 @@ Given `Count partitions with given difference`, implement the required algorithm
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count partitions with given difference](https://takeuforward.org/plus/dsa/problems/count-partitions-with-given-difference)

@@ -8,4 +8,4 @@ Given `Insert Interval`, implement the required algorithm/data structure as spec
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Insert Interval](https://takeuforward.org/plus/dsa/problems/insert-interval)

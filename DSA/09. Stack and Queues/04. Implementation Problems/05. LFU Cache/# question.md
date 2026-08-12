@@ -8,4 +8,4 @@ Given `LFU Cache`, implement the required algorithm/data structure as specified 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - LFU Cache](https://takeuforward.org/plus/dsa/problems/lfu-cache)

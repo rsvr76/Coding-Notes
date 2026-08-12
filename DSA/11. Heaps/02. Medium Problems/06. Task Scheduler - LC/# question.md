@@ -48,4 +48,4 @@ There are only two types of tasks, A and B, which need to be separated by 3 inte
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/task-scheduler/
+[LeetCode - Task Scheduler](https://leetcode.com/problems/task-scheduler/)

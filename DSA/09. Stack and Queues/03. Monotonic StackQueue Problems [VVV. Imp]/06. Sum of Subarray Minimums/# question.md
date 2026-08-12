@@ -8,4 +8,4 @@ Given `Sum of Subarray Minimums`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sum of Subarray Minimums](https://takeuforward.org/plus/dsa/problems/sum-of-subarray-minimums)

@@ -8,4 +8,4 @@ Given `Implement stack using Linkedlist`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Implement stack using Linkedlist](https://takeuforward.org/plus/dsa/problems/implement-stack-using-linkedlist)

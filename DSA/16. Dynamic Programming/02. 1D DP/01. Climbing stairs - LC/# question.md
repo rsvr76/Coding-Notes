@@ -35,4 +35,4 @@ Explanation: There are three ways to climb to the top.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/climbing-stairs/
+[LeetCode - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)

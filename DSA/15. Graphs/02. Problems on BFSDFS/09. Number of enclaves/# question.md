@@ -8,4 +8,4 @@ Given `Number of enclaves`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of enclaves](https://takeuforward.org/plus/dsa/problems/number-of-enclaves)

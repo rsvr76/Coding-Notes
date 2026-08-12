@@ -8,4 +8,4 @@ Given `Shortest Distance in a Binary Maze`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Shortest Distance in a Binary Maze](https://takeuforward.org/plus/dsa/problems/shortest-path-with-minimum-effort)

@@ -36,4 +36,4 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/single-number/
+[LeetCode - Single Number](https://leetcode.com/problems/single-number/)

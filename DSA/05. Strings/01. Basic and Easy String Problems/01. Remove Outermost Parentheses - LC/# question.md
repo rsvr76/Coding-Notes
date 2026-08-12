@@ -54,4 +54,4 @@ After removing outer parentheses of each part, this is "" + "" = "".
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/remove-outermost-parentheses/
+[LeetCode - Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)

@@ -8,4 +8,4 @@ Given `Sliding Window Maximum`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sliding Window Maximum](https://takeuforward.org/plus/dsa/problems/sliding-window-maximum)

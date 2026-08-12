@@ -8,4 +8,4 @@ Given `Longest palindromic subsequence`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest palindromic subsequence](https://takeuforward.org/plus/dsa/problems/longest-palindromic-subsequence)

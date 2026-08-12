@@ -8,4 +8,4 @@ Given `Prim's Algorithm`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Prim's Algorithm](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight)

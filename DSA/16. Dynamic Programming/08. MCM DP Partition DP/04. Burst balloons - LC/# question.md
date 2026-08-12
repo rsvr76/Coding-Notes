@@ -37,4 +37,4 @@ Output: 10
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/burst-balloons/
+[LeetCode - Burst Balloons](https://leetcode.com/problems/burst-balloons/)

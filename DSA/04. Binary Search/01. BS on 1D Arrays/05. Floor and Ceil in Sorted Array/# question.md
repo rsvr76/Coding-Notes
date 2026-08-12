@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Floor and Ceil in Sorted Array](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array)

@@ -8,4 +8,4 @@ Given `Count all subsequences with sum K`, implement the required algorithm/data
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count all subsequences with sum K](https://takeuforward.org/plus/dsa/problems/count-all-subsequences-with-sum-k)

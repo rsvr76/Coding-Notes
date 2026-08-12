@@ -8,4 +8,4 @@ Given `Maximum Sum Combination`, implement the required algorithm/data structure
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum Sum Combination](https://takeuforward.org/plus/dsa/problems/maximum-sum-combination)

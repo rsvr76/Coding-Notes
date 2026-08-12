@@ -8,4 +8,4 @@ Given `Cheapest flight within K stops`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Cheapest flight within K stops](https://takeuforward.org/plus/dsa/problems/cheapest-flight-within-k-stops)

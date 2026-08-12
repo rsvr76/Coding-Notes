@@ -8,4 +8,4 @@ Given `Largest Divisible Subset`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Largest Divisible Subset](https://takeuforward.org/plus/dsa/problems/largest-divisible-subset)

@@ -8,4 +8,4 @@ Given `Largest Odd Number in a String`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Largest Odd Number in a String](https://takeuforward.org/plus/dsa/problems/largest-odd-number-in-a-string)

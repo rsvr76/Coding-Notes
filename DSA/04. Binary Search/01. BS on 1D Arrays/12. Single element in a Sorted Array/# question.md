@@ -8,4 +8,4 @@ Given `Single element in a Sorted Array`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Single element in a Sorted Array](https://takeuforward.org/plus/dsa/problems/single-element-in-sorted-array)

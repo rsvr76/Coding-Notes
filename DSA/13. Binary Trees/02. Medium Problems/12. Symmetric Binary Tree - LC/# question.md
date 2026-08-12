@@ -30,4 +30,4 @@ Output: false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/symmetric-tree/
+[LeetCode - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)

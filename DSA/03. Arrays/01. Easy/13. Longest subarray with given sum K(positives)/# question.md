@@ -38,4 +38,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest subarray with given sum K(positives)](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k)

@@ -8,4 +8,4 @@ Given `Power Set`, implement the required algorithm/data structure as specified 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Power Set](https://takeuforward.org/plus/dsa/problems/power-set)

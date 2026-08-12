@@ -8,4 +8,4 @@ Given `Delete a node in BST`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Delete a node in BST](https://takeuforward.org/plus/dsa/problems/delete-a-node-in-bst)

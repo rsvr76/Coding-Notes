@@ -49,4 +49,4 @@ Output: [1,5,1]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/next-permutation/
+[LeetCode - Next Permutation](https://leetcode.com/problems/next-permutation/)

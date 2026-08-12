@@ -8,4 +8,4 @@ Given `Partition equal subset sum`, implement the required algorithm/data struct
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Partition equal subset sum](https://takeuforward.org/plus/dsa/problems/partition-equal-subset-sum)

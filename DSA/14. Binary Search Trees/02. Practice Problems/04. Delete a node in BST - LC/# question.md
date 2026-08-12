@@ -53,4 +53,4 @@ Output: []
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/delete-node-in-a-bst/
+[LeetCode - Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)

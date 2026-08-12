@@ -26,4 +26,4 @@ Output: ["()"]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/generate-parentheses/
+[LeetCode - Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)

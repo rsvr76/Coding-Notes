@@ -8,4 +8,4 @@ Given `Find the starting point in LL`, implement the required algorithm/data str
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find the starting point in LL](https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll)

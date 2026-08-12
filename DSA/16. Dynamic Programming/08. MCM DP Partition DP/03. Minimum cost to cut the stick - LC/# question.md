@@ -46,4 +46,4 @@ There are much ordering with total cost <= 25, for example, the order [4, 6, 5, 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+[LeetCode - Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)

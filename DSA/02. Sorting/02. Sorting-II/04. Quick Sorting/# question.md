@@ -8,4 +8,4 @@ Given `Quick Sorting`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Quick Sorting](https://takeuforward.org/plus/dsa/problems/quick-sorting)

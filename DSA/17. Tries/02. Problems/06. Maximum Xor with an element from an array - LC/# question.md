@@ -38,4 +38,4 @@ Output: [15,-1,5]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
+[LeetCode - Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)

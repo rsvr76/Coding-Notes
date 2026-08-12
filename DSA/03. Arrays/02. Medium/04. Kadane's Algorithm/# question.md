@@ -8,4 +8,4 @@ Given `Kadane's Algorithm`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Kadane's Algorithm](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm)

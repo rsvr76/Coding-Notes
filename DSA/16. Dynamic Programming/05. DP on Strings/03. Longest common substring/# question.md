@@ -8,4 +8,4 @@ Given `Longest common substring`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest common substring](https://takeuforward.org/plus/dsa/problems/longest-common-substring)

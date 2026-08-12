@@ -32,4 +32,4 @@ Output: 2
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/subarray-sum-equals-k/
+[LeetCode - Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)

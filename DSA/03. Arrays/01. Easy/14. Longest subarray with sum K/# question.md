@@ -38,4 +38,4 @@ Space: O(N) hashing
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k)

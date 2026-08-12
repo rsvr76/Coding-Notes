@@ -8,4 +8,4 @@ Given `Next Smaller Element`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Next Smaller Element](https://takeuforward.org/plus/dsa/problems/next-smaller-element)

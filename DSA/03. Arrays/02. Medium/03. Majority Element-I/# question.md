@@ -8,4 +8,4 @@ Given `Majority Element-I`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Majority Element-I](https://takeuforward.org/plus/dsa/problems/majority-element-i)

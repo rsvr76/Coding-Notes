@@ -8,4 +8,4 @@ Given `Reverse a number`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse a number](https://takeuforward.org/plus/dsa/problems/reverse-a-number)

@@ -8,4 +8,4 @@ Given `Count Number of Substrings`, implement the required algorithm/data struct
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count Number of Substrings](https://takeuforward.org/data-structure/count-number-of-substrings)

@@ -8,4 +8,4 @@ Given `Insert node before head in Doubly Linked List`, implement the required al
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Insert node before head in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/insert-node-before-head-in-dll)

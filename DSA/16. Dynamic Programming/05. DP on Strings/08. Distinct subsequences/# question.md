@@ -8,4 +8,4 @@ Given `Distinct subsequences`, implement the required algorithm/data structure a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Distinct subsequences](https://takeuforward.org/plus/dsa/problems/distinct-subsequences)

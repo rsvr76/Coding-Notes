@@ -34,4 +34,4 @@ Output: [2,3,6,7,1,5,4]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/odd-even-linked-list/
+[LeetCode - Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)

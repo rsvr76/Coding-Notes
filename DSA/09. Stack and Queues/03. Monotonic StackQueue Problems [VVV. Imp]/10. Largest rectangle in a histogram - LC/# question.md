@@ -30,4 +30,4 @@ Output: 4
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/largest-rectangle-in-histogram/
+[LeetCode - Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)

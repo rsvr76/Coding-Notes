@@ -8,4 +8,4 @@ Given `Swim in Rising Water`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Swim in Rising Water](https://takeuforward.org/plus/dsa/problems/swim-in-rising-water)

@@ -8,4 +8,4 @@ Given `Palindrome partitioning`, implement the required algorithm/data structure
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Palindrome partitioning](https://takeuforward.org/plus/dsa/problems/palindrome-partitioning)

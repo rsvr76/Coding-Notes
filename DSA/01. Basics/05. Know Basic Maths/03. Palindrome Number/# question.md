@@ -8,4 +8,4 @@ Given `Palindrome Number`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Palindrome Number](https://takeuforward.org/plus/dsa/problems/palindrome-number)

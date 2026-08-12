@@ -47,4 +47,4 @@ Output: -1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/network-delay-time/
+[LeetCode - Network Delay Time](https://leetcode.com/problems/network-delay-time/)

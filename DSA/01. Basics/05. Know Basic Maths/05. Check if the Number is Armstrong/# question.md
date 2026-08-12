@@ -8,4 +8,4 @@ Given `Check if the Number is Armstrong`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if the Number is Armstrong](https://takeuforward.org/plus/dsa/problems/check-if-the-number-if-armstrong)

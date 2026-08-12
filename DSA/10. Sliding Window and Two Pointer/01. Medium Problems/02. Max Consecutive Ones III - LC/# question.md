@@ -34,4 +34,4 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/max-consecutive-ones-iii/
+[LeetCode - Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)

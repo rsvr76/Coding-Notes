@@ -8,4 +8,4 @@ Given `Search X in sorted array`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Search X in sorted array](https://takeuforward.org/plus/dsa/problems/search-x-in-sorted-array)

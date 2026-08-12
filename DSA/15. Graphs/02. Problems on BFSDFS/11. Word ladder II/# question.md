@@ -8,4 +8,4 @@ Given `Word ladder II`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Word ladder II](https://takeuforward.org/plus/dsa/problems/word-ladder-ii)

@@ -8,4 +8,4 @@ Given `Program for Least Recently Used (LRU) Page Replacement Algorithm`, implem
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Program for Least Recently Used (LRU) Page Replacement Algorithm](https://takeuforward.org/plus/dsa/problems/lru-cache)

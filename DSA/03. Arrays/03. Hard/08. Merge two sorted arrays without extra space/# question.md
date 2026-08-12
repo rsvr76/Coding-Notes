@@ -8,4 +8,4 @@ Given `Merge two sorted arrays without extra space`, implement the required algo
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Merge two sorted arrays without extra space](https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space)

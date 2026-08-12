@@ -8,4 +8,4 @@ Given `Counting Frequencies of Array Elements`, implement the required algorithm
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Counting Frequencies of Array Elements](https://takeuforward.org/plus/dsa/problems/counting-frequencies-of-array-elements)

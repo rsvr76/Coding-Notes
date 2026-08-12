@@ -8,4 +8,4 @@ Given `Pattern 1`, implement the required algorithm/data structure as specified 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Pattern 1](https://takeuforward.org/plus/dsa/problems/pattern-1)

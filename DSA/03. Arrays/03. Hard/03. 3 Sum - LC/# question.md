@@ -45,4 +45,4 @@ Explanation: The only possible triplet sums up to 0.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/3sum/
+[LeetCode - 3Sum](https://leetcode.com/problems/3sum/)

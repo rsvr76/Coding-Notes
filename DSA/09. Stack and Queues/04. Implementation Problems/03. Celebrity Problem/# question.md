@@ -8,4 +8,4 @@ Given `Celebrity Problem`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Celebrity Problem](https://takeuforward.org/plus/dsa/problems/celebrity-problem)

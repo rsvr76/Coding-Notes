@@ -34,4 +34,4 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/house-robber/
+[LeetCode - House Robber](https://leetcode.com/problems/house-robber/)

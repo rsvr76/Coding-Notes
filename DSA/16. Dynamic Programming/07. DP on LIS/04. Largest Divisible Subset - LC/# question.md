@@ -37,4 +37,4 @@ Output: [1,2,4,8]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/largest-divisible-subset/
+[LeetCode - Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)

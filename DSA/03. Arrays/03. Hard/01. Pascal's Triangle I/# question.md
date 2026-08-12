@@ -8,4 +8,4 @@ Given `Pascal's Triangle I`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Pascal's Triangle I](https://takeuforward.org/plus/dsa/problems/pascals-triangle-i)

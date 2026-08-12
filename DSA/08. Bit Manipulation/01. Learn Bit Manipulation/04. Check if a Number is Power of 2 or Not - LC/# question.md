@@ -39,4 +39,4 @@ Output: false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/power-of-two/
+[LeetCode - Power of Two](https://leetcode.com/problems/power-of-two/)

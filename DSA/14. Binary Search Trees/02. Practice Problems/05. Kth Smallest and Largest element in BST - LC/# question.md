@@ -32,4 +32,4 @@ Output: 3
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+[LeetCode - Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)

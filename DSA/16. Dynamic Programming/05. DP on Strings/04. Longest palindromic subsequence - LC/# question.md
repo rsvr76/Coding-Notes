@@ -32,4 +32,4 @@ Explanation: One possible longest palindromic subsequence is "bb".
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-palindromic-subsequence/
+[LeetCode - Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)

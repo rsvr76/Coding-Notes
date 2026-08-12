@@ -8,4 +8,4 @@ Given `Top K Frequent Elements`, implement the required algorithm/data structure
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Top K Frequent Elements](https://takeuforward.org/plus/dsa/problems/top-k-frequent-elements)

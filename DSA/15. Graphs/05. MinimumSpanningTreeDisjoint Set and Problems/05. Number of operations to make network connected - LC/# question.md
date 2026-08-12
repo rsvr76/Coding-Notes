@@ -51,4 +51,4 @@ Explanation: There are not enough cables.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+[LeetCode - Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)

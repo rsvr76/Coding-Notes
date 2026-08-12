@@ -8,4 +8,4 @@ Given `Unique paths II`, implement the required algorithm/data structure as spec
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Unique paths II](https://takeuforward.org/plus/dsa/problems/unique-paths-ii)

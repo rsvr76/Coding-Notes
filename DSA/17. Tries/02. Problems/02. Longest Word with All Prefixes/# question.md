@@ -8,4 +8,4 @@ Given `Longest Word with All Prefixes`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Word with All Prefixes](https://takeuforward.org/plus/dsa/problems/longest-word-with-all-prefixes)

@@ -50,4 +50,4 @@ Output: [0]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/course-schedule-ii/
+[LeetCode - Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)

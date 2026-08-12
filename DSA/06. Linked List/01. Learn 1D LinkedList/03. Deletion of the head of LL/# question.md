@@ -8,4 +8,4 @@ Given `Deletion of the head of LL`, implement the required algorithm/data struct
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Deletion of the head of LL](https://takeuforward.org/plus/dsa/problems/deletion-of-the-head-of-ll)

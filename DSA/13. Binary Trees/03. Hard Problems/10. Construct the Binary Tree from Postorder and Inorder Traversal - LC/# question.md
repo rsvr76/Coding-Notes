@@ -38,4 +38,4 @@ Output: [-1]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+[LeetCode - Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)

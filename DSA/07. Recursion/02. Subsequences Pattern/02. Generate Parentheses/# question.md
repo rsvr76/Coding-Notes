@@ -8,4 +8,4 @@ Given `Generate Parentheses`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Generate Parentheses](https://takeuforward.org/plus/dsa/problems/generate-parentheses)

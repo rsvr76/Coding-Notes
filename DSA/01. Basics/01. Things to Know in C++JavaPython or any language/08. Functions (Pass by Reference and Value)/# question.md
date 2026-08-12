@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Functions (Pass by Reference and Value)](https://takeuforward.org/plus/dsa/problems/pass-by-ref)

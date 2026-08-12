@@ -8,4 +8,4 @@ Given `Bipartite Graph (DFS)`, implement the required algorithm/data structure a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Bipartite Graph (DFS)](https://takeuforward.org/plus/dsa/problems/bipartite-graph)

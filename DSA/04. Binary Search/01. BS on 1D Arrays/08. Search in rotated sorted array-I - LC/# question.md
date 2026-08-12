@@ -47,4 +47,4 @@ Output: -1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[LeetCode - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)

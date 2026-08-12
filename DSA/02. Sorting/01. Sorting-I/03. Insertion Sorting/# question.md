@@ -8,4 +8,4 @@ Given `Insertion Sorting`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Insertion Sorting](https://takeuforward.org/plus/dsa/problems/insertion-sorting)

@@ -8,4 +8,4 @@ Given `Different Ways to Evaluate a Boolean Expression`, implement the required 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Different Ways to Evaluate a Boolean Expression](https://takeuforward.org/plus/dsa/problems/different-ways-to-evaluate-a-boolean-expression)

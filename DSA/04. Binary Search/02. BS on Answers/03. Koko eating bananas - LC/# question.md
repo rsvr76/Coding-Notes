@@ -43,4 +43,4 @@ Output: 23
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/koko-eating-bananas/
+[LeetCode - Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)

@@ -8,4 +8,4 @@ Given `Subarrays with K Different Integers`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Subarrays with K Different Integers](https://takeuforward.org/plus/dsa/problems/subarrays-with-k-different-integers)

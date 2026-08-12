@@ -35,4 +35,4 @@ Output: [["Ethan","Ethan0@m.co","Ethan4@m.co","Ethan5@m.co"],["Gabe","Gabe0@m.co
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/accounts-merge/
+[LeetCode - Accounts Merge](https://leetcode.com/problems/accounts-merge/)

@@ -8,4 +8,4 @@ Given `Number of islands`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of islands](https://takeuforward.org/plus/dsa/problems/number-of-islands)

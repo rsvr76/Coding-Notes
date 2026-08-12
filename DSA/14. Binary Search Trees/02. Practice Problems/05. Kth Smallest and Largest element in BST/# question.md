@@ -8,4 +8,4 @@ Given `Kth Smallest and Largest element in BST`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Kth Smallest and Largest element in BST](https://takeuforward.org/plus/dsa/problems/kth-smallest-and-largest-element-in-bst)

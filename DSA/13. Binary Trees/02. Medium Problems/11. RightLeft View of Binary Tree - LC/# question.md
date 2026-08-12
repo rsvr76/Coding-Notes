@@ -42,4 +42,4 @@ Given the `root` of a binary tree, imagine yourself standing on the **right side
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/binary-tree-right-side-view/
+[LeetCode - Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)

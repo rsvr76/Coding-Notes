@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find missing number](https://takeuforward.org/plus/dsa/problems/find-missing-number)

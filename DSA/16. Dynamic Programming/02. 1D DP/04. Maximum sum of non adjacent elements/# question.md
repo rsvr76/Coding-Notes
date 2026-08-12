@@ -8,4 +8,4 @@ Given `Maximum sum of non adjacent elements`, implement the required algorithm/d
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum sum of non adjacent elements](https://takeuforward.org/plus/dsa/problems/maximum-sum-of-non-adjacent-elements)

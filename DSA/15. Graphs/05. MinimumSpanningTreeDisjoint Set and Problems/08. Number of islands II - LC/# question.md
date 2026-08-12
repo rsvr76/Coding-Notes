@@ -1,7 +1,5 @@
 # Number of islands II
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-islands-ii/
+[LeetCode - Number of islands II](https://leetcode.com/problems/number-of-islands-ii/)

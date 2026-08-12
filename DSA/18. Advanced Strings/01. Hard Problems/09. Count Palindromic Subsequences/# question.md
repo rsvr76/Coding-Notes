@@ -8,4 +8,4 @@ Given `Count Palindromic Subsequences`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count Palindromic Subsequences](https://takeuforward.org/plus/dsa/problems/count-palindromic-subsequences)

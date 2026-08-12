@@ -42,4 +42,4 @@ Output: -10
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/triangle/
+[LeetCode - Triangle](https://leetcode.com/problems/triangle/)

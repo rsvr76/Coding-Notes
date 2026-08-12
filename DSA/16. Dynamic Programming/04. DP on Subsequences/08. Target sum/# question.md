@@ -8,4 +8,4 @@ Given `Target sum`, implement the required algorithm/data structure as specified
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Target sum](https://takeuforward.org/plus/dsa/problems/target-sum)

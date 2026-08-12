@@ -32,4 +32,4 @@ Explanation: You will always arrive at index 3 no matter what. Its maximum jump 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/jump-game/
+[LeetCode - Jump Game](https://leetcode.com/problems/jump-game/)

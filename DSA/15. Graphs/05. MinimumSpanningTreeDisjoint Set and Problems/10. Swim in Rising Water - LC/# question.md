@@ -47,4 +47,4 @@ We need to wait until time 16 so that (0, 0) and (4, 4) are connected.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/swim-in-rising-water/
+[LeetCode - Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)

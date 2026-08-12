@@ -36,4 +36,4 @@ Explanation: Subarrays formed with exactly 3 different integers: [1,2,1,3], [2,1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/subarrays-with-k-different-integers/
+[LeetCode - Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)

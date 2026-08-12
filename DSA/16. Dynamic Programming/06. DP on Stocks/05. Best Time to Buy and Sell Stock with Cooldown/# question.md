@@ -8,4 +8,4 @@ Given `Best Time to Buy and Sell Stock with Cooldown`, implement the required al
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Best Time to Buy and Sell Stock with Cooldown](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock-with-cooldown)

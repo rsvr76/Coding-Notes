@@ -38,4 +38,4 @@ Output: [0,1]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/two-sum/
+[LeetCode - Two Sum](https://leetcode.com/problems/two-sum/)

@@ -37,4 +37,4 @@ Output: [1,2]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/majority-element-ii/
+[LeetCode - Majority Element II](https://leetcode.com/problems/majority-element-ii/)

@@ -8,4 +8,4 @@ Given `Maximum Rectangles`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum Rectangles](https://takeuforward.org/plus/dsa/problems/maximum-rectangles)

@@ -28,4 +28,4 @@ Output: [[1]]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/pascals-triangle/
+[LeetCode - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)

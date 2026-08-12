@@ -8,4 +8,4 @@ Given `Divisors of a Number`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Divisors of a Number](https://takeuforward.org/plus/dsa/problems/divisors-of-a-number)

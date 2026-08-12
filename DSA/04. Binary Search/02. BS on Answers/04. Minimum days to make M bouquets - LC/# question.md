@@ -59,4 +59,4 @@ It is obvious that we can make two bouquets in different ways.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+[LeetCode - Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)

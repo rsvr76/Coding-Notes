@@ -8,4 +8,4 @@ Given `Sum of Beauty of All Substrings`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sum of Beauty of All Substrings](https://takeuforward.org/plus/dsa/problems/sum-of-beauty-of-all-substrings)

@@ -8,4 +8,4 @@ Given `Matrix chain multiplication`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Matrix chain multiplication](https://takeuforward.org/plus/dsa/problems/matrix-chain-multiplication)

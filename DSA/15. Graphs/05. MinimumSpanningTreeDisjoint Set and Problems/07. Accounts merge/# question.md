@@ -8,4 +8,4 @@ Given `Accounts merge`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Accounts merge](https://takeuforward.org/plus/dsa/problems/accounts-merge)

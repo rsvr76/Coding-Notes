@@ -8,4 +8,4 @@ Given `Minimum time taken to burn the BT from a given Node`, implement the requi
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum time taken to burn the BT from a given Node](https://takeuforward.org/plus/dsa/problems/minimum-time-taken-to-burn-the-bt-from-a-given-node)

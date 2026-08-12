@@ -8,4 +8,4 @@ Given `Print name N times using recursion`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Print name N times using recursion](https://takeuforward.org/recursion/print-name-n-times-using-recursion/)

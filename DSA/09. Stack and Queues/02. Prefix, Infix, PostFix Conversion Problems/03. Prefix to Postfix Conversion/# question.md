@@ -8,4 +8,4 @@ Given `Prefix to Postfix Conversion`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Prefix to Postfix Conversion](https://takeuforward.org/plus/dsa/problems/prefix-to-postfix-conversion)

@@ -8,4 +8,4 @@ Given `Sort a Linked List of 0's 1's and 2's`, implement the required algorithm/
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sort a Linked List of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-a-ll-of-0's-1's-and-2's)

@@ -40,4 +40,4 @@ Explanation: Intervals [1,4] and [4,7] are considered overlapping.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/merge-intervals/
+[LeetCode - Merge Intervals](https://leetcode.com/problems/merge-intervals/)

@@ -52,4 +52,4 @@ twitter.getNewsFeed(1);  // User 1's news feed should return a list with 1 tweet
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/design-twitter/
+[LeetCode - Design Twitter](https://leetcode.com/problems/design-twitter/)

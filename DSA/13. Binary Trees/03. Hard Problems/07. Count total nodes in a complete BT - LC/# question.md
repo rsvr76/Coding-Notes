@@ -41,4 +41,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/count-complete-tree-nodes/
+[LeetCode - Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)

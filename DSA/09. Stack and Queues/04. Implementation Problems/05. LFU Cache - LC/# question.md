@@ -57,4 +57,4 @@ lfu.get(4);      // return 4
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/lfu-cache/
+[LeetCode - LFU Cache](https://leetcode.com/problems/lfu-cache/)

@@ -8,4 +8,4 @@ Given `Find the MST weight`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find the MST weight](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight)

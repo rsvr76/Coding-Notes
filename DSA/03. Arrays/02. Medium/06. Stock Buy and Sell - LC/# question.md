@@ -35,4 +35,4 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[LeetCode - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

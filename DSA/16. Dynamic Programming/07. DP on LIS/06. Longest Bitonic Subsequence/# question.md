@@ -8,4 +8,4 @@ Given `Longest Bitonic Subsequence`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Bitonic Subsequence](https://takeuforward.org/plus/dsa/problems/longest-bitonic-subsequence)

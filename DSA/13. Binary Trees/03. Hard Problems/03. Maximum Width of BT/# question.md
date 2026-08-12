@@ -8,4 +8,4 @@ Given `Maximum Width of BT`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum Width of BT](https://takeuforward.org/plus/dsa/problems/maximum-width-of-bt)

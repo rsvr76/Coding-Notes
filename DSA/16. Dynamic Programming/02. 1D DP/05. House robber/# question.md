@@ -8,4 +8,4 @@ Given `House robber`, implement the required algorithm/data structure as specifi
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - House robber](https://takeuforward.org/plus/dsa/problems/house-robber)

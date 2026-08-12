@@ -41,4 +41,4 @@ The third child gets 1 candy because it satisfies the above two conditions.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/candy/
+[LeetCode - Candy](https://leetcode.com/problems/candy/)

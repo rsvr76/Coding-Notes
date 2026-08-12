@@ -8,4 +8,4 @@ Given `Merge Overlapping Subintervals`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Merge Overlapping Subintervals](https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals)

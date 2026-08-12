@@ -1,7 +1,5 @@
 # Celebrity Problem
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/
+[LeetCode - Celebrity Problem](https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/)

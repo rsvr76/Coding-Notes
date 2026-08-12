@@ -32,4 +32,4 @@ Output: []
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+[LeetCode - Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)

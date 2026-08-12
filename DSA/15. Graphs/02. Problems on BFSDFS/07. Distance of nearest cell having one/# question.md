@@ -8,4 +8,4 @@ Given `Distance of nearest cell having one`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Distance of nearest cell having one](https://takeuforward.org/plus/dsa/problems/distance-of-nearest-cell-having-one)

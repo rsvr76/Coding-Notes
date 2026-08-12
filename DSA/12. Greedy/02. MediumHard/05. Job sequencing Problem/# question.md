@@ -8,4 +8,4 @@ Given `Job sequencing Problem`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Job sequencing Problem](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem)

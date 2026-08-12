@@ -38,4 +38,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Book Allocation Problem](https://takeuforward.org/plus/dsa/problems/book-allocation-problem)

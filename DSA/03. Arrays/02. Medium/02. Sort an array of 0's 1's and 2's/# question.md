@@ -1,26 +1,64 @@
+# Sort an Array of 0's, 1's and 2's
 
-Given an array `nums` with `n` objects colored red, white, or blue, sort them **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm) **so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+**Difficulty**: Medium
 
-We will use the integers `0`, `1`, and `2` to represent the color red, white, and blue, respectively.
+## Problem Statement
 
-You must solve this problem without using the library's sort function.
+Given an array `arr` of size `N` containing only `0`s, `1`s, and `2`s, sort the array in non-decreasing order **in-place** without using any library's built-in sort function. 
 
-**Example 1:**
+This problem is commonly solved using the **Dutch National Flag Algorithm** (3-pointer approach: `low`, `mid`, `high`).
 
-<pre><strong>Input:</strong> nums = [2,0,2,1,1,0]
-<strong>Output:</strong> [0,0,1,1,2,2]
-</pre>
+## Input
 
-**Example 2:**
+- An integer `N` representing the size of the array.
+- An array `arr` of `N` integers containing only values `0`, `1`, or `2`.
 
-<pre><strong>Input:</strong> nums = [2,0,1]
-<strong>Output:</strong> [0,1,2]
-</pre>
+## Output
 
-**Constraints:**
+- Sort the array `arr` in-place so that all `0`s come first, followed by all `1`s, and then all `2`s.
 
-* `n == nums.length`
-* `1 <= n <= 300`
-* `nums[i]` is either `0`, `1`, or `2`.
+## Examples
 
-**Follow up:** Could you come up with a one-pass algorithm using only constant extra space?
+### Example 1
+
+**Input**:
+```text
+N = 6
+arr = [2, 0, 2, 1, 1, 0]
+```
+
+**Output**:
+```text
+[0, 0, 1, 1, 2, 2]
+```
+
+**Explanation**: After sorting, all zeros are at the beginning, followed by ones, and then twos.
+
+### Example 2
+
+**Input**:
+```text
+N = 5
+arr = [2, 0, 1]
+```
+
+**Output**:
+```text
+[0, 1, 2]
+```
+
+**Explanation**: Sorted array in ascending order.
+
+## Constraints
+
+- `1 <= N <= 10^5`
+- `arr[i]` is either `0`, `1`, or `2`.
+
+## Expected Complexity
+
+- **Time**: `O(N)` (Single pass using Dutch National Flag algorithm)
+- **Space**: `O(1)` (In-place sorting)
+
+## Source
+
+[TakeUForward - Sort an array of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's)

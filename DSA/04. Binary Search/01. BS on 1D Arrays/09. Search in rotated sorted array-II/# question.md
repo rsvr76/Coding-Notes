@@ -8,4 +8,4 @@ Given `Search in rotated sorted array-II`, implement the required algorithm/data
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Search in rotated sorted array-II](https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-2)

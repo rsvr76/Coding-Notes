@@ -51,4 +51,4 @@ Explanation: Since there are already no fresh oranges at minute 0, the answer is
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/rotting-oranges/
+[LeetCode - Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)

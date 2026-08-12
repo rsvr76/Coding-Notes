@@ -8,4 +8,4 @@ Given `Rearrange array elements by sign`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Rearrange array elements by sign](https://takeuforward.org/plus/dsa/problems/rearrange-array-elements-by-sign)

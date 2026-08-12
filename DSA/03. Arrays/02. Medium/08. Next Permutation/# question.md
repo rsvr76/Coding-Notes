@@ -8,4 +8,4 @@ Given `Next Permutation`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Next Permutation](https://takeuforward.org/plus/dsa/problems/next-permutation)

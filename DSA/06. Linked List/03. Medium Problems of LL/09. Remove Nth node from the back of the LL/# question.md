@@ -8,4 +8,4 @@ Given `Remove Nth node from the back of the LL`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Remove Nth node from the back of the LL](https://takeuforward.org/plus/dsa/problems/remove-nth-node-from-the-back-of-the-ll)

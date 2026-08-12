@@ -8,4 +8,4 @@ Given `Basic Hashing`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Basic Hashing](https://takeuforward.org/plus/dsa/problems/basic-hashing)

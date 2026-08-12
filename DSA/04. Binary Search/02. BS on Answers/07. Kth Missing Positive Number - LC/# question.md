@@ -40,4 +40,4 @@ Could you solve this problem in less than O(n) complexity?
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.
+[LeetCode - Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.)

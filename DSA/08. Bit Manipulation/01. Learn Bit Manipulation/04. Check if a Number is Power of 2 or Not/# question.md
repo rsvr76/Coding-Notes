@@ -8,4 +8,4 @@ Given `Check if a Number is Power of 2 or Not`, implement the required algorithm
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if a Number is Power of 2 or Not](https://takeuforward.org/plus/dsa/problems/check-if-a-number-is-power-of-2-or-not)

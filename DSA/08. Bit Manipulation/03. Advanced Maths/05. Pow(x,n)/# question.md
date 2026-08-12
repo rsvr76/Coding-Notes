@@ -8,4 +8,4 @@ Given `Pow(x,n)`, implement the required algorithm/data structure as specified i
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Pow(x,n)](https://takeuforward.org/plus/dsa/problems/pow(x,n))

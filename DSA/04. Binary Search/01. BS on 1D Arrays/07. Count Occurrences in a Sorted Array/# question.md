@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count Occurrences in a Sorted Array](https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array)

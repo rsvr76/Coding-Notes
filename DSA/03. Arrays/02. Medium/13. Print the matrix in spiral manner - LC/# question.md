@@ -32,4 +32,4 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/spiral-matrix/
+[LeetCode - Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)

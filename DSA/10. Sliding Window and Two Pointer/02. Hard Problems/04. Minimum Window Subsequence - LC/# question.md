@@ -1,7 +1,5 @@
 # Minimum Window Subsequence
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimum-window-subsequence/
+[LeetCode - Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)

@@ -30,4 +30,4 @@ Output: ["a","b","c"]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[LeetCode - Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)

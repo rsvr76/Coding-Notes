@@ -8,4 +8,4 @@ Given `Middle of a LinkedList [TortoiseHare Method]`, implement the required alg
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Middle of a LinkedList [TortoiseHare Method]](https://takeuforward.org/plus/dsa/problems/find-middle-of-linked-list)

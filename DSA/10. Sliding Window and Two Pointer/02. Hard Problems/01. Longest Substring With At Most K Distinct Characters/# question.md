@@ -8,4 +8,4 @@ Given `Longest Substring With At Most K Distinct Characters`, implement the requ
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Substring With At Most K Distinct Characters](https://takeuforward.org/plus/dsa/problems/longest-substring-with-at-most-k-distinct-characters)

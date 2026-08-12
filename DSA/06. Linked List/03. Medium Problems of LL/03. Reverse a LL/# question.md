@@ -8,4 +8,4 @@ Given `Reverse a LL`, implement the required algorithm/data structure as specifi
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse a LL](https://takeuforward.org/plus/dsa/problems/reverse-a-ll)

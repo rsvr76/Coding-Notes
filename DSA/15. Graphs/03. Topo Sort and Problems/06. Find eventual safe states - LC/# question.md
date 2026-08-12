@@ -47,4 +47,4 @@ Only node 4 is a terminal node, and every path starting at node 4 leads to node 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/find-eventual-safe-states/
+[LeetCode - Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)

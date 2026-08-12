@@ -40,4 +40,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/partition-array-for-maximum-sum/
+[LeetCode - Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)

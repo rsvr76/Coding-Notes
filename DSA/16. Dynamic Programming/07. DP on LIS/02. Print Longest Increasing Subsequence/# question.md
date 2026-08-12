@@ -8,4 +8,4 @@ Given `Print Longest Increasing Subsequence`, implement the required algorithm/d
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Print Longest Increasing Subsequence](https://takeuforward.org/plus/dsa/problems/print-longest-increasing-subsequence)

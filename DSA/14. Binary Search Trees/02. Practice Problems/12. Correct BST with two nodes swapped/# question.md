@@ -8,4 +8,4 @@ Given `Correct BST with two nodes swapped`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Correct BST with two nodes swapped](https://takeuforward.org/plus/dsa/problems/correct-bst-with-two-nodes-swapped)

@@ -8,4 +8,4 @@ Given `String to Integer (atoi)`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - String to Integer (atoi)](https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi)

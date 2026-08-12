@@ -49,4 +49,4 @@ Total number of squares = 6 + 1 = 7.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+[LeetCode - Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)

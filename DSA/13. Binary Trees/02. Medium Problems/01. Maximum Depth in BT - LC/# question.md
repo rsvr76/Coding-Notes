@@ -30,4 +30,4 @@ Output: 2
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[LeetCode - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

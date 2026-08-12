@@ -34,4 +34,4 @@ You need to output 2.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/assign-cookies/
+[LeetCode - Assign Cookies](https://leetcode.com/problems/assign-cookies/)

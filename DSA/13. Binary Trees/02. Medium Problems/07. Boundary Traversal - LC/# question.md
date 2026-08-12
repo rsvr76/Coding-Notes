@@ -1,7 +1,5 @@
 # Boundary Traversal
 
-**Difficulty**: Medium
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/boundary-of-binary-tree/
+[LeetCode - Boundary Traversal](https://leetcode.com/problems/boundary-of-binary-tree/)

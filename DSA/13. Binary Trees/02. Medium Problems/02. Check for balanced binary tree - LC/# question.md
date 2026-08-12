@@ -35,4 +35,4 @@ Output: true
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/balanced-binary-tree/
+[LeetCode - Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)

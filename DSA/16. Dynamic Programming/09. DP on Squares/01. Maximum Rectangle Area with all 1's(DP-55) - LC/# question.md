@@ -40,4 +40,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximal-rectangle/
+[LeetCode - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)

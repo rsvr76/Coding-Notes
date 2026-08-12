@@ -8,4 +8,4 @@ Given `Check for balanced binary tree`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check for balanced binary tree](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree)

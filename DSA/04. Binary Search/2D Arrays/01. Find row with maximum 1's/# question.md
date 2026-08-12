@@ -1,20 +1,11 @@
+# Find row with maximum 1's
 
-Given a non-empty grid mat consisting of only 0s and 1s, where all the rows are sorted in ascending order, find the **index** of the row with the **maximum number** of ones.
+**Difficulty**: Easy
 
-If two rows have the same number of ones, consider the one with a smaller index. If **no 1 exists** in the matrix, return -1.
+## Problem Statement
 
-Example 1
+Given `Find row with maximum 1's`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
 
-Input : mat = [ [1, 1, 1], [0, 0, 1], [0, 0, 0] ]
+## Source
 
-Output: 0
-
-Explanation: The row with the maximum number of ones is 0 (0 - indexed).
-
-Example 2
-
-Input: mat = [ [0, 0], [0, 0] ]
-
-Output: -1
-
-Explanation: The matrix does not contain any 1. So, -1 is the answer.
+[TakeUForward - Find row with maximum 1's](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's)

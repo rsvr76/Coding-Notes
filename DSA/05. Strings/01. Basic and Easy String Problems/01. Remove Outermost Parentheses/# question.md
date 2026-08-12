@@ -8,4 +8,4 @@ Given `Remove Outermost Parentheses`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Remove Outermost Parentheses](https://takeuforward.org/plus/dsa/problems/remove-outermost-parentheses)

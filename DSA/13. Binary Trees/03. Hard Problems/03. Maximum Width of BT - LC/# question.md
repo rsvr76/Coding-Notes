@@ -44,4 +44,4 @@ Explanation: The maximum width exists in the second level with length 2 (3,2).
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-width-of-binary-tree/
+[LeetCode - Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)

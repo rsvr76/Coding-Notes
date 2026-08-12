@@ -8,4 +8,4 @@ Given `Search in 2D matrix - II`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Search in 2D matrix - II](https://takeuforward.org/plus/dsa/problems/search-in-2d-matrix-ii)

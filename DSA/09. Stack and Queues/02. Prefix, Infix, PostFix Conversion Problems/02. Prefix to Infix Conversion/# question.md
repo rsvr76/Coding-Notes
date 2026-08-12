@@ -8,4 +8,4 @@ Given `Prefix to Infix Conversion`, implement the required algorithm/data struct
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Prefix to Infix Conversion](https://takeuforward.org/plus/dsa/problems/prefix-to-infix-conversion)

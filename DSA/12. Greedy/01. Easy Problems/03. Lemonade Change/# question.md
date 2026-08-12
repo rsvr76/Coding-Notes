@@ -8,4 +8,4 @@ Given `Lemonade Change`, implement the required algorithm/data structure as spec
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Lemonade Change](https://takeuforward.org/plus/dsa/problems/lemonade-change)

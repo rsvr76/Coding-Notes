@@ -38,4 +38,4 @@ The best way is to split it into [1,2,3] and [4,5], where the largest sum among 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/split-array-largest-sum/
+[LeetCode - Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)

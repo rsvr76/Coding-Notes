@@ -38,4 +38,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find Nth root of a number](https://takeuforward.org/plus/dsa/problems/find-nth-root-of-a-number)

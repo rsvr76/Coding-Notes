@@ -8,4 +8,4 @@ Given `Check if a tree is a BST or not`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if a tree is a BST or not](https://takeuforward.org/plus/dsa/problems/check-if-a-tree-is-a-bst-or-not)

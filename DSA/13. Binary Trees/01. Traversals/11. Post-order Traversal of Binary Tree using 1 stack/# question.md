@@ -8,4 +8,4 @@ Given `Post-order Traversal of Binary Tree using 1 stack`, implement the require
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Post-order Traversal of Binary Tree using 1 stack](https://takeuforward.org/plus/dsa/problems/postorder-traversal)

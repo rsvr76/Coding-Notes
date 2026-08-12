@@ -8,4 +8,4 @@ Given `Print Prime Factors of a Number`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Print Prime Factors of a Number](https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number)

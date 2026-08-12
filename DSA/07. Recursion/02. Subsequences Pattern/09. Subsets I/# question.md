@@ -8,4 +8,4 @@ Given `Subsets I`, implement the required algorithm/data structure as specified 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Subsets I](https://takeuforward.org/plus/dsa/problems/subsets-i)

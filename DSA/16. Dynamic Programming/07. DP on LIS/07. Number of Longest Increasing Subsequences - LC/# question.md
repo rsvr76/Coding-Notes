@@ -34,4 +34,4 @@ Explanation: The length of the longest increasing subsequence is 1, and there ar
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+[LeetCode - Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)

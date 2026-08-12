@@ -8,4 +8,4 @@ Given `Shortest Job First`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Shortest Job First](https://takeuforward.org/plus/dsa/problems/shortest-job-first)

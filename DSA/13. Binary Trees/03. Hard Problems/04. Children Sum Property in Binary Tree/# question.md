@@ -8,4 +8,4 @@ Given `Children Sum Property in Binary Tree`, implement the required algorithm/d
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Children Sum Property in Binary Tree](https://takeuforward.org/plus/dsa/problems/children-sum-property-in-binary-tree)

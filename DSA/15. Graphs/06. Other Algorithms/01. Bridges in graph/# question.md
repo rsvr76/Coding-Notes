@@ -8,4 +8,4 @@ Given `Bridges in graph`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Bridges in graph](https://takeuforward.org/plus/dsa/problems/bridges-in-graph)

@@ -8,4 +8,4 @@ Given `Non-overlapping Intervals`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Non-overlapping Intervals](https://takeuforward.org/plus/dsa/problems/non-overlapping-intervals)

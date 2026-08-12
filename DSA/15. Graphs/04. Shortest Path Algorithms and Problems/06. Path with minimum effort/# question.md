@@ -8,4 +8,4 @@ Given `Path with minimum effort`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Path with minimum effort](https://takeuforward.org/plus/dsa/problems/path-with-minimum-effort)

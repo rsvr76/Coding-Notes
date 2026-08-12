@@ -8,4 +8,4 @@ Given `Longest String Chain`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest String Chain](https://takeuforward.org/plus/dsa/problems/longest-string-chain)

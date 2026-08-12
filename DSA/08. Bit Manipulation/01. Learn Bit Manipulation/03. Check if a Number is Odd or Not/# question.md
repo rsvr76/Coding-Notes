@@ -8,4 +8,4 @@ Given `Check if a Number is Odd or Not`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if a Number is Odd or Not](https://takeuforward.org/plus/dsa/problems/check-if-a-number-is-odd-or-not)

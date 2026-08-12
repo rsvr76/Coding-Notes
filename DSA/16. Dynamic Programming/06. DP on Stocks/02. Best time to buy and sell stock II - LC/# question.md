@@ -45,4 +45,4 @@ Explanation: There is no way to make a positive profit, so we never buy the stoc
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[LeetCode - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)

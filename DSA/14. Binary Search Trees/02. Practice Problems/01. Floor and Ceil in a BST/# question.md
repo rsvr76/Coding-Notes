@@ -8,4 +8,4 @@ Given `Floor and Ceil in a BST`, implement the required algorithm/data structure
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Floor and Ceil in a BST](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst)

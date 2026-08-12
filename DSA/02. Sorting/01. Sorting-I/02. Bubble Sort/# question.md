@@ -8,4 +8,4 @@ Given `Bubble Sort`, implement the required algorithm/data structure as specifie
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Bubble Sort](https://takeuforward.org/plus/dsa/problems/bubble-sort)

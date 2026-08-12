@@ -8,4 +8,4 @@ Given `Floor in a Binary Search Tree`, implement the required algorithm/data str
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Floor in a Binary Search Tree](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst)

@@ -8,4 +8,4 @@ Given `Longest Increasing Subsequence`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Increasing Subsequence](https://takeuforward.org/plus/dsa/problems/longest-increasing-subsequence)

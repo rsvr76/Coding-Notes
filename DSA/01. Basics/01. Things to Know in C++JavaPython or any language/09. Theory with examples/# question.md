@@ -36,4 +36,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Theory with examples](https://takeuforward.org/plus/dsa/problems/theory-with-examples)

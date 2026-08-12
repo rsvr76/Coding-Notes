@@ -8,4 +8,4 @@ Given `Check if the i-th bit is Set or Not`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if the i-th bit is Set or Not](https://takeuforward.org/plus/dsa/problems/check-if-the-i-th-bit-is-set-or-not)

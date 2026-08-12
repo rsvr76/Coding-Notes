@@ -8,4 +8,4 @@ Given `Minimum cost to cut the stick`, implement the required algorithm/data str
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum cost to cut the stick](https://takeuforward.org/plus/dsa/problems/minimum-cost-to-cut-the-stick)

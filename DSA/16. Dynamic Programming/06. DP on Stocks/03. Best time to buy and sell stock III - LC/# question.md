@@ -44,4 +44,4 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+[LeetCode - Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)

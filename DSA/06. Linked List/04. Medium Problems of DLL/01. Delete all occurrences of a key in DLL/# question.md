@@ -8,4 +8,4 @@ Given `Delete all occurrences of a key in DLL`, implement the required algorithm
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Delete all occurrences of a key in DLL](https://takeuforward.org/plus/dsa/problems/delete-all-occurrences-of-a-key-in-dll)

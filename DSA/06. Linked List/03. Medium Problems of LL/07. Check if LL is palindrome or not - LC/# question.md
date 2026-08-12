@@ -30,4 +30,4 @@ Output: false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/palindrome-linked-list/
+[LeetCode - Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)

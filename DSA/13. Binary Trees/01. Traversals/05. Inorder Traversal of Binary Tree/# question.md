@@ -8,4 +8,4 @@ Given `Inorder Traversal of Binary Tree`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Inorder Traversal of Binary Tree](https://takeuforward.org/plus/dsa/problems/inorder-traversal)

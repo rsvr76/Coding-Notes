@@ -1,22 +1,40 @@
+# Find Second Largest Element in Array
 
-Given an array of integers  **nums** , return the second-largest element in the array. If the second-largest element does not exist, return -1.
+## Problem Statement
 
-Example 1
+Given an array of `N` integers, find the second largest element without sorting. If it doesn't exist, return `-1`.
 
- **Input** : nums = [8, 8, 7, 6, 5]
+## Input
 
- **Output** : 7
+An array `arr` of `N` integers.
 
- **Explanation** :
+## Output
 
-The largest value in nums is 8, the second largest is 7
+The second largest element.
 
-Example 2
+## Examples
 
- **Input** : nums = [10, 10, 10, 10, 10]
+### Example 1
 
- **Output** : -1
+**Input**:
+```
+arr = [1, 2, 4, 7, 7, 5]
+```
+**Output**:
+```
+5
+```
+**Explanation**: Largest is 7, second largest distinct element is 5.
 
- **Explanation** :
+## Constraints
 
-The only value in nums is 10, so there is no second largest value, thus -1 is returned
+- 1 <= N <= 10^5
+
+## Expected Complexity
+
+Time: O(N)
+Space: O(1)
+
+## Source
+
+[TakeUForward - Second Largest Element](https://takeuforward.org/plus/dsa/problems/second-largest-element)

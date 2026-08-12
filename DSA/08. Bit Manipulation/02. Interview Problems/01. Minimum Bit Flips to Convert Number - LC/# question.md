@@ -40,4 +40,4 @@ It can be shown we cannot convert 3 to 4 in less than 3 steps. Hence, we return 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+[LeetCode - Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)

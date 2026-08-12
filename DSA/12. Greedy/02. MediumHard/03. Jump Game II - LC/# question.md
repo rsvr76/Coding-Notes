@@ -39,4 +39,4 @@ Output: 2
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/jump-game-ii/
+[LeetCode - Jump Game II](https://leetcode.com/problems/jump-game-ii/)

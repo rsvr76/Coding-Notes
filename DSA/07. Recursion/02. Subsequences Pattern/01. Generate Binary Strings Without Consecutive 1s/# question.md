@@ -8,4 +8,4 @@ Given `Generate Binary Strings Without Consecutive 1s`, implement the required a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Generate Binary Strings Without Consecutive 1s](https://takeuforward.org/plus/dsa/problems/generate-binary-strings-without-consecutive-1s)

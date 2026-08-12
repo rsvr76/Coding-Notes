@@ -52,4 +52,4 @@ Explanation: The asteroid -6 makes the asteroid 3 and 5 explode, and then contin
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/asteroid-collision/
+[LeetCode - Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)

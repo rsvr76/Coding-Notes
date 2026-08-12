@@ -8,4 +8,4 @@ Given `Climbing stairs`, implement the required algorithm/data structure as spec
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Climbing stairs](https://takeuforward.org/plus/dsa/problems/climbing-stairs)

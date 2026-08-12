@@ -8,4 +8,4 @@ Given `Find eventual safe states`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find eventual safe states](https://takeuforward.org/plus/dsa/problems/find-eventual-safe-states)

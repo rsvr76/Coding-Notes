@@ -38,4 +38,4 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/palindrome-number/
+[LeetCode - Palindrome Number](https://leetcode.com/problems/palindrome-number/)

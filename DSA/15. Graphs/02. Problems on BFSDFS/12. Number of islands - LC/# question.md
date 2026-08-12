@@ -44,4 +44,4 @@ Output: 3
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-islands/
+[LeetCode - Number of Islands](https://leetcode.com/problems/number-of-islands/)

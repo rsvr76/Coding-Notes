@@ -34,4 +34,4 @@ Output: 0
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/count-primes/
+[LeetCode - Count Primes](https://leetcode.com/problems/count-primes/)

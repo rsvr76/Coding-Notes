@@ -44,4 +44,4 @@ Explanation: Both 30 and 32 are peak elements so [1,1] and [2,2] are both accept
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/find-a-peak-element-ii/
+[LeetCode - Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)

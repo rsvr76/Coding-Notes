@@ -8,4 +8,4 @@ Given `Set Matrix Zeroes`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Set Matrix Zeroes](https://takeuforward.org/plus/dsa/problems/set-matrix-zeroes)

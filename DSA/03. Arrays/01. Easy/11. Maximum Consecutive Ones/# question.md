@@ -8,4 +8,4 @@ Given `Maximum Consecutive Ones`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum Consecutive Ones](https://takeuforward.org/plus/dsa/problems/maximum-consecutive-ones)

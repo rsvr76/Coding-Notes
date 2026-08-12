@@ -36,4 +36,4 @@ Explanation: Buy on day 2 (price = 2) and sell on day 3 (price = 6), profit = 6-
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+[LeetCode - Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)

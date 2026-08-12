@@ -8,4 +8,4 @@ Given `K-th Largest element in an array`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - K-th Largest element in an array](https://takeuforward.org/plus/dsa/problems/k-th-largest-element-in-an-array)

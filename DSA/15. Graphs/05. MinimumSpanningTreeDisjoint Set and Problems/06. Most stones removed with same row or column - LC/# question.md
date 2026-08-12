@@ -54,4 +54,4 @@ Explanation: [0,0] is the only stone on the plane, so you cannot remove it.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+[LeetCode - Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)

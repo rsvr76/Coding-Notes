@@ -56,4 +56,4 @@ Explanation: You are given the third node with value 1, the linked list should b
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/delete-node-in-a-linked-list/
+[LeetCode - Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)

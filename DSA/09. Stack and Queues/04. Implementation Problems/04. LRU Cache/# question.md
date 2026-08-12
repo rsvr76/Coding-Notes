@@ -8,4 +8,4 @@ Given `LRU Cache`, implement the required algorithm/data structure as specified 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - LRU Cache](https://takeuforward.org/plus/dsa/problems/lru-cache)

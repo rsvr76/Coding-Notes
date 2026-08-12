@@ -8,4 +8,4 @@ Given `Task Scheduler`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Task Scheduler](https://takeuforward.org/plus/dsa/problems/task-scheduler)

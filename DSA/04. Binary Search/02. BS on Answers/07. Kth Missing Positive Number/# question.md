@@ -8,4 +8,4 @@ Given `Kth Missing Positive Number`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Kth Missing Positive Number](https://takeuforward.org/plus/dsa/problems/kth-missing-positive-number)

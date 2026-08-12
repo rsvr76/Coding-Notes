@@ -8,4 +8,4 @@ Given `Print the matrix in spiral manner`, implement the required algorithm/data
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Print the matrix in spiral manner](https://takeuforward.org/plus/dsa/problems/print-the-matrix-in-spiral-manner)

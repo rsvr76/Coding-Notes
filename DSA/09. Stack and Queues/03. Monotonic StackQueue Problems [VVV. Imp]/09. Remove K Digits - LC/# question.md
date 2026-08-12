@@ -40,4 +40,4 @@ Explanation: Remove all the digits from the number and it is left with nothing w
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/remove-k-digits/
+[LeetCode - Remove K Digits](https://leetcode.com/problems/remove-k-digits/)

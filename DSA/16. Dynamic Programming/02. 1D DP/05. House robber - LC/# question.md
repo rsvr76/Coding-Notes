@@ -40,4 +40,4 @@ Output: 3
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/house-robber-ii/
+[LeetCode - House Robber II](https://leetcode.com/problems/house-robber-ii/)

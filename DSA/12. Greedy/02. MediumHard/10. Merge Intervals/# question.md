@@ -8,4 +8,4 @@ Given `Merge Intervals`, implement the required algorithm/data structure as spec
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Merge Intervals](https://takeuforward.org/plus/dsa/problems/merge-intervals)

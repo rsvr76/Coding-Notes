@@ -44,4 +44,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/target-sum/
+[LeetCode - Target Sum](https://leetcode.com/problems/target-sum/)

@@ -8,4 +8,4 @@ Given `Implement queue using Linkedlist`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Implement queue using Linkedlist](https://takeuforward.org/plus/dsa/problems/implement-queue-using-linkedlist)

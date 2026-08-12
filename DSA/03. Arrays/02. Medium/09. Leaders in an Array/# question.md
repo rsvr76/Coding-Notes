@@ -37,4 +37,4 @@ Space: O(N)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Leaders in an Array](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array)

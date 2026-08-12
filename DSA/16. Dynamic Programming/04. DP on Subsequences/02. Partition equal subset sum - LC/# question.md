@@ -30,4 +30,4 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/partition-equal-subset-sum/
+[LeetCode - Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)

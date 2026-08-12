@@ -8,4 +8,4 @@ Given `Burst balloons`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Burst balloons](https://takeuforward.org/plus/dsa/problems/burst-balloons)

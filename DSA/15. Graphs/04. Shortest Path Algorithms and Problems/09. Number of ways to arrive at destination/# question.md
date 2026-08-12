@@ -8,4 +8,4 @@ Given `Number of ways to arrive at destination`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of ways to arrive at destination](https://takeuforward.org/plus/dsa/problems/number-of-ways-to-arrive-at-destination)

@@ -8,4 +8,4 @@ Given `Reverse Pairs`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse Pairs](https://takeuforward.org/plus/dsa/problems/reverse-pairs)

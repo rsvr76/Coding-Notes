@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Input Output](https://takeuforward.org/plus/dsa/problems/input-output)

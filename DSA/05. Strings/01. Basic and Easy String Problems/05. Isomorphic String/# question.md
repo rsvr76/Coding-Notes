@@ -8,4 +8,4 @@ Given `Isomorphic String`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Isomorphic String](https://takeuforward.org/plus/dsa/problems/isomorphic-string)

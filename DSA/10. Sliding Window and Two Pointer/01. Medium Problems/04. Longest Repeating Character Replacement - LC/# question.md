@@ -36,4 +36,4 @@ There may exists other ways to achieve this answer too.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-repeating-character-replacement/
+[LeetCode - Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)

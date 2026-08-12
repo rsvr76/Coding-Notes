@@ -45,4 +45,4 @@ The absolute difference between the sums of the arrays is abs((2 + 4 + -9) - (-1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+[LeetCode - Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)

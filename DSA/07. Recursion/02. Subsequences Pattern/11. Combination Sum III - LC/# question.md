@@ -51,4 +51,4 @@ Using 4 different numbers in the range [1,9], the smallest sum we can get is 1+2
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/combination-sum-iii/
+[LeetCode - Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)

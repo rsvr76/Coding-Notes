@@ -8,4 +8,4 @@ Given `Postfix to Infix Conversion`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Postfix to Infix Conversion](https://takeuforward.org/plus/dsa/problems/postfix-to-infix-conversion)

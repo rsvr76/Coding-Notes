@@ -41,4 +41,4 @@ Output: 16
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/count-number-of-nice-subarrays/
+[LeetCode - Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)

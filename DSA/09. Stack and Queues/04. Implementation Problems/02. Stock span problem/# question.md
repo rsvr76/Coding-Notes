@@ -8,4 +8,4 @@ Given `Stock span problem`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Stock span problem](https://takeuforward.org/plus/dsa/problems/stock-span-problem)

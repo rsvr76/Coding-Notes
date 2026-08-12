@@ -8,4 +8,4 @@ Given `Reverse a LinkedList [Iterative]`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse a LinkedList [Iterative]](https://takeuforward.org/plus/dsa/problems/reverse-a-ll)

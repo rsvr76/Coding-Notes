@@ -8,4 +8,4 @@ Given `Best time to buy and sell stock`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Best time to buy and sell stock](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock)

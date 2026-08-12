@@ -54,4 +54,4 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+[LeetCode - Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)

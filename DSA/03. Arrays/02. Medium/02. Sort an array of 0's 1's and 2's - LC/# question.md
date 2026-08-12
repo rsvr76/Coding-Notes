@@ -36,4 +36,4 @@ Output: [0,1,2]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/sort-colors/
+[LeetCode - Sort Colors](https://leetcode.com/problems/sort-colors/)

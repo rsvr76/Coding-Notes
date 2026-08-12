@@ -47,4 +47,4 @@ Explanation: Notice that while the set of substrings ["d","abba","cc"] also has 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on
+[LeetCode - Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on)

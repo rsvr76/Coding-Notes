@@ -8,4 +8,4 @@ Given `Maximum Depth in BT`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum Depth in BT](https://takeuforward.org/plus/dsa/problems/maximum-depth-in-bt)

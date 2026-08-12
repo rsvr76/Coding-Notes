@@ -39,4 +39,4 @@ Explanation: The reverse pairs are:
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/reverse-pairs/
+[LeetCode - Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)

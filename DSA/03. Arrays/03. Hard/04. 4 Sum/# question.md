@@ -8,4 +8,4 @@ Given `4 Sum`, implement the required algorithm/data structure as specified in S
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - 4 Sum](https://takeuforward.org/plus/dsa/problems/4-sum)

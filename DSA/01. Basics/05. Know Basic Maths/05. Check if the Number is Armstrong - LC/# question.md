@@ -1,7 +1,5 @@
 # Check if the Number is Armstrong
 
-**Difficulty**: Easy
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/armstrong-number/
+[LeetCode - Check if the Number is Armstrong](https://leetcode.com/problems/armstrong-number/)

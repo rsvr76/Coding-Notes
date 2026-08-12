@@ -8,4 +8,4 @@ Given `Vertical Order Traversal`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Vertical Order Traversal](https://takeuforward.org/plus/dsa/problems/vertical-order-traversal)

@@ -8,4 +8,4 @@ Given `Minimum Falling Path Sum`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum Falling Path Sum](https://takeuforward.org/plus/dsa/problems/minimum-falling-path-sum)

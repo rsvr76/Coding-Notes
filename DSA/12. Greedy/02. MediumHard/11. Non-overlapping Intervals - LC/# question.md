@@ -42,4 +42,4 @@ Explanation: You don't need to remove any of the intervals since they're already
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/non-overlapping-intervals/
+[LeetCode - Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)

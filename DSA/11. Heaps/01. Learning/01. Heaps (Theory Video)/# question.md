@@ -8,4 +8,4 @@ Given `Heaps (Theory Video)`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Heaps (Theory Video)](https://takeuforward.org/plus/dsa/problems/heaps-theory)

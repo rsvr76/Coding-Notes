@@ -8,4 +8,4 @@ Given `Connected Components Problem in Matrix`, implement the required algorithm
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Connected Components Problem in Matrix](https://takeuforward.org/plus/dsa/problems/connected-components)

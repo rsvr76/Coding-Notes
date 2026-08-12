@@ -8,4 +8,4 @@ Given `Reverse LL in group of given size K`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse LL in group of given size K](https://takeuforward.org/plus/dsa/problems/reverse-ll-in-group-of-given-size-k)

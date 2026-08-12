@@ -8,4 +8,4 @@ Given `Ninja's training`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Ninja's training](https://takeuforward.org/plus/dsa/problems/ninja's-training)

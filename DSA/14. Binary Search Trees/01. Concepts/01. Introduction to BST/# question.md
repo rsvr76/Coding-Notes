@@ -8,4 +8,4 @@ Given `Introduction to BST`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Introduction to BST](https://takeuforward.org/plus/dsa/problems/introduction-to-bst)

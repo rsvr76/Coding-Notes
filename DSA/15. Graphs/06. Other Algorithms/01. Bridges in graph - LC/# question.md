@@ -39,4 +39,4 @@ Output: [[0,1]]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph
+[LeetCode - Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph)

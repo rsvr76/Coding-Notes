@@ -1,7 +1,5 @@
 # Minimize Max Distance to Gas Station
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+[LeetCode - Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)

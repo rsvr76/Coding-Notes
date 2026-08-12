@@ -40,4 +40,4 @@ Output: 564908303
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/count-good-numbers/
+[LeetCode - Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)

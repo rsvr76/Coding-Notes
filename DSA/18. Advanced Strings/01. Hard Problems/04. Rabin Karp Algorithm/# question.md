@@ -8,4 +8,4 @@ Given `Rabin Karp Algorithm`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Rabin Karp Algorithm](https://takeuforward.org/plus/dsa/problems/rabin-karp-algorithm)

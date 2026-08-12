@@ -8,4 +8,4 @@ Given `Minimum number of bracket reversals to make an expression balanced`, impl
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum number of bracket reversals to make an expression balanced](https://takeuforward.org/plus/dsa/problems/minimum-number-of-bracket-reversals-to-make-an-expression-balanced)

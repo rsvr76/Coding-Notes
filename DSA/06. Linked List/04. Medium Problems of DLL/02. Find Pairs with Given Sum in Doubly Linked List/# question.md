@@ -8,4 +8,4 @@ Given `Find Pairs with Given Sum in Doubly Linked List`, implement the required 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find Pairs with Given Sum in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/find-pairs-with-given-sum-in-doubly-linked-list)

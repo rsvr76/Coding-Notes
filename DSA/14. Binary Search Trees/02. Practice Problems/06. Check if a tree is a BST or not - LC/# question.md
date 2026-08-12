@@ -37,4 +37,4 @@ Explanation: The root node's value is 5 but its right child's value is 4.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/validate-binary-search-tree/
+[LeetCode - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)

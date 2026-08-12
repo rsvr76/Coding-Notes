@@ -8,4 +8,4 @@ Given `Segregate odd and even nodes in Linked List`, implement the required algo
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Segregate odd and even nodes in Linked List](https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll)

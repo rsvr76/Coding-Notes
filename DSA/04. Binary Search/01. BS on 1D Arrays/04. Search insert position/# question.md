@@ -8,4 +8,4 @@ Given `Search insert position`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Search insert position](https://takeuforward.org/plus/dsa/problems/search-insert-position)

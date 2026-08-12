@@ -8,4 +8,4 @@ Given `Print subarray with maximum subarray sum (extended version of above probl
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Print subarray with maximum subarray sum (extended version of above problem)](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm)

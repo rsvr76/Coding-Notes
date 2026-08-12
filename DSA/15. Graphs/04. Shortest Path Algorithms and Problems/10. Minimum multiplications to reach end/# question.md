@@ -8,4 +8,4 @@ Given `Minimum multiplications to reach end`, implement the required algorithm/d
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum multiplications to reach end](https://takeuforward.org/plus/dsa/problems/minimum-multiplications-to-reach-end)

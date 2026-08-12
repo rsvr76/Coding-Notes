@@ -47,4 +47,4 @@ Explanation: This route does not require any effort.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/path-with-minimum-effort/
+[LeetCode - Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)

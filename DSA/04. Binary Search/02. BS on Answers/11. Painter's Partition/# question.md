@@ -38,4 +38,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Painter's Partition](https://takeuforward.org/plus/dsa/problems/painters-partition)

@@ -8,4 +8,4 @@ Given `Split array - largest sum`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Split array - largest sum](https://takeuforward.org/plus/dsa/problems/split-array---largest-sum)

@@ -8,4 +8,4 @@ Given `Check if LL is palindrome or not`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if LL is palindrome or not](https://takeuforward.org/plus/dsa/problems/check-if-ll-is-palindrome-or-not)

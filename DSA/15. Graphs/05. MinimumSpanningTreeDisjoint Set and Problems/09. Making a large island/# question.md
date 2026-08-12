@@ -8,4 +8,4 @@ Given `Making a large island`, implement the required algorithm/data structure a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Making a large island](https://takeuforward.org/plus/dsa/problems/making-a-large-island)

@@ -8,4 +8,4 @@ Given `Sum of First N Numbers`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sum of First N Numbers](https://takeuforward.org/plus/dsa/problems/sum-of-first-n-numbers)

@@ -35,4 +35,4 @@ Output: 12
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimum-path-sum/
+[LeetCode - Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)

@@ -37,4 +37,4 @@ Space: O(number of divisors)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Print all Divisors](https://takeuforward.org/plus/dsa/problems/divisors-of-a-number)

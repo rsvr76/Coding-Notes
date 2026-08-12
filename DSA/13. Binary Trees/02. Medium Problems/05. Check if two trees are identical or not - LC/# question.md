@@ -37,4 +37,4 @@ Output: false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/same-tree/
+[LeetCode - Same Tree](https://leetcode.com/problems/same-tree/)

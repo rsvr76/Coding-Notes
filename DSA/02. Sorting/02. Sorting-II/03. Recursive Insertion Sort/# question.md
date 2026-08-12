@@ -37,4 +37,4 @@ Space: O(N) recursion stack
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Recursive Insertion Sort](https://takeuforward.org/plus/dsa/problems/recursive-insertion-sort)

@@ -58,4 +58,4 @@ Explanation: The sum of all subarray ranges of nums is 59.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/sum-of-subarray-ranges/
+[LeetCode - Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)

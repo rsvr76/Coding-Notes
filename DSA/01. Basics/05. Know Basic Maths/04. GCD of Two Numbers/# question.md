@@ -8,4 +8,4 @@ Given `GCD of Two Numbers`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - GCD of Two Numbers](https://takeuforward.org/plus/dsa/problems/gcd-of-two-numbers)

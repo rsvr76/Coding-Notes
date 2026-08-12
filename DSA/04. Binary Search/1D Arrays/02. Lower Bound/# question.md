@@ -1,25 +1,11 @@
-Given a sorted array of nums and an integer x, write a program to find the **lower bound** of  **x** .
+# Lower Bound
 
-The lower bound algorithm finds the first and smallest index in a sorted array where the value at that index is greater than or equal to a given key i.e. x.
+**Difficulty**: Easy
 
-If no such index is found, return the size of the array.
+## Problem Statement
 
-Example 1
+Given `Lower Bound`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
 
- **Input ** : nums= [1,2,2,3], x = 2
+## Source
 
- **Output** :1
-
- **Explanation** :
-
-Index 1 is the smallest index such that arr[1] >= x.
-
-Example 2
-
- **Input ** : nums= [3,5,8,15,19], x = 9
-
- **Output** : 3
-
- **Explanation** :
-
-Index 3 is the smallest index such that arr[3] >= x.
+[TakeUForward - Lower Bound](https://takeuforward.org/plus/dsa/problems/lower-bound-)

@@ -33,4 +33,4 @@ Output: 17
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
+[LeetCode - Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)

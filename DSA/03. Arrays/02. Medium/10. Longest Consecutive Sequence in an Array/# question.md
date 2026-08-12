@@ -8,4 +8,4 @@ Given `Longest Consecutive Sequence in an Array`, implement the required algorit
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Consecutive Sequence in an Array](https://takeuforward.org/plus/dsa/problems/longest-consecutive-sequence-in-an-array)

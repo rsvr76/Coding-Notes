@@ -8,4 +8,4 @@ Given `Reverse every word in a string`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse every word in a string](https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string)

@@ -8,4 +8,4 @@ Given `Left Rotate Array by K Places`, implement the required algorithm/data str
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Left Rotate Array by K Places](https://takeuforward.org/plus/dsa/problems/left-rotate-array)

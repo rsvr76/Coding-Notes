@@ -8,4 +8,4 @@ Given `Morris Inorder Traversal of a Binary Tree`, implement the required algori
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Morris Inorder Traversal of a Binary Tree](https://takeuforward.org/plus/dsa/problems/morris-inorder-traversal-)

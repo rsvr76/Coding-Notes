@@ -46,4 +46,4 @@ stockSpanner.next(85);  // return 6
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/online-stock-span/
+[LeetCode - Online Stock Span](https://leetcode.com/problems/online-stock-span/)

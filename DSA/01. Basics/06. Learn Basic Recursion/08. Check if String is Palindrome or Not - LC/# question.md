@@ -41,4 +41,4 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/valid-palindrome/
+[LeetCode - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)

@@ -55,4 +55,4 @@ The city 0 has 1 neighboring city at a distanceThreshold = 2.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+[LeetCode - Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)

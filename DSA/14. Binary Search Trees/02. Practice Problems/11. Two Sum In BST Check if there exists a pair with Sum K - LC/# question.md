@@ -32,4 +32,4 @@ Output: false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+[LeetCode - Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)

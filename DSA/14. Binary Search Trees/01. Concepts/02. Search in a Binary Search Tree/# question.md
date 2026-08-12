@@ -8,4 +8,4 @@ Given `Search in a Binary Search Tree`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Search in a Binary Search Tree](https://takeuforward.org/plus/dsa/problems/search-in-bst)

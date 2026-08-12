@@ -8,4 +8,4 @@ Given `Count subarrays with given sum`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count subarrays with given sum](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-sum)

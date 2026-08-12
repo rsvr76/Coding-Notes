@@ -8,4 +8,4 @@ Given `Insert a given node in BST`, implement the required algorithm/data struct
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Insert a given node in BST](https://takeuforward.org/plus/dsa/problems/insert-a-given-node-in-bst)

@@ -46,4 +46,4 @@ Explanation: The only two palindromic subsequences are "99999" and "00000".
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/count-palindromic-subsequences/
+[LeetCode - Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)

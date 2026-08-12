@@ -8,4 +8,4 @@ Given `Recursive Implementation of atoi()`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Recursive Implementation of atoi()](https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi)

@@ -1,7 +1,5 @@
 # Alien Dictionary
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/alien-dictionary/solution/
+[LeetCode - Alien Dictionary](https://leetcode.com/problems/alien-dictionary/solution/)

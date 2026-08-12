@@ -8,4 +8,4 @@ Given `Kosaraju's algorithm`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Kosaraju's algorithm](https://takeuforward.org/plus/dsa/problems/kosaraju's-algorithm)

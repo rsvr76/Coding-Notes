@@ -8,4 +8,4 @@ Given `Introduction to Doubly LL`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Introduction to Doubly LL](https://takeuforward.org/plus/dsa/problems/introduction-to-doubly-ll)

@@ -8,4 +8,4 @@ Given `Count subsets with sum K`, implement the required algorithm/data structur
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count subsets with sum K](https://takeuforward.org/plus/dsa/problems/count-subsets-with-sum-k)

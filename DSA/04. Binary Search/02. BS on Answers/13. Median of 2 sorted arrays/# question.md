@@ -8,4 +8,4 @@ Given `Median of 2 sorted arrays`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Median of 2 sorted arrays](https://takeuforward.org/plus/dsa/problems/median-of-2-sorted-arrays)

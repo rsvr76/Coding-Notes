@@ -8,4 +8,4 @@ Given `Delete head of Doubly Linked List`, implement the required algorithm/data
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Delete head of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-head-of-dll)

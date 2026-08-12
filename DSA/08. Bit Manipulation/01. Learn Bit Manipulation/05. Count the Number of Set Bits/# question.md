@@ -8,4 +8,4 @@ Given `Count the Number of Set Bits`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count the Number of Set Bits](https://takeuforward.org/plus/dsa/problems/count-the-number-of-set-bits)

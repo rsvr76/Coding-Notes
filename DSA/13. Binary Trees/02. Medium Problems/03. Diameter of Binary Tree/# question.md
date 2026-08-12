@@ -8,4 +8,4 @@ Given `Diameter of Binary Tree`, implement the required algorithm/data structure
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Diameter of Binary Tree](https://takeuforward.org/plus/dsa/problems/diameter-of-binary-tree)

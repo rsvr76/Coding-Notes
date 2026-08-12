@@ -32,4 +32,4 @@ Explanation: "abab" is the largest prefix which is also suffix. They can overlap
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-happy-prefix/
+[LeetCode - Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)

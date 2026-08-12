@@ -8,4 +8,4 @@ Given `Cycle Detection in Undirected Graph (bfs)`, implement the required algori
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Cycle Detection in Undirected Graph (bfs)](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-an-undirected-graph)

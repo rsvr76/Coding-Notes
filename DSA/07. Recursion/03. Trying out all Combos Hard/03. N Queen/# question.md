@@ -8,4 +8,4 @@ Given `N Queen`, implement the required algorithm/data structure as specified in
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - N Queen](https://takeuforward.org/plus/dsa/problems/n-queen)

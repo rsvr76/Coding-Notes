@@ -8,4 +8,4 @@ Given `Find the repeating and missing number`, implement the required algorithm/
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find the repeating and missing number](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number)

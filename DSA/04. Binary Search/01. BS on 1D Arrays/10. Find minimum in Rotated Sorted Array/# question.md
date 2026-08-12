@@ -8,4 +8,4 @@ Given `Find minimum in Rotated Sorted Array`, implement the required algorithm/d
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find minimum in Rotated Sorted Array](https://takeuforward.org/plus/dsa/problems/find-minimum-in-rotated-sorted-array)

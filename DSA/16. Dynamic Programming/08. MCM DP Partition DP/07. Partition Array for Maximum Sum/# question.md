@@ -8,4 +8,4 @@ Given `Partition Array for Maximum Sum`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Partition Array for Maximum Sum](https://takeuforward.org/plus/dsa/problems/partition-array-for-maximum-sum)

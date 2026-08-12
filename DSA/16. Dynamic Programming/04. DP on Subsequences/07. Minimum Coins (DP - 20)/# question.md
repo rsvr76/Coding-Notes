@@ -8,4 +8,4 @@ Given `Minimum Coins (DP - 20)`, implement the required algorithm/data structure
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum Coins (DP - 20)](https://takeuforward.org/plus/dsa/problems/minimum-coins)

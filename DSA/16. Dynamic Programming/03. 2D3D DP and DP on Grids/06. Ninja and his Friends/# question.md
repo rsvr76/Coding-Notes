@@ -8,4 +8,4 @@ Given `Ninja and his Friends`, implement the required algorithm/data structure a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Ninja and his Friends](https://takeuforward.org/plus/dsa/problems/ninja-and-his-friends)

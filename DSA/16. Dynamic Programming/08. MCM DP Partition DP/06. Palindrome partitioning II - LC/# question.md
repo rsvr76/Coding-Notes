@@ -38,4 +38,4 @@ Output: 1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/palindrome-partitioning-ii/
+[LeetCode - Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)

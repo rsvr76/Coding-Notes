@@ -47,4 +47,4 @@ Since the largest window of s only has one 'a', return empty string.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/minimum-window-substring/
+[LeetCode - Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)

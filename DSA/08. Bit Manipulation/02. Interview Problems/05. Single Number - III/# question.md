@@ -8,4 +8,4 @@ Given `Single Number - III`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Single Number - III](https://takeuforward.org/plus/dsa/problems/single-number---iii)

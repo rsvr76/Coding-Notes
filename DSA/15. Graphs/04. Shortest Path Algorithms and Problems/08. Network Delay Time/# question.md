@@ -8,4 +8,4 @@ Given `Network Delay Time`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Network Delay Time](https://takeuforward.org/plus/dsa/problems/network-delay-time)

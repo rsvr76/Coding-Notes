@@ -8,4 +8,4 @@ Given `Print root to leaf path in BT`, implement the required algorithm/data str
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Print root to leaf path in BT](https://takeuforward.org/plus/dsa/problems/print-root-to-note-path-in-bt)

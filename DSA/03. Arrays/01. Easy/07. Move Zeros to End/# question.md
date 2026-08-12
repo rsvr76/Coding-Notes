@@ -8,4 +8,4 @@ Given `Move Zeros to End`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Move Zeros to End](https://takeuforward.org/plus/dsa/problems/move-zeros-to-end)

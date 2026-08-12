@@ -46,4 +46,4 @@ Explanation: You have to take all the cards. Your score is the sum of points of 
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+[LeetCode - Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)

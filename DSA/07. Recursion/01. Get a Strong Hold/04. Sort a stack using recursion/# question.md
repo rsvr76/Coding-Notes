@@ -8,4 +8,4 @@ Given `Sort a stack using recursion`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sort a stack using recursion](https://takeuforward.org/plus/dsa/problems/sort-a-stack)

@@ -61,4 +61,4 @@ The optimal path with no stops from city 0 to 2 is marked in red and has cost 50
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+[LeetCode - Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)

@@ -8,4 +8,4 @@ Given `Number of Greater Elements to the Right`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of Greater Elements to the Right](https://takeuforward.org/plus/dsa/problems/number-of-greater-elements-to-the-right)

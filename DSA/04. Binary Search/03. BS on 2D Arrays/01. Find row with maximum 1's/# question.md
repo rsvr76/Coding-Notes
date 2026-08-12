@@ -8,4 +8,4 @@ Given `Find row with maximum 1's`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find row with maximum 1's](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's)

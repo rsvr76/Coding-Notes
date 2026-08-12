@@ -8,4 +8,4 @@ Given `Merge 2 BST's`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Merge 2 BST's](https://takeuforward.org/plus/dsa/problems/bst-iterator)

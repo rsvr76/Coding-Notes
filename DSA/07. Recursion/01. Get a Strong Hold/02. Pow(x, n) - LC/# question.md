@@ -36,4 +36,4 @@ Explanation: 2-2 = 1/22 = 1/4 = 0.25
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/powx-n/
+[LeetCode - Pow(x, n)](https://leetcode.com/problems/powx-n/)

@@ -8,4 +8,4 @@ Given `Clone a LL with random and next pointer`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Clone a LL with random and next pointer](https://takeuforward.org/plus/dsa/problems/clone-a-ll-with-random-and-next-pointer)

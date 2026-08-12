@@ -47,4 +47,4 @@ Output: []
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/combination-sum/
+[LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/)

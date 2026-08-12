@@ -37,4 +37,4 @@ Explanation: The endWord "cog" is not in wordList, therefore there is no valid t
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/word-ladder/
+[LeetCode - Word Ladder](https://leetcode.com/problems/word-ladder/)

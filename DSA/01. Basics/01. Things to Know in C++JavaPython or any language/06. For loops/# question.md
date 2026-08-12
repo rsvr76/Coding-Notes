@@ -37,4 +37,4 @@ Space: O(1)
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - For loops](https://takeuforward.org/plus/dsa/problems/for-loop)

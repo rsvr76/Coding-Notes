@@ -8,4 +8,4 @@ Given `Number of operations to make network connected`, implement the required a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of operations to make network connected](https://takeuforward.org/plus/dsa/problems/number-of-operations-to-make-network-connected)

@@ -8,4 +8,4 @@ Given `Valid Paranthesis Checker`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Valid Paranthesis Checker](https://takeuforward.org/plus/dsa/problems/valid-paranthesis-checker)

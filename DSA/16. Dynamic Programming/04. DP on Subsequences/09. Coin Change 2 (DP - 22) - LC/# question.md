@@ -1,7 +1,5 @@
 # Coin Change 2 (DP - 22)
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/coin-change-2/
+[LeetCode - Coin Change 2 (DP - 22)](https://leetcode.com/problems/coin-change-2/)

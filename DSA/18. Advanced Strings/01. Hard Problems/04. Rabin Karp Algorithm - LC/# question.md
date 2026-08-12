@@ -31,4 +31,4 @@ Output: 2
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation
+[LeetCode - Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation)

@@ -8,4 +8,4 @@ Given `Trie Implementation and Operations`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Trie Implementation and Operations](https://takeuforward.org/plus/dsa/problems/trie-implementation-and-operations)

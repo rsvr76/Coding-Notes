@@ -8,4 +8,4 @@ Given `Find the intersection point of Y LL`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find the intersection point of Y LL](https://takeuforward.org/plus/dsa/problems/find-the-intersection-point-of-y-ll)

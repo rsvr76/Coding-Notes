@@ -32,4 +32,4 @@ Explanation: 2 cannot be in the right subtree of 3 because 2 < 3. Swapping 2 and
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/recover-binary-search-tree/
+[LeetCode - Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)

@@ -1,18 +1,41 @@
+# Find Largest Element in Array
 
-Given an array of integers  **nums** , return the value of the largest element in the array
+## Problem Statement
 
-Example 1
+Given an array of `N` integers, find the largest element in the array.
 
- **Input** : nums = [3, 3, 6, 1]
+## Input
 
- **Output** : 6
+An array `arr` of `N` integers.
 
- **Explanation** : The largest element in array is 6
+## Output
 
-Example 2
+An integer representing the maximum element.
 
- **Input** : nums = [3, 3, 0, 99, -40]
+## Examples
 
- **Output** : 99
+### Example 1
 
- **Explanation** : The largest element in array is 99
+**Input**:
+```
+arr = [2, 5, 1, 3, 0]
+```
+**Output**:
+```
+5
+```
+**Explanation**: 5 is the largest element.
+
+## Constraints
+
+- 1 <= N <= 10^5
+- -10^9 <= arr[i] <= 10^9
+
+## Expected Complexity
+
+Time: O(N)
+Space: O(1)
+
+## Source
+
+[TakeUForward - Largest Element](https://takeuforward.org/plus/dsa/problems/largest-element)

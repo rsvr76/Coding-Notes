@@ -8,4 +8,4 @@ Given `Minimum days to make M bouquets`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum days to make M bouquets](https://takeuforward.org/plus/dsa/problems/minimum-days-to-make-m-bouquets)

@@ -8,4 +8,4 @@ Given `Number of Substrings Containing All Three Characters`, implement the requ
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of Substrings Containing All Three Characters](https://takeuforward.org/plus/dsa/problems/number-of-substrings-containing-all-three-characters)

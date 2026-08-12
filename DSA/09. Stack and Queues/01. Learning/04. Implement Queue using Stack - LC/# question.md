@@ -46,4 +46,4 @@ myQueue.empty(); // return false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/implement-queue-using-stacks/
+[LeetCode - Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)

@@ -8,4 +8,4 @@ Given `Subset sum equal to target (DP- 14)`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Subset sum equal to target (DP- 14)](https://takeuforward.org/plus/dsa/problems/subset-sum-equals-to-target)

@@ -36,4 +36,4 @@ Explanation: The input board is shown above and the only valid solution is shown
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/sudoku-solver/
+[LeetCode - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)

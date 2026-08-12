@@ -38,4 +38,4 @@ Explanation: Your function can return either index number 1 where the peak eleme
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.
+[LeetCode - Find Peak Element](https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.)

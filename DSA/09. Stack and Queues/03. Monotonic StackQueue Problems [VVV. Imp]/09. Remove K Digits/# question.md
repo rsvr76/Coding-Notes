@@ -8,4 +8,4 @@ Given `Remove K Digits`, implement the required algorithm/data structure as spec
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Remove K Digits](https://takeuforward.org/plus/dsa/problems/remove-k-digits)

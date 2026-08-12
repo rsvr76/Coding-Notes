@@ -8,4 +8,4 @@ Given `Preorder, Inorder, and Postorder Traversal in one Traversal`, implement t
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Preorder, Inorder, and Postorder Traversal in one Traversal](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal)

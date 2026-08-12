@@ -40,4 +40,4 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/median-of-two-sorted-arrays/
+[LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)

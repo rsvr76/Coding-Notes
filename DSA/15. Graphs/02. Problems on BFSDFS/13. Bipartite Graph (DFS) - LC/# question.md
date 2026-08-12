@@ -52,4 +52,4 @@ Explanation: We can partition the nodes into two sets: {0, 2} and {1, 3}.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/is-graph-bipartite/
+[LeetCode - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)

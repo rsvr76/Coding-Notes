@@ -8,4 +8,4 @@ Given `Implement Stack using Queue`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Implement Stack using Queue](https://takeuforward.org/plus/dsa/problems/implement-stack-using-queue)

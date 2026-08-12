@@ -8,4 +8,4 @@ Given `Most stones removed with same row or column`, implement the required algo
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Most stones removed with same row or column](https://takeuforward.org/plus/dsa/problems/most-stones-removed-with-same-row-or-column)

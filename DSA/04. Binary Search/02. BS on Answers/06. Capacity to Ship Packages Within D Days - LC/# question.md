@@ -56,4 +56,4 @@ Explanation:
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+[LeetCode - Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)

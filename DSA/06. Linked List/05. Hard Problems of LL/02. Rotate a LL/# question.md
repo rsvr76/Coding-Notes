@@ -8,4 +8,4 @@ Given `Rotate a LL`, implement the required algorithm/data structure as specifie
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Rotate a LL](https://takeuforward.org/plus/dsa/problems/rotate-a-ll)

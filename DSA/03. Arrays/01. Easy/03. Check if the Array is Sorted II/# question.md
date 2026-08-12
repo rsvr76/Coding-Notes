@@ -8,4 +8,4 @@ Given `Check if the Array is Sorted II`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if the Array is Sorted II](https://takeuforward.org/plus/dsa/problems/check-if-the-array-is-sorted-ii)

@@ -8,4 +8,4 @@ Given `Flatten Binary Tree to Linked List`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Flatten Binary Tree to Linked List](https://takeuforward.org/plus/dsa/problems/flatten-binary-tree-to-linked-list)

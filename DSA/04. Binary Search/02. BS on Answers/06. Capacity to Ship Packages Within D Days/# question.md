@@ -8,4 +8,4 @@ Given `Capacity to Ship Packages Within D Days`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Capacity to Ship Packages Within D Days](https://takeuforward.org/plus/dsa/problems/capacity-to-ship-packages-within-d-days)

@@ -50,4 +50,4 @@ Output: [0]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem
+[LeetCode - Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem)

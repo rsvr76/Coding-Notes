@@ -8,4 +8,4 @@ Given `Learn All Patterns of Subsequences (Theory)`, implement the required algo
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Learn All Patterns of Subsequences (Theory)](https://takeuforward.org/data-structure/learn-all-patterns-of-subsequences-theory)

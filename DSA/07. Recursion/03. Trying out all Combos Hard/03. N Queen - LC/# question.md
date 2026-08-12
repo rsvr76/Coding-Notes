@@ -31,4 +31,4 @@ Output: [["Q"]]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/n-queens/
+[LeetCode - N-Queens](https://leetcode.com/problems/n-queens/)

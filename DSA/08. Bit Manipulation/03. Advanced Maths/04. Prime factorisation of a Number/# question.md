@@ -8,4 +8,4 @@ Given `Prime factorisation of a Number`, implement the required algorithm/data s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Prime factorisation of a Number](https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number)

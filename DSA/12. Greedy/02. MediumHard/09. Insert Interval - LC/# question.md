@@ -45,4 +45,4 @@ Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/insert-interval/
+[LeetCode - Insert Interval](https://leetcode.com/problems/insert-interval/)

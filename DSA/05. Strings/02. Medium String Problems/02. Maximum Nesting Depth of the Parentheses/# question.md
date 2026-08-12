@@ -8,4 +8,4 @@ Given `Maximum Nesting Depth of the Parentheses`, implement the required algorit
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Maximum Nesting Depth of the Parentheses](https://takeuforward.org/plus/dsa/problems/maximum-nesting-depth-of-the-parentheses)

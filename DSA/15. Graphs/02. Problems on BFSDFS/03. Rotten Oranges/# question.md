@@ -8,4 +8,4 @@ Given `Rotten Oranges`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Rotten Oranges](https://takeuforward.org/plus/dsa/problems/rotten-oranges)

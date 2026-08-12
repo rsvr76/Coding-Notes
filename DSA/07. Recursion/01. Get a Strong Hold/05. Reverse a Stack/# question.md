@@ -8,4 +8,4 @@ Given `Reverse a Stack`, implement the required algorithm/data structure as spec
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse a Stack](https://takeuforward.org/plus/dsa/problems/reverse-a-stack)

@@ -42,4 +42,4 @@ babgbag
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/distinct-subsequences/
+[LeetCode - Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)

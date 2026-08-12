@@ -8,4 +8,4 @@ Given `Find the smallest divisor`, implement the required algorithm/data structu
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find the smallest divisor](https://takeuforward.org/plus/dsa/problems/find-the-smallest-divisor)

@@ -1,7 +1,5 @@
 # KMP Algorithm or LPS array
 
-**Difficulty**: Hard
-
 ## Problem Statement
 
 > [!WARNING]
@@ -9,4 +7,4 @@
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/implement-strstr/
+[LeetCode - KMP Algorithm or LPS array](https://leetcode.com/problems/implement-strstr/)

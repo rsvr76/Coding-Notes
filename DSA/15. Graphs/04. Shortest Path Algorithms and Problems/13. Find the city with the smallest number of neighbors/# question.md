@@ -8,4 +8,4 @@ Given `Find the city with the smallest number of neighbors`, implement the requi
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find the city with the smallest number of neighbors](https://takeuforward.org/plus/dsa/problems/find-the-city-with-the-smallest-number-of-neighbors)

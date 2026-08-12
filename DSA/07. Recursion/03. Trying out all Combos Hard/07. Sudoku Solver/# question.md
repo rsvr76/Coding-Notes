@@ -8,4 +8,4 @@ Given `Sudoku Solver`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sudoku Solver](https://takeuforward.org/plus/dsa/problems/sudoko-solver)

@@ -1,40 +1,11 @@
-# Understanding Arrays and Strings
+# What are arrays, strings
+
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Learn array indexing, element access, and basic string operations.
-
-## Input
-
-Array or string.
-
-## Output
-
-Return modified array or element access result.
-
-## Examples
-
-### Example 1
-
-**Input**:
-```
-arr = [1, 2, 3], idx = 1
-```
-**Output**:
-```
-2
-```
-**Explanation**: Element at index 1 is 2.
-
-## Constraints
-
-- Standard array/string constraints.
-
-## Expected Complexity
-
-Time: O(1)
-Space: O(1)
+Given `What are arrays, strings`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - What are arrays, strings](https://takeuforward.org/plus/dsa/problems/cpp)

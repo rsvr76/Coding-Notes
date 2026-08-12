@@ -1,34 +1,71 @@
+# Two Sum
 
-You are given an array of integers `nums` and an integer `target`, return  *indices of the two numbers such that they add up to `target`* .
+**Difficulty**: Easy / Medium
 
-You may assume that each input would have  ***exactly* one solution** , and you may not use the *same* element twice.
+## Problem Statement
 
-You can return the answer in any order.
+Given an array of integers `arr` of size `N` and an integer `target`, determine if there exist two elements in the array such that their sum equals `target`. 
 
-**Example 1:**
+There are two common variants of this problem:
+1. **Variant 1**: Return `"YES"` if there exist two elements whose sum is equal to `target`, otherwise return `"NO"`.
+2. **Variant 2**: Return the 0-based indices `[i, j]` of the two numbers such that `arr[i] + arr[j] == target`.
 
-<pre><strong>Input:</strong> nums = [2,7,11,15], target = 9
-<strong>Output:</strong> [0,1]
-<strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
-</pre>
+## Input
 
-**Example 2:**
+- An integer `N` representing the size of the array.
+- An array `arr` of `N` integers.
+- An integer `target`.
 
-<pre><strong>Input:</strong> nums = [3,2,4], target = 6
-<strong>Output:</strong> [1,2]
-</pre>
+## Output
 
-**Example 3:**
+- **Variant 1**: Return `"YES"` or `"NO"`.
+- **Variant 2**: Return an array/pair of indices `[i, j]`. If no such pair exists, return `[-1, -1]`.
 
-<pre><strong>Input:</strong> nums = [3,3], target = 6
-<strong>Output:</strong> [0,1]
-</pre>
+## Examples
 
-**Constraints:**
+### Example 1
 
-* `2 <= nums.length <= 10<sup>4</sup>`
-* `-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>`
-* `-10<sup>9</sup> <= target <= 10<sup>9</sup>`
-* **Only one valid answer exists.**
+**Input**:
+```text
+N = 5
+arr = [2, 6, 5, 8, 11]
+target = 14
+```
 
-**Follow-up: **Can you come up with an algorithm that is less than `O(n<sup>2</sup>)` time complexity?
+**Output**:
+```text
+YES
+```
+
+**Explanation**: `arr[1] + arr[3] = 6 + 8 = 14`. Thus, the pair `(6, 8)` sums to `14`. Indices are `[1, 3]`.
+
+### Example 2
+
+**Input**:
+```text
+N = 5
+arr = [2, 6, 5, 8, 11]
+target = 15
+```
+
+**Output**:
+```text
+NO
+```
+
+**Explanation**: There is no pair in the array that sums up to `15`.
+
+## Constraints
+
+- `1 <= N <= 10^5`
+- `-10^9 <= arr[i] <= 10^9`
+- `-10^9 <= target <= 10^9`
+
+## Expected Complexity
+
+- **Time**: `O(N)` using Hashing, or `O(N log N)` using Two Pointers on a sorted array.
+- **Space**: `O(N)` for Hash Map, or `O(1)` auxiliary space if using Two Pointers.
+
+## Source
+
+[TakeUForward - Two Sum](https://takeuforward.org/plus/dsa/problems/two-sum)

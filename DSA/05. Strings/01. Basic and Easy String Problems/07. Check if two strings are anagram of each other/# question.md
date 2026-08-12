@@ -8,4 +8,4 @@ Given `Check if two strings are anagram of each other`, implement the required a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check if two strings are anagram of each other](https://takeuforward.org/plus/dsa/problems/valid-anagram)

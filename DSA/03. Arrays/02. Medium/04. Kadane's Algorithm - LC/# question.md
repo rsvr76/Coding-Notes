@@ -40,4 +40,4 @@ Explanation: The subarray [5,4,-1,7,8] has the largest sum 23.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-subarray/
+[LeetCode - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)

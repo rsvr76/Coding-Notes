@@ -36,4 +36,4 @@ Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-product-subarray/
+[LeetCode - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)

@@ -8,4 +8,4 @@ Given `Sum of Subarray Ranges`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Sum of Subarray Ranges](https://takeuforward.org/plus/dsa/problems/sum-of-subarray-ranges)

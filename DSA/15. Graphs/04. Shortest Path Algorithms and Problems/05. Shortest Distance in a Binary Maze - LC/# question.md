@@ -47,4 +47,4 @@ Output: -1
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+[LeetCode - Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)

@@ -43,4 +43,4 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/rotate-array/
+[LeetCode - Rotate Array](https://leetcode.com/problems/rotate-array/)

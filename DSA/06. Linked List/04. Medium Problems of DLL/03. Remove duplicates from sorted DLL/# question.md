@@ -8,4 +8,4 @@ Given `Remove duplicates from sorted DLL`, implement the required algorithm/data
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Remove duplicates from sorted DLL](https://takeuforward.org/plus/dsa/problems/remove-duplicated-from-sorted-dll)

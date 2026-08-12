@@ -1,11 +1,11 @@
-# Find Min/Max in BST
+# Find MinMax in BST
 
 **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Find Min/Max in BST`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given `Find MinMax in BST`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find MinMax in BST](https://takeuforward.org/data-structure/find-minmax-in-a-bst)

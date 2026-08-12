@@ -45,4 +45,4 @@ Output: false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/word-search/
+[LeetCode - Word Search](https://leetcode.com/problems/word-search/)

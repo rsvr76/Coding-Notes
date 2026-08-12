@@ -57,4 +57,4 @@ Note that the solution remains the same since 5 and 6 are in the same location a
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+[LeetCode - Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)

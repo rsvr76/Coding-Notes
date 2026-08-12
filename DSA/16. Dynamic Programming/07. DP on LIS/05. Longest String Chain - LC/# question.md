@@ -49,4 +49,4 @@ Explanation: The trivial word chain ["abcd"] is one of the longest word chains.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/longest-string-chain/
+[LeetCode - Longest String Chain](https://leetcode.com/problems/longest-string-chain/)

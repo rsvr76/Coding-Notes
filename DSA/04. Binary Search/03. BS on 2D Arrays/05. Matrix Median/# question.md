@@ -8,4 +8,4 @@ Given `Matrix Median`, implement the required algorithm/data structure as specif
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Matrix Median](https://takeuforward.org/plus/dsa/problems/matrix-median)

@@ -31,4 +31,4 @@ Output: 9
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/trapping-rain-water/
+[LeetCode - Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)

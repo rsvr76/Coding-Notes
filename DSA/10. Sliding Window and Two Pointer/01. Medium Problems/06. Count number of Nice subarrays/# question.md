@@ -8,4 +8,4 @@ Given `Count number of Nice subarrays`, implement the required algorithm/data st
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Count number of Nice subarrays](https://takeuforward.org/plus/dsa/problems/count-number-of-nice-subarrays)

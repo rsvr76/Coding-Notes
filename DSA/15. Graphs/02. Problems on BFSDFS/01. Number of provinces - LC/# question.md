@@ -42,4 +42,4 @@ Output: 3
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.
+[LeetCode - Number of Provinces](https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.)

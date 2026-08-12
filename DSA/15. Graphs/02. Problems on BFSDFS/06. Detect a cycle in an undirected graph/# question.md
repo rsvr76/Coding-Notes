@@ -8,4 +8,4 @@ Given `Detect a cycle in an undirected graph`, implement the required algorithm/
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Detect a cycle in an undirected graph](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-an-undirected-graph)

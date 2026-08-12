@@ -42,4 +42,4 @@ Digit 3 is inside of 3 nested parentheses in the string.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+[LeetCode - Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)

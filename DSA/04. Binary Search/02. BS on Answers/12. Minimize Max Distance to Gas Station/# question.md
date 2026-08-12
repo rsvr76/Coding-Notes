@@ -8,4 +8,4 @@ Given `Minimize Max Distance to Gas Station`, implement the required algorithm/d
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimize Max Distance to Gas Station](https://takeuforward.org/plus/dsa/problems/minimise-max-distance-to-gas-stations)

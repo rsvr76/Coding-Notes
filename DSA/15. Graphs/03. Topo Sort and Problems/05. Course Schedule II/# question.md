@@ -8,4 +8,4 @@ Given `Course Schedule II`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Course Schedule II](https://takeuforward.org/plus/dsa/problems/course-schedule-ii)

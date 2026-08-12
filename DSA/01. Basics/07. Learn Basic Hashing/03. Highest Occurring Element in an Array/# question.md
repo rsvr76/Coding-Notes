@@ -8,4 +8,4 @@ Given `Highest Occurring Element in an Array`, implement the required algorithm/
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Highest Occurring Element in an Array](https://takeuforward.org/plus/dsa/problems/highest-occurring-element-in-an-array)

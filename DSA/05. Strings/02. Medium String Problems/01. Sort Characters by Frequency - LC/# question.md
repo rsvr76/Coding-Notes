@@ -43,4 +43,4 @@ Note that 'A' and 'a' are treated as two different characters.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/sort-characters-by-frequency/
+[LeetCode - Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)

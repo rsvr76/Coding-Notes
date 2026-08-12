@@ -8,4 +8,4 @@ Given `Factorial of a given number`, implement the required algorithm/data struc
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Factorial of a given number](https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number-i)

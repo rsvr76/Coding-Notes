@@ -8,4 +8,4 @@ Given `Largest rectangle in a histogram`, implement the required algorithm/data 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Largest rectangle in a histogram](https://takeuforward.org/plus/dsa/problems/largest-rectangle-in-a-histogram)

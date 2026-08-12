@@ -8,4 +8,4 @@ Given `Candy`, implement the required algorithm/data structure as specified in S
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Candy](https://takeuforward.org/plus/dsa/problems/candy)

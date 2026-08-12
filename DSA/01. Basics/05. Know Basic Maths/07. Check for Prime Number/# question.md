@@ -8,4 +8,4 @@ Given `Check for Prime Number`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Check for Prime Number](https://takeuforward.org/plus/dsa/problems/check-for-prime-number)

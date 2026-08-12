@@ -8,4 +8,4 @@ Given `Insertion at the head of Linked List`, implement the required algorithm/d
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Insertion at the head of Linked List](https://takeuforward.org/plus/dsa/problems/insertion-at-the-head-of-ll)

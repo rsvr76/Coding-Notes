@@ -8,4 +8,4 @@ Given `Find the length of the Linked List`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Find the length of the Linked List](https://takeuforward.org/plus/dsa/problems/find-the-length-of-the-linked-list)

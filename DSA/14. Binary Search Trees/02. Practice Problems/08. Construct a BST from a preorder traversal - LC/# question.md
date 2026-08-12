@@ -36,4 +36,4 @@ Output: [1,null,3]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+[LeetCode - Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)

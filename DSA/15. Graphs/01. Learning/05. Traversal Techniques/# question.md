@@ -8,4 +8,4 @@ Given `Traversal Techniques`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Traversal Techniques](https://takeuforward.org/plus/dsa/problems/traversal-techniques)

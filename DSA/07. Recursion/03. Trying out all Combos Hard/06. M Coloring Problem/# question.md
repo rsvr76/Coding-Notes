@@ -8,4 +8,4 @@ Given `M Coloring Problem`, implement the required algorithm/data structure as s
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - M Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem)

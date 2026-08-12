@@ -8,4 +8,4 @@ Given `Koko eating bananas`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Koko eating bananas](https://takeuforward.org/plus/dsa/problems/koko-eating-bananas)

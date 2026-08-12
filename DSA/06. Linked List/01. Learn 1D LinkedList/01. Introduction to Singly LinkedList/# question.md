@@ -8,4 +8,4 @@ Given `Introduction to Singly LinkedList`, implement the required algorithm/data
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Introduction to Singly LinkedList](https://takeuforward.org/plus/dsa/problems/introduction-to-singly-linkedlist)

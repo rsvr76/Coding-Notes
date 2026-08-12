@@ -41,4 +41,4 @@ Output: [1]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/sliding-window-maximum/
+[LeetCode - Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)

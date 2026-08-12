@@ -8,4 +8,4 @@ Given `Reverse an array`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse an array](https://takeuforward.org/plus/dsa/problems/reverse-an-array)

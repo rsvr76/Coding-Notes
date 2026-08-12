@@ -8,4 +8,4 @@ Given `Best time to buy and sell stock with transaction fees`, implement the req
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Best time to buy and sell stock with transaction fees](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees)

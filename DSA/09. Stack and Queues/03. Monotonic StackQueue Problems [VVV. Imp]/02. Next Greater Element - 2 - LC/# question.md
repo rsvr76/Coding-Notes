@@ -33,4 +33,4 @@ Output: [2,3,4,-1,4]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/next-greater-element-ii/
+[LeetCode - Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)

@@ -78,4 +78,4 @@ Explanation: The two lists do not intersect, so return null.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[LeetCode - Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)

@@ -8,4 +8,4 @@ Given `Implement Queue using Arrays`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Implement Queue using Arrays](https://takeuforward.org/plus/dsa/problems/implement-queue-using-arrays)

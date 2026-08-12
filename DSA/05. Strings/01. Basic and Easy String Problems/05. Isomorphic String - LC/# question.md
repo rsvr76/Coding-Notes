@@ -50,4 +50,4 @@ The strings `s` and `t` can not be made identical as `'1'` needs to be mapped to
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/isomorphic-strings/
+[LeetCode - Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)

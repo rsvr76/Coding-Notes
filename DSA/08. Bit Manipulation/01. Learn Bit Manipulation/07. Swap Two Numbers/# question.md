@@ -8,4 +8,4 @@ Given `Swap Two Numbers`, implement the required algorithm/data structure as spe
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Swap Two Numbers](https://takeuforward.org/plus/dsa/problems/swap-two-numbers)

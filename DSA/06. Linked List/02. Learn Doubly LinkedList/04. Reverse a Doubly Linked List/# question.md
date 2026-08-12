@@ -8,4 +8,4 @@ Given `Reverse a Doubly Linked List`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Reverse a Doubly Linked List](https://takeuforward.org/plus/dsa/problems/reverse-a-doubly-linked-list)

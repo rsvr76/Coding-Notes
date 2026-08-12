@@ -45,4 +45,4 @@ trie.search("app");     // return True
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/implement-trie-prefix-tree/
+[LeetCode - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)

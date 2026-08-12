@@ -8,4 +8,4 @@ Given `Why priority Queue is used in Djisktra's Algorithm`, implement the requir
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Why priority Queue is used in Djisktra's Algorithm](https://takeuforward.org/plus/dsa/problems/dijkstra's-algorithm)

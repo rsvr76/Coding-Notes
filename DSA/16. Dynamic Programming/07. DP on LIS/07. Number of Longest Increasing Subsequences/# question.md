@@ -8,4 +8,4 @@ Given `Number of Longest Increasing Subsequences`, implement the required algori
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of Longest Increasing Subsequences](https://takeuforward.org/plus/dsa/problems/number-of-longest-increasing-subsequences)

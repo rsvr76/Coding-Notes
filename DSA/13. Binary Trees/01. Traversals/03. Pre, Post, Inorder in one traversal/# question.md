@@ -8,4 +8,4 @@ Given `Pre, Post, Inorder in one traversal`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Pre, Post, Inorder in one traversal](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal)

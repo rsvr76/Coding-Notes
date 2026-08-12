@@ -31,4 +31,4 @@ Output: 4
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/delete-operation-for-two-strings/
+[LeetCode - Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)

@@ -32,4 +32,4 @@ Output: false
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/rotate-string/
+[LeetCode - Rotate String](https://leetcode.com/problems/rotate-string/)

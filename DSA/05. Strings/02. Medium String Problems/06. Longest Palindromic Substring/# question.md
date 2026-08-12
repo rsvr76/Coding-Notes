@@ -8,4 +8,4 @@ Given `Longest Palindromic Substring`, implement the required algorithm/data str
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Palindromic Substring](https://takeuforward.org/plus/dsa/problems/longest-palindromic-substring)

@@ -8,4 +8,4 @@ Given `Hand of Straights`, implement the required algorithm/data structure as sp
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Hand of Straights](https://takeuforward.org/plus/dsa/problems/hand-of-straights)

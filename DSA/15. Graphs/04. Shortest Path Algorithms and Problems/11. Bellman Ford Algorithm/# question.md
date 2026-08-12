@@ -8,4 +8,4 @@ Given `Bellman Ford Algorithm`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Bellman Ford Algorithm](https://takeuforward.org/plus/dsa/problems/bellman-ford-algorithm)

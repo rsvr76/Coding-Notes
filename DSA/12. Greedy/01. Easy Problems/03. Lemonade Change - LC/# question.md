@@ -42,4 +42,4 @@ Since not every customer received the correct change, the answer is false.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/lemonade-change/
+[LeetCode - Lemonade Change](https://leetcode.com/problems/lemonade-change/)

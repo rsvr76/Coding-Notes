@@ -8,4 +8,4 @@ Given `Number of distinct substrings in a string`, implement the required algori
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of distinct substrings in a string](https://takeuforward.org/plus/dsa/problems/number-of-distinct-substrings-in-a-string)

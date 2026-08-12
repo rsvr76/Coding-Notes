@@ -8,4 +8,4 @@ Given `Number of provinces`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Number of provinces](https://takeuforward.org/plus/dsa/problems/number-of-provinces)

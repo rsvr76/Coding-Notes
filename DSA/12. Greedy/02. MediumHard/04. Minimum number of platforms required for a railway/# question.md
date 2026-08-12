@@ -8,4 +8,4 @@ Given `Minimum number of platforms required for a railway`, implement the requir
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Minimum number of platforms required for a railway](https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway)

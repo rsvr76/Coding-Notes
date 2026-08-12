@@ -8,4 +8,4 @@ Given `Word Break`, implement the required algorithm/data structure as specified
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Word Break](https://takeuforward.org/plus/dsa/problems/word-break)

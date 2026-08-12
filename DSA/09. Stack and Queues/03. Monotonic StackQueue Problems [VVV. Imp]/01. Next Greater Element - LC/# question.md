@@ -47,4 +47,4 @@ Explanation: The next greater element for each value of nums1 is as follows:
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/next-greater-element-i/
+[LeetCode - Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)

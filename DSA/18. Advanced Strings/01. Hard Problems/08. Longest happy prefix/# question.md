@@ -8,4 +8,4 @@ Given `Longest happy prefix`, implement the required algorithm/data structure as
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest happy prefix](https://takeuforward.org/plus/dsa/problems/longest-happy-prefix)

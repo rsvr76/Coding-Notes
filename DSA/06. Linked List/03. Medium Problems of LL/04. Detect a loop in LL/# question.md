@@ -8,4 +8,4 @@ Given `Detect a loop in LL`, implement the required algorithm/data structure as 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Detect a loop in LL](https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll)

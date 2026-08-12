@@ -30,4 +30,4 @@ Output: [2,0,1]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/rotate-list/description/
+[LeetCode - Rotate List](https://leetcode.com/problems/rotate-list/description/)

@@ -8,4 +8,4 @@ Given `Symmetric Binary Tree`, implement the required algorithm/data structure a
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Symmetric Binary Tree](https://takeuforward.org/plus/dsa/problems/check-for-symmetrical-bts)

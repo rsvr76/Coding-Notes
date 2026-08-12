@@ -8,4 +8,4 @@ Given `Construct a BT from Preorder and Inorder`, implement the required algorit
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Construct a BT from Preorder and Inorder](https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-preorder-and-inorder)

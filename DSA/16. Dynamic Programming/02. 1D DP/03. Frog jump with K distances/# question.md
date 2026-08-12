@@ -8,4 +8,4 @@ Given `Frog jump with K distances`, implement the required algorithm/data struct
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Frog jump with K distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances)

@@ -8,4 +8,4 @@ Given `Divide two numbers without multiplication and division`, implement the re
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Divide two numbers without multiplication and division](https://takeuforward.org/plus/dsa/problems/divide-two-numbers-without-multiplication-and-division)

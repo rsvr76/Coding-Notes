@@ -8,4 +8,4 @@ Given `Remove duplicates from Sorted array`, implement the required algorithm/da
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Remove duplicates from Sorted array](https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array)

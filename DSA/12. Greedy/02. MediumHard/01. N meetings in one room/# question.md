@@ -8,4 +8,4 @@ Given `N meetings in one room`, implement the required algorithm/data structure 
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - N meetings in one room](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room)

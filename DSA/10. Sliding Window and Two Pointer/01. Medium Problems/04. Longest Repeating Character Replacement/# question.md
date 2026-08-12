@@ -8,4 +8,4 @@ Given `Longest Repeating Character Replacement`, implement the required algorith
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Longest Repeating Character Replacement](https://takeuforward.org/plus/dsa/problems/longest-repeating-character-replacement)

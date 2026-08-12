@@ -8,4 +8,4 @@ Given `Selection Sort`, implement the required algorithm/data structure as speci
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Selection Sort](https://takeuforward.org/plus/dsa/problems/selection-sort)

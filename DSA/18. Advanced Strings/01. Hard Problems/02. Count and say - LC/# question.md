@@ -47,4 +47,4 @@ This is the base case.
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/count-and-say/
+[LeetCode - Count and Say](https://leetcode.com/problems/count-and-say/)

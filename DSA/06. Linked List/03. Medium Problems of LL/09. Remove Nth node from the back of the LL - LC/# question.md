@@ -41,4 +41,4 @@ Output: [1]
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[LeetCode - Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)

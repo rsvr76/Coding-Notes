@@ -51,4 +51,4 @@ minStack.getMin(); // return -2
 
 ## Source
 
-LeetCode: https://leetcode.com/problems/min-stack/
+[LeetCode - Min Stack](https://leetcode.com/problems/min-stack/)

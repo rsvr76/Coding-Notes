@@ -8,4 +8,4 @@ Given `Detect a cycle in a directed graph`, implement the required algorithm/dat
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Detect a cycle in a directed graph](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph)

@@ -8,4 +8,4 @@ Given `Implement Stack using Arrays`, implement the required algorithm/data stru
 
 ## Source
 
-Striver A2Z / TakeUForward
+[TakeUForward - Implement Stack using Arrays](https://takeuforward.org/plus/dsa/problems/implement-stack-using-arrays)
