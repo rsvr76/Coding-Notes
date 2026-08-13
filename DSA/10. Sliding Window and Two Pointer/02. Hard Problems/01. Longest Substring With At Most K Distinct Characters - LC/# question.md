@@ -1,10 +1,34 @@
-# Longest Substring With At Most K Distinct Characters
+# Longest Substring with At Most K Distinct Characters
+
+**LeetCode #340** | **Difficulty**: Medium
 
 ## Problem Statement
 
-> [!WARNING]
-> TODO: Problem statement requires manual retrieval.
+Given a string `s` and an integer `k`, return *the length of the longest substring of* `s` *that contains at most* `k` *distinct characters*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: s = "eceba", k = 2
+Output: 3
+Explanation: The substring is "ece" with length 3.
+```
+
+### Example 2:
+
+```
+Input: s = "aa", k = 1
+Output: 2
+Explanation: The substring is "aa" with length 2.
+```
+
+## Constraints
+
+- `1 <= s.length <= 5 * 10^4`
+- `0 <= k <= 50`
 
 ## Source
 
-[LeetCode - Longest Substring With At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+[LeetCode - Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)

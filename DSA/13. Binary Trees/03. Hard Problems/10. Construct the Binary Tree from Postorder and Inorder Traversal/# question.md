@@ -1,11 +1,37 @@
-# Construct the Binary Tree from Postorder and Inorder Traversal
+# Construct Binary Tree from Inorder and Postorder Traversal
 
-**Difficulty**: Hard
+**LeetCode #106** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Construct the Binary Tree from Postorder and Inorder Traversal`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given two integer arrays `inorder` and `postorder` where `inorder` is the inorder traversal of a binary tree and `postorder` is the postorder traversal of the same tree, construct and return *the binary tree*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: inorder = [9,3,15,20,7], postorder = [9,15,7,20,3]
+Output: [3,9,20,null,null,15,7]
+```
+
+### Example 2:
+
+```
+Input: inorder = [-1], postorder = [-1]
+Output: [-1]
+```
+
+## Constraints
+
+- `1 <= inorder.length <= 3000`
+	- `postorder.length == inorder.length`
+	- `-3000 <= inorder[i], postorder[i] <= 3000`
+	- `inorder` and `postorder` consist of **unique** values.
+	- Each value of `postorder` also appears in `inorder`.
+	- `inorder` is **guaranteed** to be the inorder traversal of the tree.
+	- `postorder` is **guaranteed** to be the postorder traversal of the tree.
 
 ## Source
 
-[TakeUForward - Construct the Binary Tree from Postorder and Inorder Traversal](https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-postorder-and-inorder)
+[TakeUForward - Construct the Binary Tree from Postorder and Inorder Traversal](https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/) | [LeetCode - Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)

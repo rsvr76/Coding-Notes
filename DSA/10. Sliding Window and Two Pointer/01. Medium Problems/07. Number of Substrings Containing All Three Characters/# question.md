@@ -1,11 +1,43 @@
 # Number of Substrings Containing All Three Characters
 
-**Difficulty**: Hard
+**LeetCode #1358** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Number of Substrings Containing All Three Characters`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given a string `s` consisting only of characters *a*, *b* and *c*.
+
+Return the number of substrings containing **at least** one occurrence of all these characters *a*, *b* and *c*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: s = "abcabc"
+Output: 10
+Explanation: The substrings containing at least one occurrence of the characters a, b and c are "abc", "abca", "abcab", "abcabc", "bca", "bcab", "bcabc", "cab", "cabc" and "abc" (again).
+```
+
+### Example 2:
+
+```
+Input: s = "aaacb"
+Output: 3
+Explanation: The substrings containing at least one occurrence of the characters a, b and c are "aaacb", "aacb" and "acb".
+```
+
+### Example 3:
+
+```
+Input: s = "abc"
+Output: 1
+```
+
+## Constraints
+
+- `3 <= s.length <= 5 x 10^4`
+	- `s` only consists of `'a'`, `'b'` or `'c'` characters.
 
 ## Source
 
-[TakeUForward - Number of Substrings Containing All Three Characters](https://takeuforward.org/plus/dsa/problems/number-of-substrings-containing-all-three-characters)
+[TakeUForward - Number of Substrings Containing All Three Characters](https://takeuforward.org/data-structure/number-of-substring-containing-all-three-characters) | [LeetCode - Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)

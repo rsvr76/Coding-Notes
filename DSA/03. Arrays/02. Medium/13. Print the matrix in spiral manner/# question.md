@@ -1,11 +1,34 @@
-# Print the matrix in spiral manner
+# Spiral Matrix
 
-**Difficulty**: Medium
+**LeetCode #54** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Print the matrix in spiral manner`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an `m x n` `matrix`, return *all elements of the* `matrix` *in spiral order*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [1,2,3,6,9,8,7,4,5]
+```
+
+### Example 2:
+
+```
+Input: matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+```
+
+## Constraints
+
+- `m == matrix.length`
+	- `n == matrix[i].length`
+	- `1 <= m, n <= 10`
+	- `-100 <= matrix[i][j] <= 100`
 
 ## Source
 
-[TakeUForward - Print the matrix in spiral manner](https://takeuforward.org/plus/dsa/problems/print-the-matrix-in-spiral-manner)
+[TakeUForward - Print the matrix in spiral manner](https://takeuforward.org/data-structure/spiral-traversal-of-matrix/) | [LeetCode - Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)

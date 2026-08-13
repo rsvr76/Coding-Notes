@@ -1,11 +1,34 @@
 # Letter Combinations of a Phone Number
 
-**Difficulty**: Hard
+**LeetCode #17** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Letter Combinations of a Phone Number`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given a string containing digits from `2-9` inclusive, return all possible letter combinations that the number could represent. Return the answer in **any order**.
+
+A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+
+## Examples
+
+### Example 1:
+
+```
+Input: digits = "23"
+Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+```
+
+### Example 2:
+
+```
+Input: digits = "2"
+Output: ["a","b","c"]
+```
+
+## Constraints
+
+- `1 <= digits.length <= 4`
+	- `digits[i]` is a digit in the range `['2', '9']`.
 
 ## Source
 
-[TakeUForward - Letter Combinations of a Phone Number](https://takeuforward.org/plus/dsa/problems/letter-combinations-of-a-phone-number)
+[TakeUForward - Letter Combinations of a Phone Number](https://takeuforward.org/data-structure/letter-combinations-of-a-phone-number) | [LeetCode - Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)

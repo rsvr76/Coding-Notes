@@ -1,11 +1,33 @@
-# Maximum Consecutive Ones
+# Max Consecutive Ones
 
-**Difficulty**: Easy
+**LeetCode #485** | **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Maximum Consecutive Ones`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given a binary array `nums`, return *the maximum number of consecutive *`1`*'s in the array*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: nums = [1,1,0,1,1,1]
+Output: 3
+Explanation: The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3.
+```
+
+### Example 2:
+
+```
+Input: nums = [1,0,1,1,0,1]
+Output: 2
+```
+
+## Constraints
+
+- `1 <= nums.length <= 10^5`
+	- `nums[i]` is either `0` or `1`.
 
 ## Source
 
-[TakeUForward - Maximum Consecutive Ones](https://takeuforward.org/plus/dsa/problems/maximum-consecutive-ones)
+[TakeUForward - Maximum Consecutive Ones](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/) | [LeetCode - Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)

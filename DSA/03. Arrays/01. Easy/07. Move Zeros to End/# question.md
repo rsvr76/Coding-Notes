@@ -1,11 +1,34 @@
-# Move Zeros to End
+# Move Zeroes
 
-**Difficulty**: Easy
+**LeetCode #283** | **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Move Zeros to End`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer array `nums`, move all `0`'s to the end of it while maintaining the relative order of the non-zero elements.
+
+**Note** that you must do this in-place without making a copy of the array.
+
+## Examples
+
+### Example 1:
+
+```
+Input: nums = [0,1,0,3,12]
+Output: [1,3,12,0,0]
+```
+
+### Example 2:
+
+```
+Input: nums = [0]
+Output: [0]
+```
+
+## Constraints
+
+- `1 <= nums.length <= 10^4`
+	- `-2^31 <= nums[i] <= 2^31 - 1`
 
 ## Source
 
-[TakeUForward - Move Zeros to End](https://takeuforward.org/plus/dsa/problems/move-zeros-to-end)
+[TakeUForward - Move Zeros to End](https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/) | [LeetCode - Move Zeroes](https://leetcode.com/problems/move-zeroes/)

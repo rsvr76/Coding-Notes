@@ -1,11 +1,41 @@
 # Surrounded Regions
 
-**Difficulty**: Medium
+**LeetCode #130** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Surrounded Regions`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+You are given an `m x n` matrix `board` containing **letters** `'X'` and `'O'`, **capture regions** that are **surrounded**:
+
+- **Connect**: A cell is connected to adjacent cells horizontally or vertically.
+	- **Region**: To form a region **connect every** `'O'` cell.
+	- **Surround**: A region is surrounded if none of the `'O'` cells in that region are on the edge of the board. Such regions are **completely enclosed **by `'X'` cells.
+To capture a **surrounded region**, replace all `'O'`s with `'X'`s **in-place** within the original board. You do not need to return anything.
+
+## Examples
+
+### Example 1:
+
+**Input:** board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
+
+**Output:** [["X","X","X","X"],["X","X","X","X"],["X","X","X","X"],["X","O","X","X"]]
+
+**Explanation:**
+
+In the above diagram, the bottom region is not captured because it is on the edge of the board and cannot be surrounded.
+
+### Example 2:
+
+**Input:** board = [["X"]]
+
+**Output:** [["X"]]
+
+## Constraints
+
+- `m == board.length`
+	- `n == board[i].length`
+	- `1 <= m, n <= 200`
+	- `board[i][j]` is `'X'` or `'O'`.
 
 ## Source
 
-[TakeUForward - Surrounded Regions](https://takeuforward.org/plus/dsa/problems/surrounded-regions)
+[TakeUForward - Surrounded Regions](https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/) | [LeetCode - Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)

@@ -1,11 +1,27 @@
 # Cycle Detection in Undirected Graph (bfs)
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Cycle Detection in Undirected Graph (bfs)`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Implement the core logic and algorithm for **Cycle Detection in Undirected Graph (bfs)** as structured in Striver's A2Z DSA roadmap.
+
+Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+
+## Examples
+
+### Example 1:
+
+```
+Input: Refer to standard problem test cases.
+Output: Resulting output after applying the algorithm.
+Explanation: Process elements step-by-step according to the algorithm rules.
+```
+
+## Constraints
+
+- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
 
 ## Source
 
-[TakeUForward - Cycle Detection in Undirected Graph (bfs)](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-an-undirected-graph)
+[Cycle Detection in Undirected Graph (bfs)](https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/)

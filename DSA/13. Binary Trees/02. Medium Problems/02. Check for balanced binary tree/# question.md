@@ -1,11 +1,39 @@
-# Check for balanced binary tree
+# Balanced Binary Tree
 
-**Difficulty**: Medium
+**LeetCode #110** | **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Check for balanced binary tree`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given a binary tree, determine if it is **height-balanced**.
+
+## Examples
+
+### Example 1:
+
+```
+Input: root = [3,9,20,null,null,15,7]
+Output: true
+```
+
+### Example 2:
+
+```
+Input: root = [1,2,2,3,3,null,null,4,4]
+Output: false
+```
+
+### Example 3:
+
+```
+Input: root = []
+Output: true
+```
+
+## Constraints
+
+- The number of nodes in the tree is in the range `[0, 5000]`.
+	- `-10^4 <= Node.val <= 10^4`
 
 ## Source
 
-[TakeUForward - Check for balanced binary tree](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree)
+[TakeUForward - Check for balanced binary tree](https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/) | [LeetCode - Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)

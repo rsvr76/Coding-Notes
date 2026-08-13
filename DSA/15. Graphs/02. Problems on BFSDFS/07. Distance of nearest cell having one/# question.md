@@ -1,11 +1,38 @@
-# Distance of nearest cell having one
+# 01 Matrix
 
-**Difficulty**: Medium
+**LeetCode #542** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Distance of nearest cell having one`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an `m x n` binary matrix `mat`, return *the distance of the nearest *`0`* for each cell*.
+
+The distance between two cells sharing a common edge is `1`.
+
+## Examples
+
+### Example 1:
+
+```
+Input: mat = [[0,0,0],[0,1,0],[0,0,0]]
+Output: [[0,0,0],[0,1,0],[0,0,0]]
+```
+
+### Example 2:
+
+```
+Input: mat = [[0,0,0],[0,1,0],[1,1,1]]
+Output: [[0,0,0],[0,1,0],[1,2,1]]
+```
+
+## Constraints
+
+- `m == mat.length`
+	- `n == mat[i].length`
+	- `1 <= m, n <= 10^4`
+	- `1 <= m * n <= 10^4`
+	- `mat[i][j]` is either `0` or `1`.
+	- There is at least one `0` in `mat`.
 
 ## Source
 
-[TakeUForward - Distance of nearest cell having one](https://takeuforward.org/plus/dsa/problems/distance-of-nearest-cell-having-one)
+[TakeUForward - Distance of nearest cell having one](https://takeuforward.org/graph/distance-of-nearest-cell-having-1/) | [LeetCode - 01 Matrix](https://leetcode.com/problems/01-matrix/)

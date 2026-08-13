@@ -1,11 +1,39 @@
-# Zig Zag or Spiral Traversal
+# Binary Tree Zigzag Level Order Traversal
 
-**Difficulty**: Medium
+**LeetCode #103** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Zig Zag or Spiral Traversal`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given the `root` of a binary tree, return *the zigzag level order traversal of its nodes' values*. (i.e., from left to right, then right to left for the next level and alternate between).
+
+## Examples
+
+### Example 1:
+
+```
+Input: root = [3,9,20,null,null,15,7]
+Output: [[3],[20,9],[15,7]]
+```
+
+### Example 2:
+
+```
+Input: root = [1]
+Output: [[1]]
+```
+
+### Example 3:
+
+```
+Input: root = []
+Output: []
+```
+
+## Constraints
+
+- The number of nodes in the tree is in the range `[0, 2000]`.
+	- `-100 <= Node.val <= 100`
 
 ## Source
 
-[TakeUForward - Zig Zag or Spiral Traversal](https://takeuforward.org/plus/dsa/problems/zig-zag-or-spiral-traversal)
+[TakeUForward - Zig Zag or Spiral Traversal](https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/) | [LeetCode - Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)

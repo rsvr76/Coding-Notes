@@ -1,11 +1,46 @@
-# Valid Paranthesis Checker
+# Valid Parenthesis String
 
-**Difficulty**: Hard
+**LeetCode #678** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Valid Paranthesis Checker`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given a string `s` containing only three types of characters: `'('`, `')'` and `'*'`, return `true` *if* `s` *is **valid***.
+
+The following rules define a **valid** string:
+
+- Any left parenthesis `'('` must have a corresponding right parenthesis `')'`.
+	- Any right parenthesis `')'` must have a corresponding left parenthesis `'('`.
+	- Left parenthesis `'('` must go before the corresponding right parenthesis `')'`.
+	- `'*'` could be treated as a single right parenthesis `')'` or a single left parenthesis `'('` or an empty string `""`.
+
+## Examples
+
+### Example 1:
+
+```
+Input: s = "()"
+Output: true
+```
+
+### Example 2:
+
+```
+Input: s = "(*)"
+Output: true
+```
+
+### Example 3:
+
+```
+Input: s = "(*))"
+Output: true
+```
+
+## Constraints
+
+- `1 <= s.length <= 100`
+	- `s[i]` is `'('`, `')'` or `'*'`.
 
 ## Source
 
-[TakeUForward - Valid Paranthesis Checker](https://takeuforward.org/plus/dsa/problems/valid-paranthesis-checker)
+[TakeUForward - Valid Paranthesis Checker](https://takeuforward.org/data-structure/valid-paranthesis-checker) | [LeetCode - Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)

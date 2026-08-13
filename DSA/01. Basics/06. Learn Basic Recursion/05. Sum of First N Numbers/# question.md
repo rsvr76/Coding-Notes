@@ -1,11 +1,35 @@
-# Sum of First N Numbers
+# Sum of First N Terms
 
 **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Sum of First N Numbers`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer `n`, calculate the sum of the first `n` natural numbers `1 + 2 + ... + n` using **recursion**.
+
+Return the total sum.
+
+## Examples
+
+### Example 1:
+
+```
+Input: n = 5
+Output: 15
+Explanation: 1 + 2 + 3 + 4 + 5 = 15.
+```
+
+### Example 2:
+
+```
+Input: n = 3
+Output: 6
+Explanation: 1 + 2 + 3 = 6.
+```
+
+## Constraints
+
+- `1 <= n <= 10^4`
 
 ## Source
 
-[TakeUForward - Sum of First N Numbers](https://takeuforward.org/plus/dsa/problems/sum-of-first-n-numbers)
+[TakeUForward - Sum of First N Terms](https://takeuforward.org/recursion/sum-of-first-n-natural-numbers/)

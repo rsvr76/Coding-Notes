@@ -1,11 +1,42 @@
-# Longest Consecutive Sequence in an Array
+# Longest Consecutive Sequence
 
-**Difficulty**: Medium
+**LeetCode #128** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Longest Consecutive Sequence in an Array`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an unsorted array of integers `nums`, return *the length of the longest consecutive elements sequence.*
+
+You must write an algorithm that runs in `O(n)` time.
+
+## Examples
+
+### Example 1:
+
+```
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
+
+### Example 2:
+
+```
+Input: nums = [0,3,7,2,5,8,4,6,0,1]
+Output: 9
+```
+
+### Example 3:
+
+```
+Input: nums = [1,0,1,2]
+Output: 3
+```
+
+## Constraints
+
+- `0 <= nums.length <= 10^5`
+	- `-10^9 <= nums[i] <= 10^9`
 
 ## Source
 
-[TakeUForward - Longest Consecutive Sequence in an Array](https://takeuforward.org/plus/dsa/problems/longest-consecutive-sequence-in-an-array)
+[TakeUForward - Longest Consecutive Sequence in an Array](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/) | [LeetCode - Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)

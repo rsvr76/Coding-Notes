@@ -1,11 +1,27 @@
 # Why priority Queue is used in Djisktra's Algorithm
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Why priority Queue is used in Djisktra's Algorithm`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Implement the core logic and algorithm for **Why priority Queue is used in Djisktra's Algorithm** as structured in Striver's A2Z DSA roadmap.
+
+Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+
+## Examples
+
+### Example 1:
+
+```
+Input: Refer to standard problem test cases.
+Output: Resulting output after applying the algorithm.
+Explanation: Process elements step-by-step according to the algorithm rules.
+```
+
+## Constraints
+
+- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
 
 ## Source
 
-[TakeUForward - Why priority Queue is used in Djisktra's Algorithm](https://takeuforward.org/plus/dsa/problems/dijkstra's-algorithm)
+[Why priority Queue is used in Djisktra's Algorithm](https://takeuforward.org/data-structure/dijkstras-algorithm-using-priority-queue-g-32/)

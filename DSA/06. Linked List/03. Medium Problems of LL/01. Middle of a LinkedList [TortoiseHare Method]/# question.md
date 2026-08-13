@@ -1,11 +1,36 @@
-# Middle of a LinkedList [TortoiseHare Method]
+# Middle of the Linked List
 
-**Difficulty**: Easy
+**LeetCode #876** | **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Middle of a LinkedList [TortoiseHare Method]`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given the `head` of a singly linked list, return *the middle node of the linked list*.
+
+If there are two middle nodes, return **the second middle** node.
+
+## Examples
+
+### Example 1:
+
+```
+Input: head = [1,2,3,4,5]
+Output: [3,4,5]
+Explanation: The middle node of the list is node 3.
+```
+
+### Example 2:
+
+```
+Input: head = [1,2,3,4,5,6]
+Output: [4,5,6]
+Explanation: Since the list has two middle nodes with values 3 and 4, we return the second one.
+```
+
+## Constraints
+
+- The number of nodes in the list is in the range `[1, 100]`.
+	- `1 <= Node.val <= 100`
 
 ## Source
 
-[TakeUForward - Middle of a LinkedList [TortoiseHare Method]](https://takeuforward.org/plus/dsa/problems/find-middle-of-linked-list)
+[TakeUForward - Middle of a LinkedList [TortoiseHare Method]](https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/) | [LeetCode - Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)

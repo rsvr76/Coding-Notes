@@ -1,11 +1,27 @@
 # Bit PreRequisites for TRIE Problems
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Bit PreRequisites for TRIE Problems`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Implement the core logic and algorithm for **Bit PreRequisites for TRIE Problems** as structured in Striver's A2Z DSA roadmap.
+
+Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+
+## Examples
+
+### Example 1:
+
+```
+Input: Refer to standard problem test cases.
+Output: Resulting output after applying the algorithm.
+Explanation: Process elements step-by-step according to the algorithm rules.
+```
+
+## Constraints
+
+- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
 
 ## Source
 
-[TakeUForward - Bit PreRequisites for TRIE Problems](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+[Bit PreRequisites for TRIE Problems](https://takeuforward.org/plus/dsa/problems/bit-prerequisites-for-trie-problems)

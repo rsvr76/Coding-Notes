@@ -1,11 +1,42 @@
-# Pattern 20
+# Pattern 20: Symmetric Butterfly Pattern
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Pattern 20`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer `N`, print a symmetric butterfly pattern of stars.
+
+## Input
+
+An integer `N`.
+
+## Output
+
+Print `2*N - 1` rows forming a butterfly shape.
+
+## Examples
+
+### Example 1
+
+**Input**: `N = 3`  
+**Output**:
+```
+*    *
+**  **
+******
+**  **
+*    *
+```
+
+## Constraints
+
+- `1 <= N <= 20`
+
+## Expected Complexity
+
+Time: O(N^2)
+Space: O(1)
 
 ## Source
 
-[TakeUForward - Pattern 20](https://takeuforward.org/plus/dsa/problems/pattern-20)
+[TakeUForward - Pattern 20](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)

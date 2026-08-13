@@ -1,11 +1,40 @@
-# Pattern 1
+# Pattern 1: Rectangular Star Pattern
 
 **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Pattern 1`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer `N`, print an `N x N` square matrix of stars (`*`).
+
+## Input
+
+An integer `N`.
+
+## Output
+
+Print `N` rows, each containing `N` stars separated by spaces.
+
+## Examples
+
+### Example 1
+
+**Input**: `N = 3`  
+**Output**:
+```
+* * *
+* * *
+* * *
+```
+
+## Constraints
+
+- `1 <= N <= 20`
+
+## Expected Complexity
+
+Time: O(N^2)
+Space: O(1)
 
 ## Source
 
-[TakeUForward - Pattern 1](https://takeuforward.org/plus/dsa/problems/pattern-1)
+[TakeUForward - Pattern 1](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)

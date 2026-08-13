@@ -1,11 +1,39 @@
-# Reverse a LinkedList [Iterative]
+# Reverse Linked List
 
-**Difficulty**: Medium
+**LeetCode #206** | **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Reverse a LinkedList [Iterative]`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given the `head` of a singly linked list, reverse the list, and return *the reversed list*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: head = [1,2,3,4,5]
+Output: [5,4,3,2,1]
+```
+
+### Example 2:
+
+```
+Input: head = [1,2]
+Output: [2,1]
+```
+
+### Example 3:
+
+```
+Input: head = []
+Output: []
+```
+
+## Constraints
+
+- The number of nodes in the list is the range `[0, 5000]`.
+	- `-5000 <= Node.val <= 5000`
 
 ## Source
 
-[TakeUForward - Reverse a LinkedList [Iterative]](https://takeuforward.org/plus/dsa/problems/reverse-a-ll)
+[TakeUForward - Reverse a LinkedList [Iterative]](https://takeuforward.org/data-structure/reverse-a-linked-list/) | [LeetCode - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)

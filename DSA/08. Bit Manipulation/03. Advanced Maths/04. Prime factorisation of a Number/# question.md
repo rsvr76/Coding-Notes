@@ -1,11 +1,27 @@
 # Prime factorisation of a Number
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Prime factorisation of a Number`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Implement the core logic and algorithm for **Prime factorisation of a Number** as structured in Striver's A2Z DSA roadmap.
+
+Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+
+## Examples
+
+### Example 1:
+
+```
+Input: Refer to standard problem test cases.
+Output: Resulting output after applying the algorithm.
+Explanation: Process elements step-by-step according to the algorithm rules.
+```
+
+## Constraints
+
+- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
 
 ## Source
 
-[TakeUForward - Prime factorisation of a Number](https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number)
+[Prime factorisation of a Number](https://takeuforward.org/data-structure/find-the-two-numbers-appearing-odd-number-of-times)

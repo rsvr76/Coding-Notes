@@ -1,11 +1,29 @@
-# Print name N times using recursion
+# Print Name N Times Using Recursion
 
 **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Print name N times using recursion`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer `n` and a string `name`, print `name` `n` times using **recursion**.
+
+Do not use loops.
+
+## Examples
+
+### Example 1:
+
+```
+Input: n = 3, name = "Striver"
+Output:
+Striver
+Striver
+Striver
+```
+
+## Constraints
+
+- `1 <= n <= 1000`
 
 ## Source
 
-[TakeUForward - Print name N times using recursion](https://takeuforward.org/recursion/print-name-n-times-using-recursion/)
+[TakeUForward - Print Name N Times Using Recursion](https://takeuforward.org/recursion/print-name-n-times-using-recursion/)

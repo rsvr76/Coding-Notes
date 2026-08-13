@@ -4,8 +4,22 @@
 
 ## Problem Statement
 
-Given `Introduction to Singly LinkedList`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an array of `n` integers, construct a **Singly Linked List** containing elements of the array in the same order and return the head of the linked list.
+
+## Examples
+
+### Example 1:
+
+```
+Input: arr = [1, 2, 3, 4, 5]
+Output: 1 -> 2 -> 3 -> 4 -> 5
+```
+
+## Constraints
+
+- `1 <= n <= 10^5`
+- `-10^9 <= arr[i] <= 10^9`
 
 ## Source
 
-[TakeUForward - Introduction to Singly LinkedList](https://takeuforward.org/plus/dsa/problems/introduction-to-singly-linkedlist)
+[TakeUForward - Introduction to Singly LinkedList](https://takeuforward.org/linked-list/linked-list-introduction)

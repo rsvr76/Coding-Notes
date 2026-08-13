@@ -1,11 +1,40 @@
-# Reverse a number
+# Reverse Integer
 
-**Difficulty**: Easy
+**LeetCode #7** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Reverse a number`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given a signed 32-bit integer `x`, return `x`* with its digits reversed*. If reversing `x` causes the value to go outside the signed 32-bit integer range `[-2^31, 2^31 - 1]`, then return `0`.
+
+**Assume the environment does not allow you to store 64-bit integers (signed or unsigned).**
+
+## Examples
+
+### Example 1:
+
+```
+Input: x = 123
+Output: 321
+```
+
+### Example 2:
+
+```
+Input: x = -123
+Output: -321
+```
+
+### Example 3:
+
+```
+Input: x = 120
+Output: 21
+```
+
+## Constraints
+
+- `-2^31 <= x <= 2^31 - 1`
 
 ## Source
 
-[TakeUForward - Reverse a number](https://takeuforward.org/plus/dsa/problems/reverse-a-number)
+[TakeUForward - Reverse a number](https://takeuforward.org/maths/reverse-digits-of-a-number) | [LeetCode - Reverse Integer](https://leetcode.com/problems/reverse-integer/)

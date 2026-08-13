@@ -1,11 +1,27 @@
 # Replace Elements by Their Rank
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Replace Elements by Their Rank`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Implement the core logic and algorithm for **Replace Elements by Their Rank** as structured in Striver's A2Z DSA roadmap.
+
+Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+
+## Examples
+
+### Example 1:
+
+```
+Input: Refer to standard problem test cases.
+Output: Resulting output after applying the algorithm.
+Explanation: Process elements step-by-step according to the algorithm rules.
+```
+
+## Constraints
+
+- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
 
 ## Source
 
-[TakeUForward - Replace Elements by Their Rank](https://takeuforward.org/plus/dsa/problems/replace-elements-by-their-rank)
+[Replace Elements by Their Rank](https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/)

@@ -1,11 +1,34 @@
 # Subsets II
 
-**Difficulty**: Medium
+**LeetCode #90** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Subsets II`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer array `nums` that may contain duplicates, return *all possible* *subsets** (the power set)*.
+
+The solution set **must not** contain duplicate subsets. Return the solution in **any order**.
+
+## Examples
+
+### Example 1:
+
+```
+Input: nums = [1,2,2]
+Output: [[],[1],[1,2],[1,2,2],[2],[2,2]]
+```
+
+### Example 2:
+
+```
+Input: nums = [0]
+Output: [[],[0]]
+```
+
+## Constraints
+
+- `1 <= nums.length <= 10`
+	- `-10 <= nums[i] <= 10`
 
 ## Source
 
-[TakeUForward - Subsets II](https://takeuforward.org/plus/dsa/problems/subsets-ii)
+[TakeUForward - Subsets II](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/) | [LeetCode - Subsets II](https://leetcode.com/problems/subsets-ii/)

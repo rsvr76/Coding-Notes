@@ -1,11 +1,27 @@
-# Implement Stack using Arrays
+# Implement Stack Using Arrays
 
 **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Implement Stack using Arrays`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Implement a LIFO **Stack** using an array with operations: `push(x)`, `pop()`, `top()`, `isEmpty()`, and `size()`.
+
+## Examples
+
+### Example 1:
+
+```
+Input:
+push(2), push(3), pop(), push(4), top()
+Output:
+pop() returns 3
+top() returns 4
+```
+
+## Constraints
+
+- `1 <= Number of operations <= 10^5`
 
 ## Source
 
-[TakeUForward - Implement Stack using Arrays](https://takeuforward.org/plus/dsa/problems/implement-stack-using-arrays)
+[TakeUForward - Implement Stack Using Arrays](https://takeuforward.org/data-structure/implement-stack-using-array/)

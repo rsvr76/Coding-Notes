@@ -1,11 +1,42 @@
-# Maximum Rectangles
+# Maximal Rectangle
 
-**Difficulty**: Hard
+**LeetCode #85** | **Difficulty**: Hard
 
 ## Problem Statement
 
-Given `Maximum Rectangles`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given a `rows x cols` binary `matrix` filled with `0`'s and `1`'s, find the largest rectangle containing only `1`'s and return *its area*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
+Output: 6
+Explanation: The maximal rectangle is shown in the above picture.
+```
+
+### Example 2:
+
+```
+Input: matrix = [["0"]]
+Output: 0
+```
+
+### Example 3:
+
+```
+Input: matrix = [["1"]]
+Output: 1
+```
+
+## Constraints
+
+- `rows == matrix.length`
+	- `cols == matrix[i].length`
+	- `1 <= rows, cols <= 200`
+	- `matrix[i][j]` is `'0'` or `'1'`.
 
 ## Source
 
-[TakeUForward - Maximum Rectangles](https://takeuforward.org/plus/dsa/problems/maximum-rectangles)
+[TakeUForward - Maximum Rectangles](https://takeuforward.org/data-structure/maximum-rectangle-area-with-all-1s-dp-on-rectangles-dp-55/) | [LeetCode - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)

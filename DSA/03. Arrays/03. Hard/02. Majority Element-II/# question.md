@@ -1,11 +1,39 @@
-# Majority Element-II
+# Majority Element II
 
-**Difficulty**: Hard
+**LeetCode #229** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Majority Element-II`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer array of size `n`, find all elements that appear more than `⌊n / 3⌋` times.
+
+## Examples
+
+### Example 1:
+
+```
+Input: nums = [3,2,3]
+Output: [3]
+```
+
+### Example 2:
+
+```
+Input: nums = [1]
+Output: [1]
+```
+
+### Example 3:
+
+```
+Input: nums = [1,2]
+Output: [1,2]
+```
+
+## Constraints
+
+- `1 <= nums.length <= 5 * 10^4`
+	- `-10^9 <= nums[i] <= 10^9`
 
 ## Source
 
-[TakeUForward - Majority Element-II](https://takeuforward.org/plus/dsa/problems/majority-element-ii)
+[TakeUForward - Majority Element-II](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/) | [LeetCode - Majority Element II](https://leetcode.com/problems/majority-element-ii/)

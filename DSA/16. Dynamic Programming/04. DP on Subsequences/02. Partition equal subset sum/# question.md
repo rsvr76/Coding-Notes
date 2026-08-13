@@ -1,11 +1,34 @@
-# Partition equal subset sum
+# Partition Equal Subset Sum
 
-**Difficulty**: Hard
+**LeetCode #416** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Partition equal subset sum`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer array `nums`, return `true` *if you can partition the array into two subsets such that the sum of the elements in both subsets is equal or *`false`* otherwise*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: nums = [1,5,11,5]
+Output: true
+Explanation: The array can be partitioned as [1, 5, 5] and [11].
+```
+
+### Example 2:
+
+```
+Input: nums = [1,2,3,5]
+Output: false
+Explanation: The array cannot be partitioned into equal sum subsets.
+```
+
+## Constraints
+
+- `1 <= nums.length <= 200`
+	- `1 <= nums[i] <= 100`
 
 ## Source
 
-[TakeUForward - Partition equal subset sum](https://takeuforward.org/plus/dsa/problems/partition-equal-subset-sum)
+[TakeUForward - Partition equal subset sum](https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/) | [LeetCode - Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)

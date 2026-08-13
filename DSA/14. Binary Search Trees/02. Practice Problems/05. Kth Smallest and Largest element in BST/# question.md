@@ -1,11 +1,33 @@
-# Kth Smallest and Largest element in BST
+# Kth Smallest Element in a BST
 
-**Difficulty**: Medium
+**LeetCode #230** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Kth Smallest and Largest element in BST`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given the `root` of a binary search tree, and an integer `k`, return *the* `k^th` *smallest value (**1-indexed**) of all the values of the nodes in the tree*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: root = [3,1,4,null,2], k = 1
+Output: 1
+```
+
+### Example 2:
+
+```
+Input: root = [5,3,6,2,4,null,null,1], k = 3
+Output: 3
+```
+
+## Constraints
+
+- The number of nodes in the tree is `n`.
+	- `1 <= k <= n <= 10^4`
+	- `0 <= Node.val <= 10^4`
 
 ## Source
 
-[TakeUForward - Kth Smallest and Largest element in BST](https://takeuforward.org/plus/dsa/problems/kth-smallest-and-largest-element-in-bst)
+[TakeUForward - Kth Smallest and Largest element in BST](https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/) | [LeetCode - Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)

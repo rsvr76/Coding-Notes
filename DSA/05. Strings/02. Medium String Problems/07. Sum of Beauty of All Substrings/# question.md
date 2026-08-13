@@ -1,11 +1,36 @@
 # Sum of Beauty of All Substrings
 
-**Difficulty**: Medium
+**LeetCode #1781** | **Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Sum of Beauty of All Substrings`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+The **beauty** of a string is the difference in frequencies between the most frequent and least frequent characters.
+
+- For example, the beauty of `"abaacc"` is `3 - 1 = 2`.
+Given a string `s`, return *the sum of **beauty** of all of its substrings.*
+
+## Examples
+
+### Example 1:
+
+```
+Input: s = "aabcb"
+Output: 5
+Explanation: The substrings with non-zero beauty are ["aab","aabc","aabcb","abcb","bcb"], each with beauty equal to 1.
+```
+
+### Example 2:
+
+```
+Input: s = "aabcbaa"
+Output: 17
+```
+
+## Constraints
+
+- `1 <= s.length <=^ 500`
+	- `s` consists of only lowercase English letters.
 
 ## Source
 
-[TakeUForward - Sum of Beauty of All Substrings](https://takeuforward.org/plus/dsa/problems/sum-of-beauty-of-all-substrings)
+[TakeUForward - Sum of Beauty of All Substrings](https://takeuforward.org/data-structure/sum-of-beauty-of-all-substring) | [LeetCode - Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)

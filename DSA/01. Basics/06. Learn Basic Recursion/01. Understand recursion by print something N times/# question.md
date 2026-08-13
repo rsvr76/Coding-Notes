@@ -1,11 +1,30 @@
-# Understand recursion by print something N times
+# Understand Recursion by Printing Something N Times
 
 **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Understand recursion by print something N times`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer `n`, print the message `"Coding Ninjas"` (or any given string) `n` times using **recursion**.
+
+Do not use loops (`for`, `while`).
+
+## Examples
+
+### Example 1:
+
+```
+Input: n = 4
+Output:
+Coding Ninjas
+Coding Ninjas
+Coding Ninjas
+Coding Ninjas
+```
+
+## Constraints
+
+- `1 <= n <= 1000`
 
 ## Source
 
-[TakeUForward - Understand recursion by print something N times](https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/)
+[TakeUForward - Print Something N Times Recursively](https://takeuforward.org/recursion/print-something-n-times-using-recursion/)

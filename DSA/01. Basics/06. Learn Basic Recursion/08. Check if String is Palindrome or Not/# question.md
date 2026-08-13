@@ -1,11 +1,45 @@
-# Check if String is Palindrome or Not
+# Valid Palindrome
 
-**Difficulty**: Easy
+**LeetCode #125** | **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Check if String is Palindrome or Not`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string `s`, return `true`* if it is a **palindrome**, or *`false`* otherwise*.
+
+## Examples
+
+### Example 1:
+
+```
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+```
+
+### Example 2:
+
+```
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+```
+
+### Example 3:
+
+```
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+```
+
+## Constraints
+
+- `1 <= s.length <= 2 * 10^5`
+	- `s` consists only of printable ASCII characters.
 
 ## Source
 
-[TakeUForward - Check if String is Palindrome or Not](https://takeuforward.org/plus/dsa/problems/check-if-string-is-palindrome-or-not-)
+[TakeUForward - Check if String is Palindrome or Not](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/) | [LeetCode - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)

@@ -1,11 +1,38 @@
-# Hard
+# Pattern Printing: Hard Logical Thinking Patterns
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Given `Hard`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an integer `n`, print a hollow diamond star pattern inside a square grid of size `2*n`.
+
+For `n = 3`, the output should be:
+```
+******
+**  **
+*    *
+*    *
+**  **
+******
+```
+
+## Examples
+
+### Example 1:
+
+```
+Input: n = 2
+Output:
+****
+*  *
+*  *
+****
+```
+
+## Constraints
+
+- `1 <= n <= 50`
 
 ## Source
 
-[TakeUForward - Hard](https://takeuforward.org/plus/dsa/problems/hard)
+[TakeUForward - Must Do Pattern Problems](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)

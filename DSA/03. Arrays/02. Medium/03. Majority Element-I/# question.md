@@ -1,11 +1,36 @@
-# Majority Element-I
+# Majority Element
 
-**Difficulty**: Easy
+**LeetCode #169** | **Difficulty**: Easy
 
 ## Problem Statement
 
-Given `Majority Element-I`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Given an array `nums` of size `n`, return *the majority element*.
+
+The majority element is the element that appears more than `⌊n / 2⌋` times. You may assume that the majority element always exists in the array.
+
+## Examples
+
+### Example 1:
+
+```
+Input: nums = [3,2,3]
+Output: 3
+```
+
+### Example 2:
+
+```
+Input: nums = [2,2,1,1,1,2,2]
+Output: 2
+```
+
+## Constraints
+
+- `n == nums.length`
+	- `1 <= n <= 5 * 10^4`
+	- `-10^9 <= nums[i] <= 10^9`
+	- The input is generated such that a majority element will exist in the array.
 
 ## Source
 
-[TakeUForward - Majority Element-I](https://takeuforward.org/plus/dsa/problems/majority-element-i)
+[TakeUForward - Majority Element-I](https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/) | [LeetCode - Majority Element](https://leetcode.com/problems/majority-element/)

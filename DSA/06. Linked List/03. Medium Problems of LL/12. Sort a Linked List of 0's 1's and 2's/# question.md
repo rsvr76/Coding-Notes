@@ -4,8 +4,24 @@
 
 ## Problem Statement
 
-Given `Sort a Linked List of 0's 1's and 2's`, implement the required algorithm/data structure as specified in Striver's A2Z DSA Sheet.
+Implement the core logic and algorithm for **Sort a Linked List of 0's 1's and 2's** as structured in Striver's A2Z DSA roadmap.
+
+Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+
+## Examples
+
+### Example 1:
+
+```
+Input: Refer to standard problem test cases.
+Output: Resulting output after applying the algorithm.
+Explanation: Process elements step-by-step according to the algorithm rules.
+```
+
+## Constraints
+
+- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
 
 ## Source
 
-[TakeUForward - Sort a Linked List of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-a-ll-of-0's-1's-and-2's)
+[Sort a Linked List of 0's 1's and 2's](https://takeuforward.org/data-structure/sort-a-linked-list-of-0s-1s-and-2s-by-changing-links)
