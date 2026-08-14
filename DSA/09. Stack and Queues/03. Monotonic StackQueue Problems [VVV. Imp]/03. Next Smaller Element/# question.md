@@ -4,24 +4,20 @@
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Next Smaller Element** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Given an array `arr` of $N$ integers, find the **Next Smaller Element** for each element in the array. The Next Smaller Element for an element $X$ is the first smaller element on the right side of $X$ in the array. If no smaller element exists on the right, output `-1`.
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: arr = [4, 8, 5, 2, 25]
+Output: [2, 5, 2, -1, -1]
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
-
+- `1 <= N <= 10^5`
+- `1 <= arr[i] <= 10^9`
 ## Source
 
 [Next Smaller Element](https://takeuforward.org/data-structure/next-smaller-element)

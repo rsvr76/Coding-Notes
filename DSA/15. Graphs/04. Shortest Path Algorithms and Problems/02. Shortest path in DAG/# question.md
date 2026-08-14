@@ -1,26 +1,23 @@
-# Shortest path in DAG
+# Shortest Path Algorithms and Problems
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Shortest path in DAG** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Given a Graph with $V$ vertices and $E$ edges, compute the solution for **Shortest Path Algorithms and Problems** using optimal graph search techniques.
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: V = 5, E = 4, adjacency list representation.
+Output: Graph traversal path / shortest distances array.
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
+- `1 <= V <= 10^4`
+- `0 <= E <= 10^5`
 
 ## Source
 

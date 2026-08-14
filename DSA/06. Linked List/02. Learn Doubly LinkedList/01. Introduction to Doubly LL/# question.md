@@ -1,26 +1,23 @@
-# Introduction to Doubly LL
+# Learn Doubly LinkedList
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Introduction to Doubly LL** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Perform the required Linked List operation for **Learn Doubly LinkedList**. Implement the standard pointer manipulations to complete the function.
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: head = [1, 2, 3, 4, 5]
+Output: Resulting linked list structure after operation.
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
+- `1 <= Number of nodes <= 10^5`
+- `-10^4 <= Node.val <= 10^4`
 
 ## Source
 

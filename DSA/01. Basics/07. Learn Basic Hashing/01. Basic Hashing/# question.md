@@ -1,26 +1,24 @@
-# Basic Hashing
+# Learn Basic Hashing
 
 **Difficulty**: Easy
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Basic Hashing** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Given an array of $N$ integers and $Q$ queries, for each query containing an integer $X$, find the frequency (count of occurrences) of $X$ in the array.
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: N = 5, arr = [1, 3, 2, 1, 3], Q = 3, queries = [1, 3, 4]
+Output: 2 2 0
+Explanation: 1 appears 2 times, 3 appears 2 times, 4 appears 0 times.
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
+- `1 <= N <= 10^5`
+- `1 <= arr[i], X <= 10^5`
 
 ## Source
 

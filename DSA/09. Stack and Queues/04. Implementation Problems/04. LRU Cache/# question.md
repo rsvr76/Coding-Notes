@@ -1,26 +1,22 @@
-# LRU Cache
+# Implementation Problems
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **LRU Cache** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Solve the algorithm problem **Implementation Problems** according to standard constraints and problem specifications.
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: Standard problem input.
+Output: Expected output.
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
+- `1 <= N <= 10^5`
 
 ## Source
 

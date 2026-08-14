@@ -1,26 +1,22 @@
-# Check if the i-th bit is Set or Not
+# Learn Bit Manipulation
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Check if the i-th bit is Set or Not** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Perform the specified bitwise manipulation logic for **Learn Bit Manipulation** using efficient bitwise operators (`&`, `|`, `^`, `~`, `<<`, `>>`).
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: Standard integer bit input.
+Output: Resulting bitwise calculation.
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
+- `0 <= N <= 10^9`
 
 ## Source
 

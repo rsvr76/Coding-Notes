@@ -4,24 +4,21 @@
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Number of Greater Elements to the Right** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Given an array `arr` of $N$ integers and $Q$ queries, for each query containing an index `i`, count the number of elements strictly greater than `arr[i]` present to the right of index `i` in the array.
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: arr = [3, 4, 2, 2, 5, 1, 6, 2], queries = [0, 3]
+Output: [5, 2]
+Explanation: For index 0 (val 3), greater elements on right are 4, 5, 6. For index 3 (val 2), greater elements on right are 5, 6.
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
-
+- `1 <= N <= 10^4`
+- `1 <= Q <= 10^4`
 ## Source
 
 [Number of Greater Elements to the Right](https://takeuforward.org/data-structure/number-of-nges-to-the-right)

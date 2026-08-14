@@ -1,26 +1,23 @@
-# Introduction to Trees
+# Traversals
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Introduction to Trees** as structured in Striver's A2Z DSA roadmap.
-
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Given the root of a Binary Tree / Binary Search Tree, perform the **Traversals** operation as specified.
 
 ## Examples
 
 ### Example 1:
-
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: root = [1, null, 2, 3]
+Output: Traversal / resulting tree node value list.
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
+- `0 <= Number of nodes <= 10^4`
+- `-10^4 <= Node.val <= 10^4`
 
 ## Source
 

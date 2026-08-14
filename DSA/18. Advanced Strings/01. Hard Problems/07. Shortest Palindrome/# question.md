@@ -1,27 +1,44 @@
 # Shortest Palindrome
 
-**Difficulty**: Medium
+**Difficulty**: Hard
 
 ## Problem Statement
 
-Implement the core logic and algorithm for **Shortest Palindrome** as structured in Striver's A2Z DSA roadmap.
+You are given a string `s`. You can convert `s` to a palindrome by adding characters **in front of it**.
 
-Given the standard problem input, process the data structures appropriately and return the required output according to the problem constraints.
+Return the **shortest palindrome** you can find by performing this transformation.
 
 ## Examples
 
 ### Example 1:
 
 ```
-Input: Refer to standard problem test cases.
-Output: Resulting output after applying the algorithm.
-Explanation: Process elements step-by-step according to the algorithm rules.
+Input: s = "aacecaaa"
+Output: "aaacecaaa"
+```
+
+### Example 2:
+
+```
+Input: s = "abcd"
+Output: "dcbabcd"
 ```
 
 ## Constraints
 
-- Standard constraints apply based on the target array/string/tree/graph bounds (`1 <= N <= 10^5`).
+- `0 <= s.length <= 5 * 10^4`
+- `s` consists of lowercase English letters only.
+
+## Approach
+
+Use the **KMP algorithm** (LPS array):
+1. Build `temp = s + "#" + reverse(s)`
+2. Compute LPS array for `temp`
+3. The last value of LPS = length of longest palindromic prefix of `s`
+4. Prepend `reverse(s[lps_last:])` to `s`
+
+**Time**: O(n) | **Space**: O(n)
 
 ## Source
 
-[Shortest Palindrome](https://takeuforward.org/plus/dsa/problems/shortest-palindrome)
+[Shortest Palindrome - LeetCode](https://leetcode.com/problems/shortest-palindrome/) | [TUF Reference](https://takeuforward.org/plus/dsa/problems/shortest-palindrome)
