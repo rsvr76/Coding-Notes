@@ -1,23 +1,23 @@
-# Learning
+# Introduction to Graph Types and Definitions
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Given number of vertices `V` and edges `E` of an undirected graph, calculate total degrees, max possible edges, and component properties.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: V = 5, E = 6
+Output: Total Degree = 12 (2 * E)
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= V <= 10^5`
 
 ## Source
 
-[Introduction to Graph](https://takeuforward.org/data-structure/graph-representation-in-java)
+[Introduction to Graph](https://takeuforward.org/graph/introduction-to-graph/)

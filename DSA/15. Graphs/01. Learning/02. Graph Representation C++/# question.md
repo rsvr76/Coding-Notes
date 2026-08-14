@@ -1,23 +1,23 @@
-# Learning
+# Graph Representation in C++
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Given number of vertices `V` and edge list, construct adjacency list and adjacency matrix representations of an undirected graph in C++.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: V = 3, edges = [[1, 2], [2, 3], [1, 3]]
+Output: Adjacency list constructed.
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= V <= 10^4`
 
 ## Source
 
-[Graph Representation C++](https://takeuforward.org/plus/dsa/problems/graph-representation-c++)
+[Graph Representation C++](https://takeuforward.org/graph/graph-representation-in-cpp/)

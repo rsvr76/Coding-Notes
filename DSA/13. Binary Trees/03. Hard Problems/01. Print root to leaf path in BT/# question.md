@@ -1,23 +1,23 @@
-# Hard Problems
+# Print Root to Leaf Paths in Binary Tree
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Hard Problems** according to standard constraints and problem specifications.
+Given the root of a Binary Tree, return all root-to-leaf paths as a list of strings/lists.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: root = [1, 2, 3, null, 5]
+Output: ["1->2->5", "1->3"]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= number of nodes <= 10^4`
 
 ## Source
 
-[Print root to leaf path in BT](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/)
+[Print root to leaf path in BT](https://takeuforward.org/data-structure/print-root-to-given-node-path-in-binary-tree/)

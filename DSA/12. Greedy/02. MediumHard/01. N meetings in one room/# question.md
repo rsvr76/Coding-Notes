@@ -1,17 +1,17 @@
-# MediumHard
+# N Meetings in One Room
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **MediumHard** according to standard constraints and problem specifications.
+There is one meeting room in a firm. Given start and end times of `N` meetings, find the maximum number of meetings that can be performed in the meeting room.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: start = [1, 3, 0, 5, 8, 5], end = [2, 4, 6, 7, 9, 9]
+Output: 4
 ```
 
 ## Constraints

@@ -1,23 +1,23 @@
-# Learning
+# Implement Min-Heap
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Implement a **Min-Heap** data structure supporting `insert()`, `extractMin()`, and `getMin()` in $O(\log N)$ time using array representation.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: insert(4), insert(2), insert(8), getMin()
+Output: getMin() returns 2
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= queries <= 10^5`
 
 ## Source
 
-[Implement Min Heap](https://takeuforward.org/plus/dsa/problems/implement-min-heap)
+[Implement Min Heap](https://takeuforward.org/data-structure/min-heap-implementation/)

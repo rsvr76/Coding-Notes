@@ -1,23 +1,25 @@
-# Hard Problems
+# Longest Substring with At Most K Distinct Characters
 
 **Difficulty**: Hard
 
 ## Problem Statement
 
-Solve the algorithm problem **Hard Problems** according to standard constraints and problem specifications.
+Given a string `s` and an integer `k`, return the length of the longest substring of `s` that contains at most `k` distinct characters.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: s = "eceba", k = 2
+Output: 3
+Explanation: Substring is "ece" of length 3.
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= s.length <= 5 * 10^4`
+- `0 <= k <= 50`
 
 ## Source
 
-[Longest Substring With At Most K Distinct Characters](https://takeuforward.org/data-structure/longest-substring-with-at-most-k-distinct-characters)
+[Longest Substring With At Most K Distinct Characters](https://takeuforward.org/data-structure/longest-substring-with-at-most-k-distinct-characters/)

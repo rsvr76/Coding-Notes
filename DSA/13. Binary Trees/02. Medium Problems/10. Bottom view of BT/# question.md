@@ -1,22 +1,22 @@
-# Medium Problems
+# Bottom View of Binary Tree
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Medium Problems** according to standard constraints and problem specifications.
+Given the root of a Binary Tree, print the nodes visible when the tree is viewed from the bottom, ordered from leftmost to rightmost horizontal distance.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: root = [20, 8, 22, 5, 3, 4, 25]
+Output: [5, 10, 4, 22, 25]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= number of nodes <= 10^5`
 
 ## Source
 

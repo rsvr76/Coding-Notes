@@ -1,23 +1,23 @@
-# MediumHard
+# LRU Page Replacement Algorithm
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **MediumHard** according to standard constraints and problem specifications.
+Given a memory capacity `C` (number of frames) and an array of page requests, count the total number of **Page Faults** using the LRU Page Replacement algorithm.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: pages = [7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2], C = 4
+Output: 6
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= C <= 1000`
 
 ## Source
 
-[Program for Least Recently Used (LRU) Page Replacement Algorithm](https://takeuforward.org/data-structure/program-for-least-recently-used-lru-page-replacement-algorithm)
+[Program for Least Recently Used (LRU) Page Replacement Algorithm](https://takeuforward.org/data-structure/program-for-least-recently-used-lru-page-replacement-algorithm/)

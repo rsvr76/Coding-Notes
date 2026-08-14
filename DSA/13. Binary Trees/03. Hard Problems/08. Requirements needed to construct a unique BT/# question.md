@@ -1,23 +1,24 @@
-# Hard Problems
+# Requirements to Construct a Unique Binary Tree
 
-**Difficulty**: Hard
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Hard Problems** according to standard constraints and problem specifications.
+Given two tree traversals (e.g. Inorder, Preorder, Postorder), determine if it is possible to construct a **unique** Binary Tree.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: traversal1 = "Inorder", traversal2 = "Preorder"
+Output: true
+Explanation: Inorder + Preorder OR Inorder + Postorder can uniquely construct a tree.
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `traversal ∈ {Inorder, Preorder, Postorder}`
 
 ## Source
 
-[Requirements needed to construct a unique BT](https://takeuforward.org/plus/dsa/problems/requirements-needed-to-construct-a-unique-bt)
+[Requirements needed to construct a unique BT](https://takeuforward.org/data-structure/requirements-needed-to-construct-a-unique-binary-tree/)

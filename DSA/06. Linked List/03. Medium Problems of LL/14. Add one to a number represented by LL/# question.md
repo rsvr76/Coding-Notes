@@ -1,22 +1,30 @@
-# Medium Problems of LL
+# Add 1 to a Number Represented as Linked List
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Medium Problems of LL** according to standard constraints and problem specifications.
+Given the head of a Singly Linked List representing a non-negative integer (most significant digit at the head), add 1 to the number and return the head of the modified list.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: head = [4, 5, 6]
+Output: [4, 5, 7]
+Explanation: 456 + 1 = 457.
+```
+
+### Example 2:
+```
+Input: head = [9, 9, 9]
+Output: [1, 0, 0, 0]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= number of nodes <= 10^4`
+- `0 <= Node.val <= 9`
 
 ## Source
 

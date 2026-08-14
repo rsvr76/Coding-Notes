@@ -1,17 +1,17 @@
-# Learning
+# Convert Min-Heap to Max-Heap
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Given an array representing a valid **Min-Heap**, convert it in-place to a valid **Max-Heap** in $O(N)$ time.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: arr = [3, 5, 9, 6, 8, 20]
+Output: [20, 8, 9, 6, 5, 3]
 ```
 
 ## Constraints
@@ -20,4 +20,4 @@ Output: Expected output.
 
 ## Source
 
-[Convert Min Heap to Max Heap](https://takeuforward.org/plus/dsa/problems/convert-min-heap-to-max-heap)
+[Convert Min Heap to Max Heap](https://takeuforward.org/data-structure/convert-min-heap-to-max-heap/)

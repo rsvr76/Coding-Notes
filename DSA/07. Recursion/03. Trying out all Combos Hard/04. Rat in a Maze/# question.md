@@ -1,22 +1,26 @@
-# Trying out all Combos Hard
+# Rat in a Maze Problem
 
 **Difficulty**: Hard
 
 ## Problem Statement
 
-Solve the algorithm problem **Trying out all Combos Hard** according to standard constraints and problem specifications.
+Consider a rat placed at `(0, 0)` in an `N x N` matrix. Find all possible paths that the rat can take to reach destination `(N-1, N-1)` moving in `'D'`, `'L'`, `'R'`, `'U'` directions through cells with value `1`.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: N = 4, matrix = 
+[[1, 0, 0, 0],
+ [1, 1, 0, 1],
+ [1, 1, 0, 0],
+ [0, 1, 1, 1]]
+Output: ["DDRDRR", "DRDDRR"]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `2 <= N <= 5`
 
 ## Source
 

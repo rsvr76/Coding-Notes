@@ -1,22 +1,22 @@
-# Medium Problems
+# Kth Smallest Element in an Array
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Medium Problems** according to standard constraints and problem specifications.
+Given an array `arr` and an integer `k`, find the `k-th` smallest element in the array using a Priority Queue / Heap.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: arr = [7, 10, 4, 3, 20, 15], k = 3
+Output: 7
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= k <= arr.length <= 10^5`
 
 ## Source
 

@@ -1,23 +1,23 @@
-# Hard Problems
+# Maximum Sum Combinations
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Hard Problems** according to standard constraints and problem specifications.
+Given two integer arrays `A` and `B` of size `N` each and an integer `K`, find `K` maximum possible sum combinations `A[i] + B[j]` in non-increasing order.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: A = [3, 2], B = [1, 4], K = 2
+Output: [7, 6]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= N, K <= 10^5`
 
 ## Source
 
-[Maximum Sum Combination](https://takeuforward.org/data-structure/maximum-sum-combination)
+[Maximum Sum Combination](https://takeuforward.org/data-structure/maximum-sum-combination/)

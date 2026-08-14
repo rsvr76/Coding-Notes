@@ -1,17 +1,17 @@
-# Learning
+# Check if Array Represents a Min-Heap
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Given an array `arr` of size `N`, return `true` if the array represents a valid **Min-Heap** (i.e. `arr[i] <= arr[2*i+1]` and `arr[i] <= arr[2*i+2]`), otherwise `false`.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: arr = [10, 15, 14, 25, 30]
+Output: true
 ```
 
 ## Constraints
@@ -20,4 +20,4 @@ Output: Expected output.
 
 ## Source
 
-[Check if an array represents a min heap](https://takeuforward.org/data-structure/check-if-an-array-represents-a-min-heap)
+[Check if an array represents a min heap](https://takeuforward.org/data-structure/check-if-an-array-represents-a-min-heap/)

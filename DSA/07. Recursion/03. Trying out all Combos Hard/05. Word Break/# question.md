@@ -1,23 +1,23 @@
-# Trying out all Combos Hard
+# Word Break Problem
 
 **Difficulty**: Hard
 
 ## Problem Statement
 
-Solve the algorithm problem **Trying out all Combos Hard** according to standard constraints and problem specifications.
+Given a string `s` and a dictionary of strings `wordDict`, return `true` if `s` can be segmented into a space-separated sequence of one or more dictionary words.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: s = "leetcode", wordDict = ["leet", "code"]
+Output: true
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= s.length <= 300`
 
 ## Source
 
-[Word Break](https://takeuforward.org/plus/dsa/problems/word-break)
+[Word Break](https://takeuforward.org/data-structure/word-break-problem-using-backtracking/)

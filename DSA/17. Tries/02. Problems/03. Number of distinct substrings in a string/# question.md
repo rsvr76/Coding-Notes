@@ -1,22 +1,23 @@
-# Problems
+# Number of Distinct Substrings in a String Using Trie
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Problems** according to standard constraints and problem specifications.
+Given a string `s`, count the total number of **distinct non-empty substrings** of `s` using a Trie data structure.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: s = "abab"
+Output: 7
+Explanation: Distinct substrings: "a", "b", "ab", "ba", "aba", "bab", "abab".
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= s.length <= 1000`
 
 ## Source
 

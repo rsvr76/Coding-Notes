@@ -1,22 +1,23 @@
-# Medium Problems of DLL
+# Remove Duplicates from Sorted Doubly Linked List
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Medium Problems of DLL** according to standard constraints and problem specifications.
+Given the head of a sorted Doubly Linked List, remove all duplicate nodes such that each element appears only once.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: head = [1, 1, 1, 2, 3, 4, 4]
+Output: [1, 2, 3, 4]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= number of nodes <= 10^5`
+- `-10^5 <= Node.val <= 10^5`
 
 ## Source
 

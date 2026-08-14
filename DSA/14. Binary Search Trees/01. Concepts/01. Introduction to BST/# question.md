@@ -1,23 +1,23 @@
-# Concepts
+# Introduction to Binary Search Trees
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Concepts** according to standard constraints and problem specifications.
+Given an array of values, check if a given tree structure satisfies Binary Search Tree properties: for every node `X`, left subtree values `< X.val` and right subtree values `> X.val`.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: root = [2, 1, 3]
+Output: true
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= number of nodes <= 10^5`
 
 ## Source
 
-[Introduction to BST](https://takeuforward.org/binary-search-tree/introduction-to-binary-search-trees/)
+[Introduction to BST](https://takeuforward.org/data-structure/introduction-to-binary-search-tree/)

@@ -1,23 +1,23 @@
-# Topo Sort and Problems
+# Topological Sort / Kahn's Algorithm
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Topo Sort and Problems** according to standard constraints and problem specifications.
+Given a Directed Acyclic Graph (DAG) with `V` vertices, return a valid **Topological Sort** ordering using Kahn's BFS-based algorithm.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: V = 6, edges = [[5, 2], [5, 0], [4, 0], [4, 1], [2, 3], [3, 1]]
+Output: [5, 4, 2, 3, 1, 0]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= V <= 10^4`
 
 ## Source
 
-[Topological sort or Kahn's algorithm](https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/)
+[Topological sort or Kahn's algorithm](https://takeuforward.org/data-structure/topological-sort-bfs-kahns-algorithm/)

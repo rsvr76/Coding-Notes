@@ -1,23 +1,23 @@
-# Learning
+# BFS Traversal of Graph
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Given a connected undirected graph with `V` vertices starting from vertex 0, return a list containing the **Breadth First Search (BFS)** traversal.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: V = 5, adj = [[1, 2, 3], [0], [0, 4], [0], [2]]
+Output: [0, 1, 2, 3, 4]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= V <= 10^4`
 
 ## Source
 
-[Traversal Techniques](https://takeuforward.org/data-structure/depth-first-search-dfs/)
+[Traversal Techniques](https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/)

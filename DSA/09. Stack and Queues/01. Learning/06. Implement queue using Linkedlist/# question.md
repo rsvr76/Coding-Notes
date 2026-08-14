@@ -1,22 +1,22 @@
-# Learning
+# Implement Queue Using Linked List
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Implement a Queue using a Singly Linked List with `head` and `tail` pointers supporting `enqueue()` and `dequeue()` in $O(1)$ time.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: enqueue(10), enqueue(20), dequeue()
+Output: dequeue() returns 10
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= operations <= 10^5`
 
 ## Source
 

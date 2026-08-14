@@ -1,22 +1,22 @@
-# Other Algorithms
+# Articulation Points in Graph (Tarjan's Algorithm)
 
-**Difficulty**: Medium
+**Difficulty**: Hard
 
 ## Problem Statement
 
-Solve the algorithm problem **Other Algorithms** according to standard constraints and problem specifications.
+Given an undirected connected graph with `V` vertices, find all **Articulation Points** (cut vertices whose removal increases the number of connected components).
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: V = 5, edges = [[0, 1], [1, 4], [2, 4], [2, 3], [3, 4]]
+Output: [1, 4]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= V <= 10^4`
 
 ## Source
 

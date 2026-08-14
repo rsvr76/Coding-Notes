@@ -1,17 +1,17 @@
-# Medium Problems
+# Replace Elements of Array by Their Rank
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Medium Problems** according to standard constraints and problem specifications.
+Given an array of `N` integers, replace each element with its rank in sorted order (smallest element rank 1). Equal elements get equal rank.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: arr = [20, 15, 26, 2, 98, 6]
+Output: [4, 3, 5, 1, 6, 2]
 ```
 
 ## Constraints

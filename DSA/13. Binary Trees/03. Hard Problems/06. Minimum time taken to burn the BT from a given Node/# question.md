@@ -1,23 +1,23 @@
-# Hard Problems
+# Minimum Time to Burn Binary Tree
 
 **Difficulty**: Hard
 
 ## Problem Statement
 
-Solve the algorithm problem **Hard Problems** according to standard constraints and problem specifications.
+Given the root of a Binary Tree and a target node value, find the minimum time taken to burn the entire binary tree if fire spreads to parent, left child, and right child in 1 unit of time.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: root = [1, 2, 3, 4, 5, null, 6, 7, null, null, null, null, 8], target = 2
+Output: 7
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= number of nodes <= 10^5`
 
 ## Source
 
-[Minimum time taken to burn the BT from a given Node](https://takeuforward.org/data-structure/minimum-time-taken-to-burn-the-binary-tree-from-a-node)
+[Minimum time taken to burn the BT from a given Node](https://takeuforward.org/data-structure/minimum-time-taken-to-burn-the-binary-tree-from-a-node/)

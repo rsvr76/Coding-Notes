@@ -1,17 +1,17 @@
-# Learning
+# Implement Queue Using Arrays
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Design a Queue data structure using an array of fixed size `N` supporting `push()`, `pop()`, `front()`, `isEmpty()`, and `isFull()` operations.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: push(5), push(10), pop(), front()
+Output: pop() returns 5, front() returns 10
 ```
 
 ## Constraints

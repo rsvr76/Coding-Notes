@@ -1,23 +1,23 @@
-# Advanced Maths
+# Print All Prime Factors of a Number
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Advanced Maths** according to standard constraints and problem specifications.
+Given an integer `N`, find and print all its prime factors in ascending order.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: N = 60
+Output: [2, 3, 5]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `2 <= N <= 10^9`
 
 ## Source
 
-[Print Prime Factors of a Number](https://takeuforward.org/data-structure/find-the-two-numbers-appearing-odd-number-of-times)
+[Print Prime Factors of a Number](https://takeuforward.org/data-structure/prime-factorisation-of-a-number/)

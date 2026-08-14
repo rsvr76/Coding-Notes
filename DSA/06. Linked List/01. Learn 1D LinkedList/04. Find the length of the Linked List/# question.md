@@ -1,22 +1,28 @@
-# Learn 1D LinkedList
+# Find the Length of Linked List
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learn 1D LinkedList** according to standard constraints and problem specifications.
+Given the head of a Singly Linked List, return the number of nodes present in the linked list.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: head = [1, 2, 3, 4, 5]
+Output: 5
+```
+
+### Example 2:
+```
+Input: head = []
+Output: 0
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `0 <= number of nodes <= 10^5`
 
 ## Source
 

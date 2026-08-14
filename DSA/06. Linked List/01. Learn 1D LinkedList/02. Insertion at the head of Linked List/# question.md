@@ -1,22 +1,23 @@
-# Learn 1D LinkedList
+# Insert at the Head of Linked List
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learn 1D LinkedList** according to standard constraints and problem specifications.
+Given the head of a Singly Linked List and a value `val`, insert a new node with data `val` at the beginning (head) of the linked list and return the new head.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: head = [1, 2, 3, 4, 5], val = 0
+Output: [0, 1, 2, 3, 4, 5]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `0 <= number of nodes <= 10^4`
+- `-10^5 <= Node.val <= 10^5`
 
 ## Source
 

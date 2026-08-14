@@ -1,22 +1,22 @@
-# Learning
+# Implement Stack Using Linked List
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Implement a Stack using a Singly Linked List supporting `push()`, `pop()`, `top()`, and `isEmpty()` operations in $O(1)$ time.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: push(10), push(20), top(), pop()
+Output: top() returns 20, pop() returns 20
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= operations <= 10^5`
 
 ## Source
 

@@ -1,17 +1,17 @@
-# MediumHard
+# Shortest Job First (SJF) CPU Scheduling
 
-**Difficulty**: Hard
+**Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **MediumHard** according to standard constraints and problem specifications.
+Given an array of execution times of `N` processes, find the average waiting time for all processes using **Shortest Job First (SJF)** non-preemptive scheduling.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: bt = [4, 3, 7, 1, 2]
+Output: 4
 ```
 
 ## Constraints
@@ -20,4 +20,4 @@ Output: Expected output.
 
 ## Source
 
-[Shortest Job First](https://takeuforward.org/Greedy/shortest-job-first-or-sjf-cpu-scheduling)
+[Shortest Job First](https://takeuforward.org/data-structure/shortest-job-first-or-sjf-cpu-scheduling/)

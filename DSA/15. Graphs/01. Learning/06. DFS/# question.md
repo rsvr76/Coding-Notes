@@ -1,23 +1,23 @@
-# Learning
+# DFS Traversal of Graph
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Given a connected undirected graph with `V` vertices starting from vertex 0, return a list containing the **Depth First Search (DFS)** traversal.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: V = 5, adj = [[1, 2], [0, 3, 4], [0], [1], [1]]
+Output: [0, 1, 3, 4, 2]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= V <= 10^4`
 
 ## Source
 
-[DFS](https://takeuforward.org/data-structure/depth-first-search-dfs/)
+[DFS](https://takeuforward.org/graph/depth-first-search-dfs/)

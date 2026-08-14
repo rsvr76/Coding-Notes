@@ -1,22 +1,22 @@
-# Topo Sort and Problems
+# Alien Dictionary
 
-**Difficulty**: Medium
+**Difficulty**: Hard
 
 ## Problem Statement
 
-Solve the algorithm problem **Topo Sort and Problems** according to standard constraints and problem specifications.
+Given a sorted dictionary of an alien language containing `N` words of length `K`, find the order of characters in the alien alphabet.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: N = 5, K = 4, words = ["baa", "abcd", "abca", "cab", "cad"]
+Output: "b d a c"
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= N, K <= 10^4`
 
 ## Source
 

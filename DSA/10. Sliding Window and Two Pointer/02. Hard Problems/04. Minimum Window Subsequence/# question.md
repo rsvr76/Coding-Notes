@@ -1,23 +1,23 @@
-# Hard Problems
+# Minimum Window Subsequence
 
 **Difficulty**: Hard
 
 ## Problem Statement
 
-Solve the algorithm problem **Hard Problems** according to standard constraints and problem specifications.
+Given strings `s1` and `s2`, return the minimum contiguous substring `W` of `s1` such that `s2` is a **subsequence** of `W`. If no such window exists, return `""`.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: s1 = "abcdebdde", s2 = "bde"
+Output: "bcde"
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= s1.length, s2.length <= 2000`
 
 ## Source
 
-[Minimum Window Subsequence](https://takeuforward.org/plus/dsa/problems/minimum-window-subsequence)
+[Minimum Window Subsequence](https://takeuforward.org/data-structure/minimum-window-subsequence/)

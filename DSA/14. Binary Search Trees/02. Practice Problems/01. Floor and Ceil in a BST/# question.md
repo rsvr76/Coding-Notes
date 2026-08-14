@@ -1,23 +1,23 @@
-# Practice Problems
+# Floor and Ceil in a Binary Search Tree
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Practice Problems** according to standard constraints and problem specifications.
+Given a BST root and a key `X`, find the **Floor** (greatest value `<= X`) and **Ceil** (smallest value `>= X`) of `X` in the BST.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: root = [10, 5, 15, 2, 8, 12, 17], key = 7
+Output: Floor = 5, Ceil = 8
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= number of nodes <= 10^5`
 
 ## Source
 
-[Floor and Ceil in a BST](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst)
+[Floor and Ceil in a BST](https://takeuforward.org/data-structure/floor-in-a-binary-search-tree-bst/)

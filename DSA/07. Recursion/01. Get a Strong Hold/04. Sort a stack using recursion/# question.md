@@ -1,22 +1,22 @@
-# Get a Strong Hold
+# Sort a Stack Using Recursion
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Get a Strong Hold** according to standard constraints and problem specifications.
+Given a stack of integers, sort the elements in ascending order (smallest at the bottom, largest at the top) using **recursion** only. Do not use loops.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: stack = [3, 2, 1, 5, 4]
+Output: [1, 2, 3, 4, 5] (top is 5)
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= stack.size <= 1000`
 
 ## Source
 

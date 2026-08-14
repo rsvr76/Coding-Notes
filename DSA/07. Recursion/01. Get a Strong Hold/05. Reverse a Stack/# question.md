@@ -1,23 +1,23 @@
-# Get a Strong Hold
+# Reverse a Stack Using Recursion
 
 **Difficulty**: Medium
 
 ## Problem Statement
 
-Solve the algorithm problem **Get a Strong Hold** according to standard constraints and problem specifications.
+Given a stack of integers, reverse the order of elements in the stack using **recursion** without using extra loop structures or auxiliary data structures.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: stack = [3, 2, 1, 7, 6]
+Output: [6, 7, 1, 2, 3]
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= stack.size <= 1000`
 
 ## Source
 
-[Reverse a Stack](https://takeuforward.org/data-structure/reverse-a-stack-using-recursion)
+[Reverse a Stack](https://takeuforward.org/data-structure/reverse-a-stack-using-recursion/)

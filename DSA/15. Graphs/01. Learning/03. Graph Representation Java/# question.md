@@ -1,23 +1,23 @@
-# Learning
+# Graph Representation in Java
 
-**Difficulty**: Medium
+**Difficulty**: Easy
 
 ## Problem Statement
 
-Solve the algorithm problem **Learning** according to standard constraints and problem specifications.
+Given number of vertices `V` and edge list, construct adjacency list and matrix representations in Java using `ArrayList<ArrayList<Integer>>`.
 
 ## Examples
 
 ### Example 1:
 ```
-Input: Standard problem input.
-Output: Expected output.
+Input: V = 3, edges = [[1, 2], [2, 3]]
+Output: Java adjacency list created.
 ```
 
 ## Constraints
 
-- `1 <= N <= 10^5`
+- `1 <= V <= 10^4`
 
 ## Source
 
-[Graph Representation Java](https://takeuforward.org/plus/dsa/problems/graph-representation-java)
+[Graph Representation Java](https://takeuforward.org/graph/graph-representation-in-java/)
