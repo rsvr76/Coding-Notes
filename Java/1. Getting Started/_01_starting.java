@@ -1,4 +1,4 @@
-public class Main{
+public class _01_starting{
     public static void main(String [] args){
         System.out.print("Hello Ram!"); 
         System.out.print("Hello Vishnu!"); 

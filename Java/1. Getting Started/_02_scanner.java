@@ -1,5 +1,5 @@
 import java.util.Scanner; // to use Scanner function - to recieve i/p from the user
-public class scanner {
+public class _02_scanner {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in); // creating a scanner object with Scanner class with reference variable sc
 

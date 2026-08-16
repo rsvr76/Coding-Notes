@@ -11,7 +11,7 @@ boolean
 
 */
 
-public class Variables{
+public class _03_variables{
     public static void main(String [] args){
         int age = 5; 
         double year = -20.56; // int with decimals
